@@ -1,5 +1,5 @@
 """
-YouTube Long-Form Video Automation - Bilingual English/Danish Content Generator
+YouTube Long-Form Video Automation - Bilingual English/Finnish Content Generator
 GENERATES 10-MINUTE VIDEOS with improved backgrounds for YouTube
 """
 
@@ -48,38 +48,38 @@ CATEGORIES_ENGLISH = [
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# Danish translations
-CATEGORIES_DANISH = {
-    "Motivation": "Motivation",
-    "Love": "Kærlighed",
-    "Success": "Succes",
-    "Wisdom": "Visdom",
-    "Happiness": "Lykke",
-    "Self Improvement": "Selvudvikling",
-    "Gratitude": "Taknemmelighed",
-    "Friendship": "Venskab",
-    "Hope": "Håb",
-    "Creativity": "Kreativitet",
-    "Inner Peace": "Indre Fred",
-    "Confidence": "Selvtillid",
-    "Perseverance": "Udholdenhed",
-    "Inspiration": "Inspiration",
-    "Positive Life": "Positivt Liv",
-    "Courage": "Mod",
-    "Kindness": "Venlighed",
-    "Patience": "Tålmodighed",
-    "Forgiveness": "Tilgivelse",
-    "Strength": "Styrke",
-    "Joy": "Glæde",
-    "Balance": "Balance",
-    "Growth": "Vækst",
-    "Purpose": "Formål",
-    "Mindfulness": "Opmærksomhed",
+# Finnish translations
+CATEGORIES_FINNISH = {
+    "Motivation": "Motivaatio",
+    "Love": "Rakkaus",
+    "Success": "Menestys",
+    "Wisdom": "Viisaus",
+    "Happiness": "Onnellisuus",
+    "Self Improvement": "Itsensä Kehittäminen",
+    "Gratitude": "Kiitollisuus",
+    "Friendship": "Ystävyys",
+    "Hope": "Toivo",
+    "Creativity": "Luovuus",
+    "Inner Peace": "Sisäinen Rauha",
+    "Confidence": "Itseluottamus",
+    "Perseverance": "Sinnikkyys",
+    "Inspiration": "Inspiraatio",
+    "Positive Life": "Positiivinen Elämä",
+    "Courage": "Rohkeus",
+    "Kindness": "Ystävällisyys",
+    "Patience": "Kärsivällisyys",
+    "Forgiveness": "Anteeksianto",
+    "Strength": "Voima",
+    "Joy": "Ilo",
+    "Balance": "Tasapaino",
+    "Growth": "Kasvu",
+    "Purpose": "Tarkoitus",
+    "Mindfulness": "Tietoinen Läsnäolo",
 }
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-LANG_VOICE = "da-DK-ChristelNeural"
+LANG_VOICE = "fi-FI-SelmaNeural"
 
 # Phrase history file
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -167,7 +167,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "danish": phrase["danish"],
+            "finnish": phrase["finnish"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -184,7 +184,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 
 
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    category_danish = CATEGORIES_DANISH[category_english]
+    category_finnish = CATEGORIES_FINNISH[category_english]
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
     viral_style = random.choice(VIRAL_STYLES)
@@ -210,24 +210,24 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
                     recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
                     exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
 
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Danish.
+                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Finnish.
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
-CRITICAL RULE - ABSOLUTELY ZERO Danish IN ENGLISH FIELD:
-The "english" field must contain ONLY English words. NO Danish words at all.
-The "danish" field contains the Danish translation.
-The "pronunciation" field is phonetic English spelling approximating Danish sounds.
+CRITICAL RULE - ABSOLUTELY ZERO Finnish IN ENGLISH FIELD:
+The "english" field must contain ONLY English words. NO Finnish words at all.
+The "finnish" field contains the Finnish translation.
+The "pronunciation" field is phonetic English spelling approximating Finnish sounds.
 
 These are INSPIRATIONAL PHRASES about the topic, NOT language-learning tips.
 
-WRONG (teaching tip with Danish words): {{"english": "Don't say 'ha' det godt,' it means more than 'goodbye.'", ...}}
-WRONG (Danish word in english): {{"english": "Use 'tak' for thank you", ...}}
-WRONG (lesson tip): {{"english": "Say 'v\u00e6r s\u00e5 venlig' for please", ...}}
-CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "danish": "Kundskab er n\u00f8glen til visdom", "pronunciation": "kund-skab er n\u00f8g-len til vis-dom"}}
-CORRECT: {{"english": "A wise person listens more than they speak.", "danish": "En vis person lytter mere end de taler", "pronunciation": "en vis per-son lyt-ter me-re end de ta-ler"}}
+WRONG (teaching tip with Finnish words): {{"english": "Don't say 'kiitos,' it's not just 'please.'", ...}}
+WRONG (Finnish word in english): {{"english": "Use 'hei' for hello", ...}}
+WRONG (lesson tip): {{"english": "Say 'ole hyv\u00e4' for you're welcome", ...}}
+CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "finnish": "Tieto on avain viisauteen", "pronunciation": "tie-to on a-vain vii-sau-teen"}}
+CORRECT: {{"english": "A wise person listens more than they speak.", "finnish": "Viisas ihminen kuuntelee enemm\u00e4n kuin puhuu", "pronunciation": "vii-sas ih-mi-nen kuun-te-lee e-nem-m\u00e4n kuin pu-huu"}}
 
-The english field MUST be 100% English words only. Absolutely NO Danish words in the english field.
+The english field MUST be 100% English words only. Absolutely NO Finnish words in the english field.
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -240,19 +240,19 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 8. Vary sentence structure for natural flow
 
 For each phrase:
-1. English phrase (pure English, zero Danish words) with commas for natural pauses
-2. Danish translation
+1. English phrase (pure English, zero Finnish words) with commas for natural pauses
+2. Finnish translation
 3. Pronunciation guide (phonetic English spelling)
 
 Return as JSON array:
-[{{"english": "...", "danish": "...", "pronunciation": "..."}}]
+[{{"english": "...", "finnish": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You create INSPIRATIONAL PHRASES for YouTube language learning videos. CRITICAL: The 'english' field must be PURE ENGLISH with ZERO Danish words - no Danish words at all. These are universal inspirational phrases, NOT language learning tips. Danish goes ONLY in the 'danish' field."},
+                        {"role": "system", "content": "You create INSPIRATIONAL PHRASES for YouTube language learning videos. CRITICAL: The 'english' field must be PURE ENGLISH with ZERO Finnish words - no Finnish words at all. These are universal inspirational phrases, NOT language learning tips. Finnish goes ONLY in the 'finnish' field."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
@@ -298,140 +298,140 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "danish": "Tro p\u00e5 dig selv.", "pronunciation": "tro p\u00e5 dij selv"},
-            {"english": "You are capable of amazing things.", "danish": "Du er i stand til fantastiske ting.", "pronunciation": "du er i stan til fan-tas-tis-ke ting"},
-            {"english": "Dream big, start small.", "danish": "Dr\u00f8m stort, start sm\u00e5t.", "pronunciation": "dr\u00f8m stort, start sm\u00e5t"},
-            {"english": "Your future is created by your actions.", "danish": "Fremtiden din skabes af dine handlinger.", "pronunciation": "frem-ti-den din ska-bes af di-ne hand-ling-er"},
-            {"english": "Never give up on your dreams.", "danish": "Giv aldrig op p\u00e5 dr\u00f8mmene dine.", "pronunciation": "giv al-drig op p\u00e5 dr\u00f8m-me-ne di-ne"},
-            {"english": "Small steps lead to big changes.", "danish": "Sm\u00e5 skridt f\u00f8rer til store \u00e6ndringer.", "pronunciation": "sm\u00e5 skrid f\u00f8-rer til sto-re \u00e6nd-ring-er"},
-            {"english": "You are stronger than you think.", "danish": "Du er st\u00e6rkere end du tror.", "pronunciation": "du er st\u00e6r-ke-re en du tror"},
+            {"english": "Believe in yourself.", "finnish": "Usko itseesi.", "pronunciation": "us-ko it-see-si"},
+            {"english": "You are capable of amazing things.", "finnish": "Pystyt upeisiin asioihin.", "pronunciation": "pys-tyt u-pei-siin a-si-oi-hin"},
+            {"english": "Dream big, start small.", "finnish": "Unelmoi isosti, aloita pienesti.", "pronunciation": "un-el-moi i-sos-ti a-loi-ta pie-nes-ti"},
+            {"english": "Your future is created by your actions.", "finnish": "Tulevaisuutesi luodaan teoillasi.", "pronunciation": "tu-le-vai-suu-te-si luo-daan te-oil-la-si"},
+            {"english": "Never give up on your dreams.", "finnish": "\u00c4l\u00e4 koskaan luovuta unelmistasi.", "pronunciation": "a-la kos-kaan luo-vu-ta un-el-mis-ta-si"},
+            {"english": "Small steps lead to big changes.", "finnish": "Pienet askeleet johtavat suuriin muutoksiin.", "pronunciation": "pie-net as-ke-leet joh-ta-vat suu-riin muu-tok-siin"},
+            {"english": "You are stronger than you think.", "finnish": "Olet vahvempi kuin luulet.", "pronunciation": "o-let vah-vem-pi kuin luu-let"},
         ],
         "Love": [
-            {"english": "Love yourself first.", "danish": "Elsk dig selv f\u00f8rst.", "pronunciation": "elsk dij selv f\u00f8rst"},
-            {"english": "Love makes everything possible.", "danish": "K\u00e6rlighed g\u00f8r alt muligt.", "pronunciation": "k\u00e6r-lig-hed g\u00f8r alt mu-ligt"},
-            {"english": "My heart beats for you.", "danish": "Mit hjerte sl\u00e5r for dig.", "pronunciation": "mit hjer-te sl\u00e5r for dij"},
-            {"english": "You are my everything.", "danish": "Du er alt for mig.", "pronunciation": "du er alt for mej"},
-            {"english": "Together forever, hand in hand.", "danish": "Sammen for altid, h\u00e5nd i h\u00e5nd.", "pronunciation": "sam-men for al-tid, h\u00e5nd i h\u00e5nd"},
+            {"english": "Love yourself first.", "finnish": "Rakasta itse\u00e4si ensin.", "pronunciation": "ra-kas-ta it-se-a-si en-sin"},
+            {"english": "Love makes everything possible.", "finnish": "Rakkaus tekee kaiken mahdolliseksi.", "pronunciation": "rak-kaus te-ke kai-ken mah-dol-li-sek-si"},
+            {"english": "My heart beats for you.", "finnish": "Syd\u00e4meni sykkii sinulle.", "pronunciation": "sy-da-me-ni syk-kii si-nul-le"},
+            {"english": "You are my everything.", "finnish": "Olet kaikkeni.", "pronunciation": "o-let kaik-ke-ni"},
+            {"english": "Together forever, hand in hand.", "finnish": "Yhdess\u00e4 ikuisesti, k\u00e4si k\u00e4dess\u00e4.", "pronunciation": "yh-des-sa i-kui-ses-ti, ka-si ka-des-sa"},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "danish": "Succes kommer fra h\u00e5rdt arbejde.", "pronunciation": "suk-ses kom-mer fr\u00e5 h\u00e5rdt ar-bej-de"},
-            {"english": "Keep going, you're getting there.", "danish": "Forts\u00e6t, du n\u00e6rmer dig.", "pronunciation": "for-ts\u00e6t, du n\u00e6r-mer dij"},
-            {"english": "Winners never quit.", "danish": "Vindere giver aldrig op.", "pronunciation": "vin-de-re gi-ver al-drig op"},
-            {"english": "Your effort will pay off.", "danish": "Din indsats vil l\u00f8nne sig.", "pronunciation": "din ind-sats vil l\u00f8n-ne sej"},
+            {"english": "Success comes from hard work.", "finnish": "Menestys tulee kovasta ty\u00f6st\u00e4.", "pronunciation": "me-nes-tys tu-lee ko-vas-ta ty-os-ta"},
+            {"english": "Keep going, you're getting there.", "finnish": "Jatka vain, olet l\u00e4hell\u00e4.", "pronunciation": "jat-ka vain, o-let la-hel-la"},
+            {"english": "Winners never quit.", "finnish": "Voittajat eiv\u00e4t koskaan luovuta.", "pronunciation": "voit-ta-jat ei-vat kos-kaan luo-vu-ta"},
+            {"english": "Your effort will pay off.", "finnish": "Vaivann\u00e4k\u00f6si kannattaa.", "pronunciation": "vai-van-na-kos-si kan-nat-taa"},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "danish": "Kundskab er magt.", "pronunciation": "kund-skab er magt"},
-            {"english": "Learn from yesterday, live for today.", "danish": "L\u00e6r fra i g\u00e5r, lev for i dag.", "pronunciation": "l\u00e6r fra i g\u00e5r, lev for i dag"},
-            {"english": "Think before you act.", "danish": "T\u00e6nk f\u00f8r du handler.", "pronunciation": "t\u00e6nk f\u00f8r du hand-ler"},
-            {"english": "Experience is the best teacher.", "danish": "Erfaring er den bedste l\u00e6rer.", "pronunciation": "er-fa-ring er den bed-ste l\u00e6-rer"},
+            {"english": "Knowledge is power.", "finnish": "Tieto on valtaa.", "pronunciation": "tie-to on val-taa"},
+            {"english": "Learn from yesterday, live for today.", "finnish": "Opi eilisest\u00e4, el\u00e4 t\u00e4n\u00e4\u00e4n.", "pronunciation": "o-pi ei-li-ses-ta, e-la ta-naan"},
+            {"english": "Think before you act.", "finnish": "Ajattele ennen kuin toimit.", "pronunciation": "a-jat-te-le en-nen kuin toi-mit"},
+            {"english": "Experience is the best teacher.", "finnish": "Kokemus on paras opettaja.", "pronunciation": "ko-ke-mus on pa-ras o-pet-ta-ja"},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "danish": "Lykke er et valg.", "pronunciation": "lyk-ke er et valg"},
-            {"english": "Find joy in the little things.", "danish": "Find gl\u00e6de i de sm\u00e5 ting.", "pronunciation": "find gle-de i de sm\u00e5 ting"},
-            {"english": "Smile, it makes others happy.", "danish": "Smil, det g\u00f8r andre glade.", "pronunciation": "smil, det g\u00f8r an-dre gla-de"},
-            {"english": "Today is a gift.", "danish": "I dag er en gave.", "pronunciation": "i dag er en ga-ve"},
+            {"english": "Happiness is a choice.", "finnish": "Onnellisuus on valinta.", "pronunciation": "on-ne-li-suus on va-lin-ta"},
+            {"english": "Find joy in the little things.", "finnish": "L\u00f6yd\u00e4 ilo pienist\u00e4 asioista.", "pronunciation": "loy-da i-lo pie-nis-ta a-siois-ta"},
+            {"english": "Smile, it makes others happy.", "finnish": "Hymyile, se tekee muut onnellisiksi.", "pronunciation": "hy-my-i-le, se te-kee muut on-ne-li-sik-si"},
+            {"english": "Today is a gift.", "finnish": "T\u00e4n\u00e4\u00e4n on lahja.", "pronunciation": "ta-naan on lah-ja"},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "danish": "V\u00e6r bedre end i g\u00e5r.", "pronunciation": "v\u00e6r bed-re en i g\u00e5r"},
-            {"english": "Grow through what you go through.", "danish": "Voks gennem det du g\u00e5r gennem.", "pronunciation": "voks gen-nem det du g\u00e5r gen-nem"},
-            {"english": "Invest in yourself daily.", "danish": "Invest\u00e9r i dig selv dagligt.", "pronunciation": "in-ves-t\u00e9r i dij selv dag-ligt"},
+            {"english": "Be better than yesterday.", "finnish": "Ole parempi kuin eilen.", "pronunciation": "o-le pa-rem-pi kuin ei-len"},
+            {"english": "Grow through what you go through.", "finnish": "Kasva l\u00e4pik\u00e4ymiesi kokemusten kautta.", "pronunciation": "kas-va la-pi-kay-mi-e-si ko-ke-mus-ten kaut-ta"},
+            {"english": "Invest in yourself daily.", "finnish": "Sijoita itseesi p\u00e4ivitt\u00e4in.", "pronunciation": "si-joi-ta it-see-si pai-vit-tain"},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "danish": "Tak for alt.", "pronunciation": "tak for alt"},
-            {"english": "I appreciate your help.", "danish": "Jeg s\u00e6tter pris p\u00e5 din hj\u00e6lp.", "pronunciation": "jeg set-ter pris p\u00e5 din hj\u00e6lp"},
-            {"english": "Grateful for this moment.", "danish": "Taknemmelig for dette \u00f8jeblik.", "pronunciation": "tak-nem-me-lig for det-te \u00f8je-blik"},
+            {"english": "Thank you for everything.", "finnish": "Kiitos kaikesta.", "pronunciation": "kii-tos kai-kes-ta"},
+            {"english": "I appreciate your help.", "finnish": "Arvostan apuasi.", "pronunciation": "ar-vos-tan a-pu-a-si"},
+            {"english": "Grateful for this moment.", "finnish": "Kiitollinen t\u00e4st\u00e4 hetkest\u00e4.", "pronunciation": "kii-tol-li-nen tas-ta het-kes-ta"},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "danish": "Venner for altid, uanset hvad.", "pronunciation": "ven-ner for al-tid, uan-set hvad"},
-            {"english": "You are my best friend.", "danish": "Du er min bedste ven.", "pronunciation": "du er min bed-ste ven"},
-            {"english": "True friends stick together.", "danish": "\u00c6gte venner holder sammen.", "pronunciation": "\u00e6g-te ven-ner hol-der sam-men"},
+            {"english": "Friends forever, no matter what.", "finnish": "Yst\u00e4vi\u00e4 ikuisesti, mit\u00e4 tahansa.", "pronunciation": "ys-ta-vi-a i-ku-i-ses-ti mi-ta ta-han-sa"},
+            {"english": "You are my best friend.", "finnish": "Olet paras yst\u00e4v\u00e4ni.", "pronunciation": "o-let pa-ras ys-ta-va-ni"},
+            {"english": "True friends stick together.", "finnish": "Todelliset yst\u00e4v\u00e4t pit\u00e4v\u00e4t yhteen.", "pronunciation": "to-del-li-set ys-ta-vat pi-ta-vat yh-teen"},
         ],
         "Hope": [
-            {"english": "There is always hope.", "danish": "Der er altid h\u00e5b.", "pronunciation": "der er al-tid h\u00e5b"},
-            {"english": "Better days are coming.", "danish": "Bedre dage kommer.", "pronunciation": "bed-re da-ge kom-mer"},
-            {"english": "Keep faith, keep going.", "danish": "Behold troen, forts\u00e6t.", "pronunciation": "be-hold tro-en, fort-s\u00e6t"},
+            {"english": "There is always hope.", "finnish": "Toivoa on aina.", "pronunciation": "toi-voa on ai-na"},
+            {"english": "Better days are coming.", "finnish": "Parempia p\u00e4ivi\u00e4 on tulossa.", "pronunciation": "pa-rem-pi-a pa-i-vi-a on tu-los-sa"},
+            {"english": "Keep faith, keep going.", "finnish": "Pid\u00e4 usko, jatka matkaa.", "pronunciation": "pi-da us-ko, jat-ka mat-kaa"},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "danish": "Skab noget smukt i dag.", "pronunciation": "skab no-get smukt i dag"},
-            {"english": "Your imagination is unlimited.", "danish": "Din fantasi er ubegr\u00e6nset.", "pronunciation": "din fan-ta-si er u-be-gr\u00e6n-set"},
-            {"english": "Art comes from the heart.", "danish": "Kunst kommer fra hjertet.", "pronunciation": "kunst kom-mer fra hjer-tet"},
-            {"english": "Express yourself freely.", "danish": "Udtryk dig frit.", "pronunciation": "ud-tryk dij frit"},
-            {"english": "Innovation starts with curiosity.", "danish": "Innovation starter med nysgerrighed.", "pronunciation": "in-no-va-sjon star-ter med nys-ger-rig-hed"},
+            {"english": "Create something beautiful today.", "finnish": "Luo jotain kaunista t\u00e4n\u00e4\u00e4n.", "pronunciation": "luo jo-tain kau-nis-ta ta-naan"},
+            {"english": "Your imagination is unlimited.", "finnish": "Mielikuvituksesi on rajaton.", "pronunciation": "mie-li-ku-vi-tuk-se-si on ra-ja-ton"},
+            {"english": "Art comes from the heart.", "finnish": "Taide tulee syd\u00e4mest\u00e4.", "pronunciation": "tai-de tu-lee sy-da-mes-ta"},
+            {"english": "Express yourself freely.", "finnish": "Ilmaise itse\u00e4si vapaasti.", "pronunciation": "il-mai-se it-se-a-si va-paas-ti"},
+            {"english": "Innovation starts with curiosity.", "finnish": "Innovaatio alkaa uteliaisuudesta.", "pronunciation": "in-no-vaa-ti-o al-kaa u-te-li-ai-suu-des-ta"},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "danish": "Find fred i dig selv.", "pronunciation": "find fred i dij selv"},
-            {"english": "Breathe, relax, let go.", "danish": "Tr\u00e6k vejret, slap af, slip taget.", "pronunciation": "tr\u00e6k vej-ret, slap af, slip ta-get"},
-            {"english": "Calm mind, happy heart.", "danish": "Roligt sind, glad hjerte.", "pronunciation": "ro-ligt sind, glad hjer-te"},
+            {"english": "Find peace within yourself.", "finnish": "L\u00f6yd\u00e4 rauha itsest\u00e4si.", "pronunciation": "loy-da rau-ha it-ses-ta-si"},
+            {"english": "Breathe, relax, let go.", "finnish": "Hengit\u00e4, rentoudu, p\u00e4\u00e4st\u00e4 irti.", "pronunciation": "hen-gi-ta, ren-tou-du, paas-ta ir-ti"},
+            {"english": "Calm mind, happy heart.", "finnish": "Rauhallinen mieli, iloinen syd\u00e4n.", "pronunciation": "rau-hal-li-nen mie-li, i-loi-nen sy-dan"},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "danish": "Du er nok, pr\u00e6cis som du er.", "pronunciation": "du er nok, pr\u00e6-cis som du er"},
-            {"english": "Stand tall, speak up.", "danish": "St\u00e5 rank, sig til.", "pronunciation": "st\u00e5 rank, sij til"},
-            {"english": "Believe in your abilities.", "danish": "Tro p\u00e5 dine evner.", "pronunciation": "tro p\u00e5 di-ne ev-ner"},
+            {"english": "You are enough, just as you are.", "finnish": "Olet tarpeeksi, juuri sellaisena kuin olet.", "pronunciation": "o-let tar-pe-ek-si, juu-ri sel-lai-se-na kuin o-let"},
+            {"english": "Stand tall, speak up.", "finnish": "Seiso suorana, puhu rohkeasti.", "pronunciation": "sei-so suo-ra-na, pu-hu roh-ke-as-ti"},
+            {"english": "Believe in your abilities.", "finnish": "Usko kykyihisi.", "pronunciation": "us-ko ky-kyi-hi-si"},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "danish": "Giv aldrig op, forts\u00e6t med at k\u00e6mpe.", "pronunciation": "giv al-drig op, for-ts\u00e6t med at k\u00e6m-pe"},
-            {"english": "Storms make trees take deeper roots.", "danish": "Storme f\u00e5r tr\u00e6er til at sl\u00e5 dybere r\u00f8dder.", "pronunciation": "stor-me f\u00e5r tr\u00e6-er til \u00e5 sl\u00e5 dy-be-re r\u00f8d-der"},
-            {"english": "Patience and persistence win.", "danish": "T\u00e5lmodighed og udholdenhed vinder.", "pronunciation": "t\u00e5l-mo-dig-hed og ud-hol-den-hed vin-der"},
+            {"english": "Never give up, keep pushing.", "finnish": "\u00c4l\u00e4 koskaan luovuta, jatka ponnistelua.", "pronunciation": "a-la kos-kaan luo-vu-ta, jat-ka pon-nis-te-lu-a"},
+            {"english": "Storms make trees take deeper roots.", "finnish": "Myrskyt saavat puut juurtumaan syvemm\u00e4lle.", "pronunciation": "myrs-kyt saa-vat puut juur-tu-maan sy-vem-mal-le"},
+            {"english": "Patience and persistence win.", "finnish": "K\u00e4rsiv\u00e4llisyys ja sinnikkyys voittavat.", "pronunciation": "kar-si-val-li-syys ja sin-nik-kyys voit-ta-vat"},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "danish": "Lad dit lys skinne klart.", "pronunciation": "lad dit lys skin-ne klart"},
-            {"english": "Inspire others by your actions.", "danish": "Inspir\u00e9r andre med dine handlinger.", "pronunciation": "in-spi-r\u00e9r an-dre med di-ne hand-ling-er"},
-            {"english": "Be the change you want to see.", "danish": "V\u00e6r forandringen du vil se.", "pronunciation": "v\u00e6r for-and-ring-en du vil se"},
+            {"english": "Let your light shine bright.", "finnish": "Anna valosi loistaa kirkkaasti.", "pronunciation": "an-na va-lo-si lois-taa kirk-kaas-ti"},
+            {"english": "Inspire others by your actions.", "finnish": "Inspiroi muita teoillasi.", "pronunciation": "in-spi-roi mui-ta te-oil-la-si"},
+            {"english": "Be the change you want to see.", "finnish": "Ole se muutos, jonka haluat n\u00e4hd\u00e4.", "pronunciation": "o-le se muu-tos, jon-ka ha-lu-at nah-da"},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "danish": "V\u00e6lg positivitet hver dag.", "pronunciation": "v\u00e6lg po-si-ti-vi-tet v\u00e6r dag"},
-            {"english": "Good vibes only.", "danish": "Kun gode vibes.", "pronunciation": "kun go-de vajbs"},
-            {"english": "Life is what you make it.", "danish": "Livet er hvad du g\u00f8r det til.", "pronunciation": "li-vet er hvad du g\u00f8r det til"},
+            {"english": "Choose positivity every day.", "finnish": "Valitse positiivisuus joka p\u00e4iv\u00e4.", "pronunciation": "va-lit-se po-si-tii-vi-suus jo-ka pai-va"},
+            {"english": "Good vibes only.", "finnish": "Vain hyvi\u00e4 viboja.", "pronunciation": "vain hy-vi-a vi-bo-ja"},
+            {"english": "Life is what you make it.", "finnish": "El\u00e4m\u00e4 on sit\u00e4 mit\u00e4 teet siit\u00e4.", "pronunciation": "e-la-ma on si-ta mi-ta teet sii-ta"},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "danish": "V\u00e6r modig, tag det f\u00f8rste skridt.", "pronunciation": "v\u00e6r mo-dig, tag det f\u00f8r-ste skridt"},
-            {"english": "Courage is not the absence of fear.", "danish": "Mod er ikke frav\u00e6r af frygt.", "pronunciation": "mod er ik-ke fra-v\u00e6r af frygt"},
-            {"english": "Face your fears head on.", "danish": "M\u00f8d din frygt direkte.", "pronunciation": "m\u00f8d din frygt di-rek-te"},
+            {"english": "Be brave, take the first step.", "finnish": "Ole rohkea, ota ensimm\u00e4inen askel.", "pronunciation": "o-le roh-ke-a, o-ta en-sim-mai-nen as-kel"},
+            {"english": "Courage is not the absence of fear.", "finnish": "Rohkeus ei ole pelon puuttumista.", "pronunciation": "roh-ke-us ei o-le pe-lon puut-tu-mis-ta"},
+            {"english": "Face your fears head on.", "finnish": "Kohtaa pelkosi suoraan.", "pronunciation": "koh-taa pel-ko-si suo-raan"},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "danish": "V\u00e6r venlig mod alle du m\u00f8der.", "pronunciation": "v\u00e6r ven-lig mod al-le du m\u00f8-der"},
-            {"english": "Kindness costs nothing, means everything.", "danish": "Venlighed koster ingenting, betyder alt.", "pronunciation": "ven-lig-hed kos-ter in-gen-ting, be-ty-der alt"},
-            {"english": "Spread kindness wherever you go.", "danish": "Spred venlighed hvor end du g\u00e5r.", "pronunciation": "spred ven-lig-hed hvor en du g\u00e5r"},
+            {"english": "Be kind to everyone you meet.", "finnish": "Ole yst\u00e4v\u00e4llinen kaikille kohtaamillesi.", "pronunciation": "o-le ys-ta-val-li-nen kai-kil-le koh-taa-mil-le-si"},
+            {"english": "Kindness costs nothing, means everything.", "finnish": "Yst\u00e4v\u00e4llisyys ei maksa mit\u00e4\u00e4n, merkitsee kaikkea.", "pronunciation": "ys-ta-val-li-syys ei mak-sa mi-taan, mer-kit-see kaik-ke-a"},
+            {"english": "Spread kindness wherever you go.", "finnish": "Levit\u00e4 yst\u00e4v\u00e4llisyytt\u00e4 minne ikin\u00e4 menet.", "pronunciation": "le-vi-ta ys-ta-val-li-syy-ta min-ne i-ki-na me-net"},
         ],
         "Patience": [
-            {"english": "Good things take time.", "danish": "Gode ting tager tid.", "pronunciation": "go-de ting ta-ger tid"},
-            {"english": "Wait patiently, trust the process.", "danish": "Vent t\u00e5lmodigt, stol p\u00e5 processen.", "pronunciation": "vent t\u00e5l-mo-digt, stol p\u00e5 pro-ses-sen"},
-            {"english": "Rome wasn't built in a day.", "danish": "Rom blev ikke bygget p\u00e5 en dag.", "pronunciation": "rom blev ik-ke byg-get p\u00e5 en dag"},
+            {"english": "Good things take time.", "finnish": "Hyv\u00e4t asiat viev\u00e4t aikaa.", "pronunciation": "hy-vat a-si-at vie-vat ai-kaa"},
+            {"english": "Wait patiently, trust the process.", "finnish": "Odota k\u00e4rsiv\u00e4llisesti, luota prosessiin.", "pronunciation": "o-do-ta kar-si-val-li-ses-ti, luo-ta pro-ses-siin"},
+            {"english": "Rome wasn't built in a day.", "finnish": "Roomaa ei rakennettu p\u00e4iv\u00e4ss\u00e4.", "pronunciation": "roo-maa ei ra-ken-net-tu pai-vas-sa"},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "danish": "Tilgiv og s\u00e6t dig selv fri.", "pronunciation": "til-giv og s\u00e6t dij selv fri"},
-            {"english": "Let go of grudges, find peace.", "danish": "Slip nag, find fred.", "pronunciation": "slip nag, find fred"},
-            {"english": "Forgiveness is a gift to yourself.", "danish": "Tilgivelse er en gave til dig selv.", "pronunciation": "til-gi-vel-se er en ga-ve til dij selv"},
+            {"english": "Forgive and set yourself free.", "finnish": "Anna anteeksi ja vapauta itsesi.", "pronunciation": "an-na an-teek-si ja va-pau-ta it-se-si"},
+            {"english": "Let go of grudges, find peace.", "finnish": "P\u00e4\u00e4st\u00e4 irti kaunasta, l\u00f6yd\u00e4 rauha.", "pronunciation": "paas-ta ir-ti kau-nas-ta, loy-da rau-ha"},
+            {"english": "Forgiveness is a gift to yourself.", "finnish": "Anteeksianto on lahja itsellesi.", "pronunciation": "an-teek-si-an-to on lah-ja it-sel-le-si"},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "danish": "Du er st\u00e6rkere end du ved.", "pronunciation": "du er st\u00e6r-ke-re en du ved"},
-            {"english": "Inner strength comes from within.", "danish": "Indre styrke kommer fra indersiden.", "pronunciation": "in-dre styr-ke kom-mer fra in-der-si-den"},
-            {"english": "Challenges make you stronger.", "danish": "Udfordringer g\u00f8r dig st\u00e6rkere.", "pronunciation": "ud-for-dring-er g\u00f8r dij st\u00e6r-ke-re"},
+            {"english": "You are stronger than you know.", "finnish": "Olet vahvempi kuin uskotkaan.", "pronunciation": "o-let vah-vem-pi kuin us-kot-kaan"},
+            {"english": "Inner strength comes from within.", "finnish": "Sis\u00e4inen voima tulee sis\u00e4lt\u00e4.", "pronunciation": "si-sai-nen voi-ma tu-lee si-sal-ta"},
+            {"english": "Challenges make you stronger.", "finnish": "Haasteet tekev\u00e4t sinusta vahvemman.", "pronunciation": "haas-teet te-ke-vat si-nus-ta vah-vem-man"},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "danish": "Find gl\u00e6de i hvert \u00f8jeblik.", "pronunciation": "find gle-de i hvert \u00f8je-blik"},
-            {"english": "Joy is contagious, spread it.", "danish": "Gl\u00e6de er smitsomt, spred det.", "pronunciation": "gle-de er smit-somt, spred det"},
-            {"english": "Dance like nobody's watching.", "danish": "Dans som om ingen ser p\u00e5.", "pronunciation": "dans som om in-gen ser p\u00e5"},
+            {"english": "Find joy in every moment.", "finnish": "L\u00f6yd\u00e4 ilo joka hetkest\u00e4.", "pronunciation": "loy-da i-lo jo-ka het-kes-ta"},
+            {"english": "Joy is contagious, spread it.", "finnish": "Ilo on tarttuvaa, levit\u00e4 sit\u00e4.", "pronunciation": "i-lo on tart-tu-vaa, le-vi-ta si-ta"},
+            {"english": "Dance like nobody's watching.", "finnish": "Tanssi kuin kukaan ei katsoisi.", "pronunciation": "tans-si kuin ku-kaan ei kat-soi-si"},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "danish": "Find balance i livet dit.", "pronunciation": "find ba-lan-se i li-vet dit"},
-            {"english": "Work hard, rest well.", "danish": "Arbejd h\u00e5rdt, hvil godt.", "pronunciation": "ar-bejd h\u00e5rdt, hvil godt"},
-            {"english": "Too much of anything is not good.", "danish": "For meget af noget er ikke godt.", "pronunciation": "for me-get af no-get er ik-ke godt"},
+            {"english": "Find balance in your life.", "finnish": "L\u00f6yd\u00e4 tasapaino el\u00e4m\u00e4ss\u00e4si.", "pronunciation": "loy-da ta-sa-pai-no e-la-mas-sa-si"},
+            {"english": "Work hard, rest well.", "finnish": "Ty\u00f6skentele kovasti, lep\u00e4\u00e4 hyvin.", "pronunciation": "tyos-ken-te-le ko-vas-ti, le-paa hy-vin"},
+            {"english": "Too much of anything is not good.", "finnish": "Liikaa mit\u00e4 tahansa ei ole hyv\u00e4ksi.", "pronunciation": "lii-kaa mi-ta ta-han-sa ei o-le hy-vak-si"},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "danish": "V\u00e6kst sker uden for komfortzonen.", "pronunciation": "v\u00e6kst sker u-den for kom-fort-zo-nen"},
-            {"english": "Embrace change, grow stronger.", "danish": "Omfavn forandring, bliv st\u00e6rkere.", "pronunciation": "om-favn for-and-ring, bliv st\u00e6r-ke-re"},
-            {"english": "Every challenge is a chance to grow.", "danish": "Hver udfordring er en chance til at vokse.", "pronunciation": "hver ud-for-dring er en sjan-se til at vok-se"},
+            {"english": "Growth happens outside your comfort zone.", "finnish": "Kasvu tapahtuu mukavuusalueen ulkopuolella.", "pronunciation": "kas-va ta-pah-tuu mu-ka-vuus-a-lu-een ul-ko-puo-lel-la"},
+            {"english": "Embrace change, grow stronger.", "finnish": "Hyv\u00e4ksy muutos, vahvistu.", "pronunciation": "hy-vak-sy muu-tos, vah-vis-tu"},
+            {"english": "Every challenge is a chance to grow.", "finnish": "Jokainen haaste on mahdollisuus kasvaa.", "pronunciation": "jo-kai-nen haas-te on mah-dol-li-suus kas-vaa"},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "danish": "Find dit form\u00e5l, f\u00f8lg det.", "pronunciation": "find dit form\u00e5l, f\u00f8lg det"},
-            {"english": "Your life has meaning.", "danish": "Dit liv har mening.", "pronunciation": "dit liv har me-ning"},
-            {"english": "Live with intention, not accident.", "danish": "Lev med hensigt, ikke tilf\u00e6ldigt.", "pronunciation": "lev med hen-sigt, ik-ke til-f\u00e6l-digt"},
+            {"english": "Find your purpose, follow it.", "finnish": "L\u00f6yd\u00e4 tarkoituksesi, seuraa sit\u00e4.", "pronunciation": "loy-da tar-koi-tuk-se-si, seu-raa si-ta"},
+            {"english": "Your life has meaning.", "finnish": "El\u00e4m\u00e4ll\u00e4si on tarkoitus.", "pronunciation": "e-la-mal-la-si on tar-koi-tus"},
+            {"english": "Live with intention, not accident.", "finnish": "El\u00e4 tarkoituksella, ei sattumalta.", "pronunciation": "e-la tar-koi-tuk-sel-la, ei sat-tu-mal-ta"},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "danish": "V\u00e6r til stede i dette \u00f8jeblik.", "pronunciation": "v\u00e6r til ste-de i det-te \u00f8je-blik"},
-            {"english": "Breathe deeply, stay grounded.", "danish": "Tr\u00e6k vejret dybt, hold dig jordet.", "pronunciation": "tr\u00e6k vej-ret dybt, hold dij jor-det"},
-            {"english": "Notice the little things around you.", "danish": "L\u00e6g m\u00e6rke til de sm\u00e5 ting omkring dig.", "pronunciation": "l\u00e6g m\u00e6r-ke til de sm\u00e5 ting om-kring dij"},
+            {"english": "Be present in this moment.", "finnish": "Ole l\u00e4sn\u00e4 t\u00e4ss\u00e4 hetkess\u00e4.", "pronunciation": "o-le las-na tas-sa het-kes-sa"},
+            {"english": "Breathe deeply, stay grounded.", "finnish": "Hengit\u00e4 syv\u00e4\u00e4n, pysy maadoitettuna.", "pronunciation": "hen-gi-ta sy-vaan, py-sy maa-doi-tet-tu-na"},
+            {"english": "Notice the little things around you.", "finnish": "Huomaa pienet asiat ymp\u00e4rill\u00e4si.", "pronunciation": "huo-maa pie-net a-si-at ym-pa-ril-la-si"},
         ],
     }
 
@@ -487,7 +487,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        lang_success = asyncio.run(generate_single_audio(phrase["danish"], LANG_VOICE, str(lang_file)))
+        lang_success = asyncio.run(generate_single_audio(phrase["finnish"], LANG_VOICE, str(lang_file)))
         if not lang_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(lang_file)]
             subprocess.run(cmd, capture_output=True)
@@ -631,7 +631,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    danish = phrase_data.get("danish", "")
+    finnish = phrase_data.get("finnish", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -677,7 +677,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
 
-    lang_lines = wrap_text(danish, font_lang, VIDEO_WIDTH - 300)
+    lang_lines = wrap_text(finnish, font_lang, VIDEO_WIDTH - 300)
     lang_line_h = 100
     lang_total_h = len(lang_lines) * lang_line_h
 
@@ -704,7 +704,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     y_cursor = y_start + en_box_h + GAP
 
-    # Danish Section
+    # Finnish Section
     lang_box_h = lang_total_h + 60
     draw.rounded_rectangle(
         [(box_x, y_cursor), (box_x + box_w, y_cursor + lang_box_h)],
@@ -729,7 +729,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding
-    brand_text = "VELOCITY DANISH"
+    brand_text = "VELOCITY FINNISH"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text,
@@ -743,7 +743,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_danish: str, output_path: str):
+def generate_thumbnail(category_english: str, category_finnish: str, output_path: str):
     try:
         from PIL import Image, ImageDraw, ImageFont
     except ImportError:
@@ -775,7 +775,7 @@ def generate_thumbnail(category_english: str, category_danish: str, output_path:
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER DANISH", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER FINNISH", fill=(45, 35, 65), font=font_huge, anchor="mm")
 
     cat_text = category_english.upper()
     cat_bbox = draw.textbbox((0, 0), cat_text, font=font_sub)
@@ -786,9 +786,9 @@ def generate_thumbnail(category_english: str, category_danish: str, output_path:
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    draw.text((VIDEO_WIDTH // 2, 530), category_danish, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_finnish, fill=(45, 35, 65), font=font_main, anchor="mm")
 
-    cta_text = "60 VIGTIGE FRASER"
+    cta_text = "60 TÄRKEÄÄ LAUSETTA"
     draw.rounded_rectangle(
         [(VIDEO_WIDTH // 2 - 300, 650), (VIDEO_WIDTH // 2 + 300, 730)],
         radius=15, fill=(255, 210, 160, 255)
@@ -796,7 +796,7 @@ def generate_thumbnail(category_english: str, category_danish: str, output_path:
     draw.text((VIDEO_WIDTH // 2, 690), cta_text, fill=(70, 45, 25), font=font_badge, anchor="mm")
 
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY DANISH", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY FINNISH", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -828,22 +828,22 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_danish: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_finnish: str, phrases: list, duration_minutes: float, output_dir: str):
     titles = [
-        f"Learn Danish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_danish})",
-        f"60 Danish Phrases for {category_english} | Speak Danish Like a Native! ({category_danish})",
-        f"Master Danish {category_english} | 60 Essential Danish Phrases with Pronunciation | Velocity Danish",
-        f"Danish Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Danish Fluently | {category_english} Phrases | English + Danish + Pronunciation",
+        f"Learn Finnish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_finnish})",
+        f"60 Finnish Phrases for {category_english} | Speak Finnish Like a Native! ({category_finnish})",
+        f"Master Finnish {category_english} | 60 Essential Finnish Phrases with Pronunciation | Velocity Finnish",
+        f"Finnish Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Speak Finnish Fluently | {category_english} Phrases | English + Finnish + Pronunciation",
     ]
 
-    description = f"""\U0001F1E9\U0001F1F0 Learn Danish with Velocity Danish! \U0001F1E9\U0001F1F0
+    description = f"""\U0001F1EB\U0001F1EE Learn Finnish with Velocity Finnish! \U0001F1EB\U0001F1EE
 
-In this video, you'll learn 60 essential Danish phrases about {category_english} ({category_danish}).
+In this video, you'll learn 60 essential Finnish phrases about {category_english} ({category_finnish}).
 Perfect for beginners and intermediate learners!
 
 \U0001F4DA WHAT YOU'LL LEARN:
-\u2022 60 practical {category_english} phrases in Danish
+\u2022 60 practical {category_english} phrases in Finnish
 \u2022 Correct pronunciation guide
 \u2022 Natural pauses for speaking practice
 \u2022 Common expressions used by native speakers
@@ -866,15 +866,15 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Danish: {phrase['danish']}
+   Finnish: {phrase['finnish']}
     Pronunciation: {phrase['pronunciation']}
 """
 
     description += """
 \U0001F3AF PERFECT FOR:
-\u2022 Danish beginners wanting to expand vocabulary
+\u2022 Finnish beginners wanting to expand vocabulary
 \u2022 Intermediate learners practicing pronunciation
-\u2022 Anyone interested in Danish language and culture
+\u2022 Anyone interested in Finnish language and culture
 \u2022 Language enthusiasts and polyglots
 \u2022 Students preparing for exams
 
@@ -885,25 +885,25 @@ Perfect for beginners and intermediate learners!
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-\U0001F514 SUBSCRIBE for more Danish learning content!
+\U0001F514 SUBSCRIBE for more Finnish learning content!
 \U0001F44D LIKE this video if you found it helpful!
 \U0001F4AC COMMENT which phrases you want to learn next!
 
-\U0001F4F1 FOLLOW VELOCITY DANISH:
+\U0001F4F1 FOLLOW VELOCITY FINNISH:
 [Add your social media links here]
 
 \U0001F3B5 MUSIC:
 [Add music credits if applicable]
 
 \U0001F4D6 RELATED VIDEOS:
-\u2022 Danish Motivation Phrases
-\u2022 Danish Love Expressions
-\u2022 Basic Danish Greetings
+\u2022 Finnish Motivation Phrases
+\u2022 Finnish Love Expressions
+\u2022 Basic Finnish Greetings
 
-#LearnDanish #DanishPhrases #DanishLanguage #{category_english.replace(' ', '')} #VelocityDanish #DanishForBeginners #SpeakDanish #DanishVocabulary #Pronunciation #LanguageLearning #Danish101 #DanishLesson
+#LearnFinnish #FinnishPhrases #FinnishLanguage #{category_english.replace(' ', '')} #VelocityFinnish #FinnishForBeginners #SpeakFinnish #FinnishVocabulary #Pronunciation #LanguageLearning #Finnish101 #FinnishLesson
 
 ---
-\u00A9 Velocity Danish - Making Danish learning accessible to everyone!
+\u00A9 Velocity Finnish - Making Finnish learning accessible to everyone!
 """
 
     output_dir = Path(output_dir)
@@ -929,18 +929,18 @@ Perfect for beginners and intermediate learners!
         f.write("VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Danish",
-            "Danish Phrases",
-            "Danish Language",
+            "Learn Finnish",
+            "Finnish Phrases",
+            "Finnish Language",
             category_english,
-            "Velocity Danish",
-            "Danish for Beginners",
-            "Speak Danish",
-            "Danish Vocabulary",
+            "Velocity Finnish",
+            "Finnish for Beginners",
+            "Speak Finnish",
+            "Finnish Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "Danish 101",
-            "Danish Lesson"
+            "Finnish 101",
+            "Finnish Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
@@ -949,7 +949,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_danish": category_danish,
+        "category_finnish": category_finnish,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1027,7 +1027,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_DANISH[category_english]})")
+    print(f"LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_FINNISH[category_english]})")
     print(f"Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1039,7 +1039,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} -> {phrase['danish']}")
+        print(f"  {i}. {phrase['english']} -> {phrase['finnish']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1059,10 +1059,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
             print(f"  gpt-image-2 thumbnail saved")
         else:
             print(f"  gpt-image-2 failed, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_DANISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_FINNISH[category_english], str(thumbnail_path))
     except Exception as e:
         print(f"  Thumbnail error: {e}, using built-in")
-        generate_thumbnail(category_english, CATEGORIES_DANISH[category_english], str(thumbnail_path))
+        generate_thumbnail(category_english, CATEGORIES_FINNISH[category_english], str(thumbnail_path))
 
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
 
@@ -1093,7 +1093,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_meta = generate_title_description(
         category_english,
-        CATEGORIES_DANISH[category_english],
+        CATEGORIES_FINNISH[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1102,11 +1102,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     import json as _json
     from pathlib import Path as _Path
     meta_out = {
-        "title": title_meta.get("selected_title", f"Learn Danish: {category_english}"),
+        "title": title_meta.get("selected_title", f"Learn Finnish: {category_english}"),
         "description": title_meta.get("description", ""),
-        "tags": ["Learn Danish", "Danish Phrases", "Danish", category_english, "Velocity Danish"],
+        "tags": ["Learn Finnish", "Finnish Phrases", "Finnish", category_english, "Velocity Finnish"],
         "category_english": category_english,
-        "category_danish": CATEGORIES_DANISH[category_english],
+        "category_finnish": CATEGORIES_FINNISH[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1131,7 +1131,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  youtube_upload_info.txt (title + description + tags)")
     print(f"  Duration: {total_duration/60:.2f} minutes")
     print(f"  Phrases: {len(phrases)}")
-    print(f"  Branding: Velocity Danish")
+    print(f"  Branding: Velocity Finnish")
     print(f"  Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
@@ -1153,13 +1153,13 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity Danish YouTube Long-form Video Generator")
+    parser = argparse.ArgumentParser(description="Velocity Finnish YouTube Long-form Video Generator")
     parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate")
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("VELOCITY DANISH - YOUTUBE LONG-FORM AUTOMATION")
+    print("VELOCITY FINNISH - YOUTUBE LONG-FORM AUTOMATION")
     print("="*80)
     print("\nFEATURES:")
     print("  16:9 format (1920x1080) for YouTube long-form")
@@ -1170,7 +1170,7 @@ if __name__ == "__main__":
     print("  NEVER repeats phrases (permanent history tracking)")
     print(f"\nAVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_DANISH[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_FINNISH[cat]})")
     print(f"\nVIDEO SPECIFICATIONS:")
     print(f"  Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  Frame Rate: {FPS} FPS")

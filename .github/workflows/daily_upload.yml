@@ -1,4 +1,4 @@
-name: Velocity Danish - Daily YouTube Upload
+name: Velocity Finnish - Daily YouTube Upload
 
 on:
   schedule:
@@ -32,7 +32,7 @@ jobs:
         id: download-history
         continue-on-error: true
         with:
-          name: danish-longform-phrase-history
+          name: finnish-longform-phrase-history
           path: output/history/
 
       - name: Initialize history if not found
@@ -91,7 +91,7 @@ jobs:
       - name: Upload Video Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: velocity-danish-video-${{ github.run_number }}
+          name: velocity-finnish-video-${{ github.run_number }}
           path: |
             ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}final_video.mp4
             ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}thumbnail.jpg
@@ -101,7 +101,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: success()
         with:
-          name: danish-longform-phrase-history
+          name: finnish-longform-phrase-history
           path: output/history/all_generated_phrases.json
           retention-days: 90
           overwrite: true
