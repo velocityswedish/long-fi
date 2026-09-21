@@ -78,7 +78,7 @@ CATEGORIES_FINNISH = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "fi-FI-NooraNeural"
 
 # Phrase history file
