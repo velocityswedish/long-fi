@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = list(CATEGORIES_FINNISH.keys())
 
 # Finnish translations
 CATEGORIES_FINNISH = {
@@ -98,6 +97,9 @@ CATEGORIES_FINNISH = {
     "Cultural Traditions": "Kulttuurilliset perinteet",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_FINNISH.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "fi-FI-NooraNeural"
