@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Let's hope for the best, okay?",
+      "finnish": "Toivotaan parasta, jooko?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134023"
+    },
+    {
+      "english": "Maybe it will work out.",
+      "finnish": "Ehkä se järjestyy.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134038"
+    },
+    {
+      "english": "Fingers crossed for you!",
+      "finnish": "Peukut pystyssä puolestasi!",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134043"
+    },
+    {
+      "english": "There's always a chance.",
+      "finnish": "Aina on mahdollisuus.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134047"
+    },
+    {
+      "english": "Keep your chin up.",
+      "finnish": "Pidä pää pystyssä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134052"
+    },
+    {
+      "english": "Don't lose hope now.",
+      "finnish": "Älä menetä toivoasi nyt.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134055"
+    },
+    {
+      "english": "It's not over yet.",
+      "finnish": "Ei se ole vielä ohi.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134059"
+    },
+    {
+      "english": "Something good will happen.",
+      "finnish": "Jotain hyvää tapahtuu.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134066"
+    },
+    {
+      "english": "We can still make it.",
+      "finnish": "Voimme vielä onnistua.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134071"
+    },
+    {
+      "english": "Let's stay positive.",
+      "finnish": "Pysytään positiivisina.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134075"
+    },
+    {
+      "english": "Hope springs eternal.",
+      "finnish": "Toivo elää ikuisesti.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134079"
+    },
+    {
+      "english": "Maybe tomorrow will be better.",
+      "finnish": "Ehkä huomenna on parempi.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134082"
+    },
+    {
+      "english": "I'm counting on that.",
+      "finnish": "Lasken sen varaan.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134086"
+    },
+    {
+      "english": "It's worth a try.",
+      "finnish": "Sen arvoinen yrittää.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134089"
+    },
+    {
+      "english": "Never give up, ever.",
+      "finnish": "Älä koskaan luovuta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134093"
+    },
+    {
+      "english": "There's light at the end.",
+      "finnish": "Valoa tunnelin päässä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134096"
+    },
+    {
+      "english": "Hold on a little longer.",
+      "finnish": "Odota vielä hetki.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134099"
+    },
+    {
+      "english": "This could be our chance.",
+      "finnish": "Tämä voi olla tilaisuutemme.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134103"
+    },
+    {
+      "english": "I have a good feeling.",
+      "finnish": "Minulla on hyvä tunne.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134107"
+    },
+    {
+      "english": "Let's wish for good luck.",
+      "finnish": "Toivotaan hyvää onnea.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134111"
+    },
+    {
+      "english": "Things are looking up.",
+      "finnish": "Asiat näyttävät paremmilta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134114"
+    },
+    {
+      "english": "It's not impossible, right?",
+      "finnish": "Ei se ole mahdotonta, vai mitä?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134118"
+    },
+    {
+      "english": "Believe it can happen.",
+      "finnish": "Usko sen tapahtumiseen.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134121"
+    },
+    {
+      "english": "A glimmer of hope.",
+      "finnish": "Toivon kipinä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134124"
+    },
+    {
+      "english": "We're getting closer.",
+      "finnish": "Pääsemme lähemmäs.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134127"
+    },
+    {
+      "english": "Let's keep trying.",
+      "finnish": "Jatketaan yrittämistä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134130"
+    },
+    {
+      "english": "There's still time.",
+      "finnish": "Aikaa on vielä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134134"
+    },
+    {
+      "english": "May fortune be with us.",
+      "finnish": "Olkoon onni myötä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134137"
+    },
+    {
+      "english": "This could be the one.",
+      "finnish": "Tämä voisi olla se juttu.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134140"
+    },
+    {
+      "english": "I'm feeling hopeful.",
+      "finnish": "Tunnen toivoa.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134143"
+    },
+    {
+      "english": "What do you think, will it succeed?",
+      "finnish": "Mitä luulet, onnistuuko se?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134147"
+    },
+    {
+      "english": "Do you see any possibilities?",
+      "finnish": "Näetkö mitään mahdollisuuksia?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134150"
+    },
+    {
+      "english": "Shall we try this approach?",
+      "finnish": "Kokeillaanko tätä lähestymistapaa?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134154"
+    },
+    {
+      "english": "How can we improve our chances?",
+      "finnish": "Miten voimme parantaa mahdollisuuksiamme?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134158"
+    },
+    {
+      "english": "Is there another way forward?",
+      "finnish": "Onko olemassa toinen tie eteenpäin?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134161"
+    },
+    {
+      "english": "What if we did it differently?",
+      "finnish": "Mitä jos tekisimme sen eri tavalla?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134164"
+    },
+    {
+      "english": "Do you have any ideas for us?",
+      "finnish": "Onko sinulla ideoita meille?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134167"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "finnish": "Mikä on mielipiteesi tästä?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134171"
+    },
+    {
+      "english": "Are we on the right track?",
+      "finnish": "Olemmeko oikealla tiellä?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134174"
+    },
+    {
+      "english": "Should we wait and see?",
+      "finnish": "Pitäisikö meidän odottaa ja katsoa?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134177"
+    },
+    {
+      "english": "What's the next step then?",
+      "finnish": "Mikä on seuraava askel sitten?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134180"
+    },
+    {
+      "english": "Do you believe it's possible?",
+      "finnish": "Uskotko sen olevan mahdollista?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134197"
+    },
+    {
+      "english": "How likely is success, really?",
+      "finnish": "Kuinka todennäköistä menestys on, oikeasti?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134201"
+    },
+    {
+      "english": "What are your hopes for this?",
+      "finnish": "Mitkä ovat toiveesi tästä?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134205"
+    },
+    {
+      "english": "Can we count on your help?",
+      "finnish": "Voimmeko luottaa apuusi?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134208"
+    },
+    {
+      "english": "Will this plan work out?",
+      "finnish": "Toimiiko tämä suunnitelma?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134211"
+    },
+    {
+      "english": "Are there any alternatives?",
+      "finnish": "Onko olemassa vaihtoehtoja?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134214"
+    },
+    {
+      "english": "What do you suggest we do?",
+      "finnish": "Mitä ehdotat meidän tekevän?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134217"
+    },
+    {
+      "english": "Can we achieve this goal?",
+      "finnish": "Voimmeko saavuttaa tämän tavoitteen?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134220"
+    },
+    {
+      "english": "Is there a better strategy?",
+      "finnish": "Onko parempaa strategiaa?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134223"
+    },
+    {
+      "english": "What outcome do you expect?",
+      "finnish": "Millaista lopputulosta odotat?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134226"
+    },
+    {
+      "english": "Do you think it's feasible?",
+      "finnish": "Pidätkö sitä toteuttamiskelpoisena?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134230"
+    },
+    {
+      "english": "How can we make this happen?",
+      "finnish": "Miten voimme saada tämän tapahtumaan?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134233"
+    },
+    {
+      "english": "What if we take a risk?",
+      "finnish": "Mitä jos otamme riskin?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134239"
+    },
+    {
+      "english": "Is there any room for optimism?",
+      "finnish": "Onko optimismille tilaa?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134242"
+    },
+    {
+      "english": "What are the odds for us?",
+      "finnish": "Mitkä ovat mahdollisuutemme?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134245"
+    },
+    {
+      "english": "Do you have a gut feeling?",
+      "finnish": "Onko sinulla vaisto?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134249"
+    },
+    {
+      "english": "Can we rely on luck?",
+      "finnish": "Voimmeko luottaa onneen?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134251"
+    },
+    {
+      "english": "What is your prediction?",
+      "finnish": "Mikä on ennustuksesi?",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134254"
+    },
+    {
+      "english": "Keep a positive outlook, always.",
+      "finnish": "Pidä positiivinen asenne, aina.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134258"
+    },
+    {
+      "english": "Something good is coming soon.",
+      "finnish": "Jotain hyvää on tulossa pian.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134261"
+    },
+    {
+      "english": "Don't give up on your dreams.",
+      "finnish": "Älä luovuta unelmiesi suhteen.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134265"
+    },
+    {
+      "english": "Good things take time, be patient.",
+      "finnish": "Hyvät asiat vievät aikaa, ole kärsivällinen.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134269"
+    },
+    {
+      "english": "Every day brings new chances.",
+      "finnish": "Jokainen päivä tuo uusia mahdollisuuksia.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134272"
+    },
+    {
+      "english": "The future looks bright for us.",
+      "finnish": "Tulevaisuus näyttää valoisalta meille.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134275"
+    },
+    {
+      "english": "We've got this, no doubt.",
+      "finnish": "Me pärjäämme tässä, ei epäilystäkään.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134280"
+    },
+    {
+      "english": "Keep believing, it's possible.",
+      "finnish": "Usko edelleen, se on mahdollista.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134284"
+    },
+    {
+      "english": "There's a silver lining somewhere.",
+      "finnish": "Jossain on aina toivoa.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134290"
+    },
+    {
+      "english": "We can make it happen together.",
+      "finnish": "Voimme saada sen tapahtumaan yhdessä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134293"
+    },
+    {
+      "english": "Stay strong, brighter days await.",
+      "finnish": "Pysy vahvana, valoisammat päivät odottavat.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134297"
+    },
+    {
+      "english": "Let's focus on the good.",
+      "finnish": "Keskitytään hyvään.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134300"
+    },
+    {
+      "english": "Your effort will pay off.",
+      "finnish": "Sinun vaivannäkösi palkitaan.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134303"
+    },
+    {
+      "english": "A positive mindset is key.",
+      "finnish": "Positiivinen ajattelutapa on avain.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134306"
+    },
+    {
+      "english": "We're heading in the right direction.",
+      "finnish": "Olemme menossa oikeaan suuntaan.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134310"
+    },
+    {
+      "english": "Never lose hope, it fuels us.",
+      "finnish": "Älä koskaan menetä toivoasi, se antaa meille voimaa.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134313"
+    },
+    {
+      "english": "Good fortune will find us.",
+      "finnish": "Hyvä onni löytää meidät.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134316"
+    },
+    {
+      "english": "This is just a temporary setback.",
+      "finnish": "Tämä on vain väliaikainen takaisku.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134322"
+    },
+    {
+      "english": "Let's have faith in the process.",
+      "finnish": "Luotetaan prosessiin.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134326"
+    },
+    {
+      "english": "Your courage inspires me.",
+      "finnish": "Sinun rohkeutesi inspiroi minua.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134329"
+    },
+    {
+      "english": "Things will get better, I know.",
+      "finnish": "Asiat paranevat, tiedän sen.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134333"
+    },
+    {
+      "english": "We are capable of great things.",
+      "finnish": "Pystymme suuriin tekoihin.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134336"
+    },
+    {
+      "english": "A new dawn is breaking.",
+      "finnish": "Uusi aamunkoitto koittaa.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134339"
+    },
+    {
+      "english": "Keep pushing forward, with spirit.",
+      "finnish": "Jatka eteenpäin, hengellä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134342"
+    },
+    {
+      "english": "Opportunities are everywhere.",
+      "finnish": "Mahdollisuuksia on kaikkialla.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134346"
+    },
+    {
+      "english": "We will overcome this challenge.",
+      "finnish": "Voitamme tämän haasteen.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134351"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "finnish": "Sinun positiivinen energiasi on tarttuvaa.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134355"
+    },
+    {
+      "english": "Let's embrace the possibilities.",
+      "finnish": "Tartutaan mahdollisuuksiin.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134358"
+    },
+    {
+      "english": "Everything will work out fine.",
+      "finnish": "Kaikki järjestyy kyllä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134361"
+    },
+    {
+      "english": "Trust your intuition, it's wise.",
+      "finnish": "Luota vaistoosi, se on viisas.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134365"
+    },
+    {
+      "english": "Inner peace, brings outer calm.",
+      "finnish": "Sisäinen rauha, tuo ulkoisen tyyneyden.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134368"
+    },
+    {
+      "english": "My heart feels lighter now.",
+      "finnish": "Sydämeni tuntuu kevyemmältä nyt.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134371"
+    },
+    {
+      "english": "This feeling is reassuring.",
+      "finnish": "Tämä tunne on rohkaiseva.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134374"
+    },
+    {
+      "english": "We need to be honest with ourselves.",
+      "finnish": "Meidän pitää olla rehellisiä itsellemme.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134378"
+    },
+    {
+      "english": "Sometimes, waiting is the best action.",
+      "finnish": "Joskus odottaminen on paras teko.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134382"
+    },
+    {
+      "english": "Allow yourself to feel deeply.",
+      "finnish": "Salli itsesi tuntea syvästi.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134385"
+    },
+    {
+      "english": "Reflecting brings clarity, eventually.",
+      "finnish": "Pohdiskelu tuo selkeyttä, lopulta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134389"
+    },
+    {
+      "english": "My spirit feels renewed.",
+      "finnish": "Henkeni tuntuu uudistuneelta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134394"
+    },
+    {
+      "english": "True strength is quiet resilience.",
+      "finnish": "Todellinen voima on hiljaista sitkeyttä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134397"
+    },
+    {
+      "english": "I’m choosing kindness today.",
+      "finnish": "Valitsen ystävällisyyden tänään.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134405"
+    },
+    {
+      "english": "Let compassion guide your actions.",
+      "finnish": "Anna myötätunnon ohjata tekojasi.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134408"
+    },
+    {
+      "english": "This moment feels peaceful.",
+      "finnish": "Tämä hetki tuntuu rauhalliselta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134412"
+    },
+    {
+      "english": "A quiet confidence grows within.",
+      "finnish": "Hiljainen itseluottamus kasvaa sisällä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134415"
+    },
+    {
+      "english": "I can finally breathe easy.",
+      "finnish": "Voin vihdoin hengittää helposti.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134418"
+    },
+    {
+      "english": "Acceptance brings liberation.",
+      "finnish": "Hyväksyminen tuo vapautuksen.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134421"
+    },
+    {
+      "english": "My worries are fading now.",
+      "finnish": "Huoleni ovat häviämässä nyt.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134424"
+    },
+    {
+      "english": "This gentle feeling is welcome.",
+      "finnish": "Tämä lempeä tunne on tervetullut.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134427"
+    },
+    {
+      "english": "Let your heart speak truth.",
+      "finnish": "Anna sydämesi puhua totuutta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134430"
+    },
+    {
+      "english": "Inner strength is my anchor.",
+      "finnish": "Sisäinen voima on ankkurini.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134433"
+    },
+    {
+      "english": "Patience is a virtue, truly.",
+      "finnish": "Kärsivällisyys on hyve, todella.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134436"
+    },
+    {
+      "english": "Feeling grateful for this moment.",
+      "finnish": "Olen kiitollinen tästä hetkestä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134440"
+    },
+    {
+      "english": "My soul feels at ease.",
+      "finnish": "Sieluni tuntee olonsa mukavaksi.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134443"
+    },
+    {
+      "english": "This quiet hope sustains me.",
+      "finnish": "Tämä hiljainen toivo ylläpitää minua.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134446"
+    },
+    {
+      "english": "I am growing, day by day.",
+      "finnish": "Kasvan, päivä päivältä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134450"
+    },
+    {
+      "english": "Letting go brings serenity.",
+      "finnish": "Irrottautuminen tuo tyyneyttä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134453"
+    },
+    {
+      "english": "This gentle unfolding is natural.",
+      "finnish": "Tämä lempeä avautuminen on luonnollista.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134456"
+    },
+    {
+      "english": "I embrace this inner calm.",
+      "finnish": "Omaksun tämän sisäisen rauhan.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134459"
+    },
+    {
+      "english": "Honest reflection is valuable.",
+      "finnish": "Rehellinen pohdiskelu on arvokasta.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134464"
+    },
+    {
+      "english": "Just keep going, bit by bit.",
+      "finnish": "Mene vaan eteenpäin, pala kerrallaan.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134468"
+    },
+    {
+      "english": "Every little step counts, really.",
+      "finnish": "Jokainen pieni askel on tärkeä, oikeasti.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134471"
+    },
+    {
+      "english": "Don't give up now, almost there.",
+      "finnish": "Älä luovuta nyt, melkein perillä.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T07:36:55.134475"
+    }
+  ],
+  "last_updated": "2026-10-17T07:36:55.134477"
+}
