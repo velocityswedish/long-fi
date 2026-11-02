@@ -1439,7 +1439,727 @@
       "finnish": "Pienet askeleet vievät jonnekin.",
       "category": "Creativity",
       "generated_at": "2026-11-01T10:13:05.082615"
+    },
+    {
+      "english": "What do you do, in your free time?",
+      "finnish": "Mitä teet, vapaa-ajallasi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484636"
+    },
+    {
+      "english": "I like to read, books.",
+      "finnish": "Tykkään lukea, kirjoja.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484650"
+    },
+    {
+      "english": "My hobby is, playing guitar.",
+      "finnish": "Harrastukseni on, kitaransoitto.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484653"
+    },
+    {
+      "english": "Are you interested, in sports?",
+      "finnish": "Oletko kiinnostunut, urheilusta?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484657"
+    },
+    {
+      "english": "I enjoy, cooking.",
+      "finnish": "Nautin, ruoanlaitosta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484660"
+    },
+    {
+      "english": "Let's go, for a walk.",
+      "finnish": "Mennään, kävelylle.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484663"
+    },
+    {
+      "english": "I love, nature.",
+      "finnish": "Rakastan, luontoa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484666"
+    },
+    {
+      "english": "Do you watch, movies?",
+      "finnish": "Katsotko, elokuvia?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484671"
+    },
+    {
+      "english": "I play, video games.",
+      "finnish": "Pelaan, videopelejä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484675"
+    },
+    {
+      "english": "My free time, is precious.",
+      "finnish": "Vapaa-aikani, on arvokasta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484678"
+    },
+    {
+      "english": "I like, listening to music.",
+      "finnish": "Pidän, musiikin kuuntelusta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484681"
+    },
+    {
+      "english": "Let's try, something new.",
+      "finnish": "Kokeillaan, jotain uutta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484684"
+    },
+    {
+      "english": "I enjoy, painting.",
+      "finnish": "Nautin, maalaamisesta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484686"
+    },
+    {
+      "english": "What are you, doing today?",
+      "finnish": "Mitä teet, tänään?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484689"
+    },
+    {
+      "english": "I relax, by the lake.",
+      "finnish": "Rentoudun, järven rannalla.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484694"
+    },
+    {
+      "english": "I love, gardening.",
+      "finnish": "Rakastan, puutarhanhoitoa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484697"
+    },
+    {
+      "english": "Do you like, hiking?",
+      "finnish": "Pidätkö, patikoinnista?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484700"
+    },
+    {
+      "english": "I'm learning, Finnish.",
+      "finnish": "Opettelen, suomea.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484703"
+    },
+    {
+      "english": "It's a good, hobby.",
+      "finnish": "Se on hyvä, harrastus.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484706"
+    },
+    {
+      "english": "I like, photography.",
+      "finnish": "Pidän, valokuvauksesta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484708"
+    },
+    {
+      "english": "Let's meet, for coffee.",
+      "finnish": "Tavataan, kahvilla.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484711"
+    },
+    {
+      "english": "I enjoy, writing.",
+      "finnish": "Nautin, kirjoittamisesta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484714"
+    },
+    {
+      "english": "What's your, favorite pastime?",
+      "finnish": "Mikä on, suosikki-ajanvieteesi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484717"
+    },
+    {
+      "english": "I like, dancing.",
+      "finnish": "Pidän, tanssimisesta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484807"
+    },
+    {
+      "english": "We should, do something fun.",
+      "finnish": "Meidän pitäisi, tehdä jotain hauskaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484814"
+    },
+    {
+      "english": "I love, art.",
+      "finnish": "Rakastan, taidetta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484816"
+    },
+    {
+      "english": "I'm busy, this weekend.",
+      "finnish": "Olen kiireinen, viikonloppuna.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484819"
+    },
+    {
+      "english": "I prefer, quiet hobbies.",
+      "finnish": "Suosin, hiljaisia harrastuksia.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484822"
+    },
+    {
+      "english": "What do you, do for fun?",
+      "finnish": "Mitä teet, huviksesi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484825"
+    },
+    {
+      "english": "Free time, is important.",
+      "finnish": "Vapaa-aika, on tärkeää.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484829"
+    },
+    {
+      "english": "What do you usually do, after work?",
+      "finnish": "Mitä yleensä teet, töiden jälkeen?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484834"
+    },
+    {
+      "english": "Do you have any plans, for the evening?",
+      "finnish": "Onko sinulla suunnitelmia, illaksi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484838"
+    },
+    {
+      "english": "What kind of music, do you listen to?",
+      "finnish": "Millaista musiikkia, kuuntelet?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484841"
+    },
+    {
+      "english": "Have you seen, any good films lately?",
+      "finnish": "Oletko nähnyt, hyviä elokuvia viime aikoina?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484844"
+    },
+    {
+      "english": "What's your favorite, way to unwind?",
+      "finnish": "Mikä on lempitapasi, rentoutua?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484847"
+    },
+    {
+      "english": "Are you keen, on board games?",
+      "finnish": "Oletko innostunut, lautapeleistä?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484851"
+    },
+    {
+      "english": "What do you think, about joining a club?",
+      "finnish": "Mitä ajattelet, liittymisestä kerhoon?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484853"
+    },
+    {
+      "english": "Could you recommend, a good book?",
+      "finnish": "Voisitko suositella, hyvää kirjaa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484857"
+    },
+    {
+      "english": "Where do you usually, spend your weekends?",
+      "finnish": "Missä yleensä vietät, viikonloppusi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484859"
+    },
+    {
+      "english": "Do you prefer, indoor or outdoor activities?",
+      "finnish": "Suositko enemmän, sisä- vai ulkoaktiviteetteja?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484862"
+    },
+    {
+      "english": "What's something, you'd like to try?",
+      "finnish": "Mikä olisi jotain, mitä haluaisit kokeilla?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484866"
+    },
+    {
+      "english": "Have you ever tried, cross-country skiing?",
+      "finnish": "Oletko koskaan kokeillut, hiihtoa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484870"
+    },
+    {
+      "english": "What's your go-to, hobby for stress relief?",
+      "finnish": "Mikä on lempipuuhasi, stressin lievittämiseen?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484873"
+    },
+    {
+      "english": "Do you enjoy, learning new skills?",
+      "finnish": "Nautitko, uusien taitojen oppimisesta?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484876"
+    },
+    {
+      "english": "What are your thoughts, on volunteering?",
+      "finnish": "Mitä ajattelet, vapaaehtoistyöstä?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484879"
+    },
+    {
+      "english": "How do you spend, your downtime?",
+      "finnish": "Miten vietät, vapaa-aikasi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484882"
+    },
+    {
+      "english": "What's a recent hobby, you've picked up?",
+      "finnish": "Mikä on uusin harrastus, jonka olet aloittanut?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484885"
+    },
+    {
+      "english": "Do you have a creative, outlet?",
+      "finnish": "Onko sinulla luovaa, kanavaa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484888"
+    },
+    {
+      "english": "What inspires, your free time activities?",
+      "finnish": "Mikä inspiroi, vapaa-ajan toimintaasi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484891"
+    },
+    {
+      "english": "Is there anything, you want to share?",
+      "finnish": "Onko jotain, mitä haluat jakaa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484912"
+    },
+    {
+      "english": "What's your favorite, way to relax outdoors?",
+      "finnish": "Mikä on lempitapasi, rentoutua ulkona?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484916"
+    },
+    {
+      "english": "Do you enjoy, visiting museums?",
+      "finnish": "Nautitko, museoiden vierailusta?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484919"
+    },
+    {
+      "english": "What are you passionate, about these days?",
+      "finnish": "Mistä olet intohimoinen, nykyään?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484922"
+    },
+    {
+      "english": "How do you find, time for hobbies?",
+      "finnish": "Miten löydät, aikaa harrastuksille?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484925"
+    },
+    {
+      "english": "Do you prefer, solo or group activities?",
+      "finnish": "Suositko enemmän, yksin- vai ryhmäaktiviteetteja?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484927"
+    },
+    {
+      "english": "What's your dream, hobby project?",
+      "finnish": "Mikä on unelmaharrastusprojektisi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484933"
+    },
+    {
+      "english": "Can you suggest, something fun to do?",
+      "finnish": "Voitko ehdottaa, jotain hauskaa tekemistä?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484937"
+    },
+    {
+      "english": "What's your favorite, type of relaxation?",
+      "finnish": "Mikä on lempitapasi, rentoutua?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484941"
+    },
+    {
+      "english": "Do you ever, try new recipes?",
+      "finnish": "Kokeiletko koskaan, uusia reseptejä?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484943"
+    },
+    {
+      "english": "What are you looking, forward to this week?",
+      "finnish": "Mitä odotat, tältä viikolta?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484946"
+    },
+    {
+      "english": "My hobby, is my escape.",
+      "finnish": "Harrastukseni, on minun pakopaikkani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484949"
+    },
+    {
+      "english": "Let's just, hang out.",
+      "finnish": "Mennään vaan, hengaillaan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484952"
+    },
+    {
+      "english": "I need, to decompress.",
+      "finnish": "Minun pitää, rentoutua.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484955"
+    },
+    {
+      "english": "Killing time, is an art.",
+      "finnish": "Ajanvietto, on taidetta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484958"
+    },
+    {
+      "english": "What's cooking, good looking?",
+      "finnish": "Mitä kuuluu, kaunis?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484961"
+    },
+    {
+      "english": "Just chilling, by the lake.",
+      "finnish": "Chillataan vaan, järven rannalla.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484964"
+    },
+    {
+      "english": "My happy place, is my garden.",
+      "finnish": "Onneni paikka, on puutarhani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484970"
+    },
+    {
+      "english": "Doing nothing, is sometimes best.",
+      "finnish": "Ei mitään tekeminen, on joskus parasta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484974"
+    },
+    {
+      "english": "I'm all ears, tell me.",
+      "finnish": "Olen kaikki korvat, kerro minulle.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484977"
+    },
+    {
+      "english": "Let's go for, a stroll.",
+      "finnish": "Mennään, kävelylle.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484981"
+    },
+    {
+      "english": "My head, needs clearing.",
+      "finnish": "Pääni, tarvitsee selkeyttä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484983"
+    },
+    {
+      "english": "This is, my me-time.",
+      "finnish": "Tämä on, minun oma aikani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484987"
+    },
+    {
+      "english": "What's the plan, Stan?",
+      "finnish": "Mikä on suunnitelma, Stan?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484989"
+    },
+    {
+      "english": "I'm just, going with the flow.",
+      "finnish": "Menen vain, virran mukana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484993"
+    },
+    {
+      "english": "My sanctuary, my workshop.",
+      "finnish": "Pyhäkköni, työpajani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484995"
+    },
+    {
+      "english": "Let's grab, a bite.",
+      "finnish": "Mennään, napostelemaan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.484998"
+    },
+    {
+      "english": "Need some, quiet time.",
+      "finnish": "Tarvitsen, rauhoittumisaikaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485001"
+    },
+    {
+      "english": "My passion, fuels me.",
+      "finnish": "Intohimoni, ruokkii minua.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485003"
+    },
+    {
+      "english": "What's up, buttercup?",
+      "finnish": "Mitä kuuluu, voi-nappunen?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485007"
+    },
+    {
+      "english": "Just enjoying, the moment.",
+      "finnish": "Nautin vain, hetkestä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485011"
+    },
+    {
+      "english": "My happy habit, is reading.",
+      "finnish": "Iloinen tapani, on lukeminen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485014"
+    },
+    {
+      "english": "We should, catch up soon.",
+      "finnish": "Meidän pitäisi, tavata pian.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485017"
+    },
+    {
+      "english": "My therapy, is painting.",
+      "finnish": "Terapiaani, on maalaaminen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485020"
+    },
+    {
+      "english": "What's shaking, bacon?",
+      "finnish": "Mikä meininki, pekoni?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485023"
+    },
+    {
+      "english": "Just a quiet, Saturday.",
+      "finnish": "Vain hiljainen, lauantai.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485025"
+    },
+    {
+      "english": "My escape, from the everyday.",
+      "finnish": "Pakoni, arjesta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485028"
+    },
+    {
+      "english": "Need to, recharge batteries.",
+      "finnish": "Pitää, ladata akkuja.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485031"
+    },
+    {
+      "english": "My creative, spark is lit.",
+      "finnish": "Luova, kipinäni on syttynyt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485034"
+    },
+    {
+      "english": "Let's make, some memories.",
+      "finnish": "Tehdään, muistoja.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485039"
+    },
+    {
+      "english": "My peaceful, little world.",
+      "finnish": "Rauhallinen, pieni maailmani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485041"
+    },
+    {
+      "english": "My hobby, brings me peace.",
+      "finnish": "Harrastukseni, tuo minulle rauhaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485044"
+    },
+    {
+      "english": "I need, quiet contemplation.",
+      "finnish": "Tarvitsen, hiljaista pohdintaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485047"
+    },
+    {
+      "english": "This activity, calms my mind.",
+      "finnish": "Tämä puuha, rauhoittaa mieleni.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485050"
+    },
+    {
+      "english": "Let's just, be present now.",
+      "finnish": "Olkaamme, vain läsnä nyt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485053"
+    },
+    {
+      "english": "Finding joy, in simple things.",
+      "finnish": "Löytää iloa, pienistä asioista.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485056"
+    },
+    {
+      "english": "My inner world, expands here.",
+      "finnish": "Sisäinen maailmani, laajenee täällä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485058"
+    },
+    {
+      "english": "Patience, is key with this.",
+      "finnish": "Kärsivällisyys, on tässä avain.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485061"
+    },
+    {
+      "english": "What makes, your soul sing?",
+      "finnish": "Mikä saa, sielusi laulamaan?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485064"
+    },
+    {
+      "english": "This is, my honest escape.",
+      "finnish": "Tämä on, rehellinen pakoni.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485067"
+    },
+    {
+      "english": "Feeling truly, myself here.",
+      "finnish": "Tunnen itseni, todella tässä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485069"
+    },
+    {
+      "english": "Slow down, and just breathe.",
+      "finnish": "Hidasta, ja hengitä vain.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485072"
+    },
+    {
+      "english": "My thoughts, wander freely now.",
+      "finnish": "Ajatukseni, vaeltavat vapaasti nyt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485075"
+    },
+    {
+      "english": "It's okay, to be imperfect.",
+      "finnish": "On ihan ok, olla epätäydellinen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485078"
+    },
+    {
+      "english": "What brings, you deep contentment?",
+      "finnish": "Mikä tuo, sinulle syvän tyytyväisyyden?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485081"
+    },
+    {
+      "english": "This restores, my inner balance.",
+      "finnish": "Tämä palauttaa, sisäisen tasapainoni.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485085"
+    },
+    {
+      "english": "I'm learning, to be more patient.",
+      "finnish": "Opin, olemaan kärsivällisempi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485088"
+    },
+    {
+      "english": "My creative spirit, awakens.",
+      "finnish": "Luova henkeni, herää.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485091"
+    },
+    {
+      "english": "Just enjoying, the process.",
+      "finnish": "Nautin vain, prosessista.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485094"
+    },
+    {
+      "english": "Feeling grateful, for this time.",
+      "finnish": "Tunnen kiitollisuutta, tästä ajasta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485097"
+    },
+    {
+      "english": "What fuels, your quiet joy?",
+      "finnish": "Mikä ruokkii, hiljaista iloasi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485100"
+    },
+    {
+      "english": "This helps, me reflect deeply.",
+      "finnish": "Tämä auttaa, minua syvästi miettimään.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485102"
+    },
+    {
+      "english": "My true self, comes out here.",
+      "finnish": "Todellinen minäni, tulee esiin täällä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485105"
+    },
+    {
+      "english": "Letting go, of daily stress.",
+      "finnish": "Päästän irti, arjen stressistä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485108"
+    },
+    {
+      "english": "Embracing, the slow moments.",
+      "finnish": "Syleillen, hitaita hetkiä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485111"
+    },
+    {
+      "english": "What makes, your heart feel full?",
+      "finnish": "Mikä tekee, sydämesi täydeksi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485114"
+    },
+    {
+      "english": "Finding solace, in stillness.",
+      "finnish": "Löytää lohtua, hiljaisuudesta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485117"
+    },
+    {
+      "english": "My quiet space, my refuge.",
+      "finnish": "Rauhallinen tilani, turvapaikkani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485120"
+    },
+    {
+      "english": "This is, pure self-care.",
+      "finnish": "Tämä on, puhdasta itsensä hoitoa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485125"
+    },
+    {
+      "english": "I feel, more centered now.",
+      "finnish": "Tunnen oloni, keskittyneemmäksi nyt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485128"
+    },
+    {
+      "english": "What nourishes, your spirit?",
+      "finnish": "Mikä ravistelee, henkeäsi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:42:50.485131"
     }
   ],
-  "last_updated": "2026-11-01T10:13:05.082617"
+  "last_updated": "2026-11-02T10:42:50.485135"
 }
