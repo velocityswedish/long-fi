@@ -2159,7 +2159,727 @@
       "finnish": "Mikä ravistelee, henkeäsi?",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-02T10:42:50.485131"
+    },
+    {
+      "english": "Okay, let’s do this, one step now.",
+      "finnish": "Selvä, tehdään tämä, yksi askel nyt.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127053"
+    },
+    {
+      "english": "Nice, you’re improving, keep going.",
+      "finnish": "Hienoa, parannat, jatka vaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127065"
+    },
+    {
+      "english": "Great job, don’t stop now, seriously.",
+      "finnish": "Hyvin tehty, älä lopeta nyt, tosissasi.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127068"
+    },
+    {
+      "english": "Yes, that’s it, exactly, nailed it.",
+      "finnish": "Kyllä, juuri niin, täydellinen, osui kohdilleen.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127071"
+    },
+    {
+      "english": "Good plan, try it, no overthinking.",
+      "finnish": "Hyvä juttu, kokeile, älä vatvo liikaa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127073"
+    },
+    {
+      "english": "Okay, breathe, you’ve got this, trust me.",
+      "finnish": "Selvä, hengitä, sä selviät, luota mua.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127076"
+    },
+    {
+      "english": "Awesome, start small, stack wins daily.",
+      "finnish": "Mahtavaa, aloita pienesti, kasaa voittoja joka päivä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127078"
+    },
+    {
+      "english": "Cool, move on, you’re learning fast.",
+      "finnish": "No niin, jatka eteenpäin, opit nopeasti.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127082"
+    },
+    {
+      "english": "Nice try, keep it up, you’ll get there.",
+      "finnish": "Hyvä yritys, jatka samaan malliin, kyllä se.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127086"
+    },
+    {
+      "english": "Alright, next task, quick mode, go go.",
+      "finnish": "Okei, seuraava tehtävä, nopea tila, mennään.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127088"
+    },
+    {
+      "english": "Remember, small effort beats zero effort.",
+      "finnish": "Muista, pieni yritys voittaa nolla yrityksen.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127090"
+    },
+    {
+      "english": "Perfect, do it again, you’ve improved.",
+      "finnish": "Täydellistä, tee uudestaan, olet parantanut.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127092"
+    },
+    {
+      "english": "Let’s go, today counts, focus and act.",
+      "finnish": "Jee, tänään merkitsee, keskity ja toimi.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127094"
+    },
+    {
+      "english": "I like that, keep it up, real vibes.",
+      "finnish": "Tykkään, jatka samaan malliin, fiilis kohdillaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127096"
+    },
+    {
+      "english": "Good, you said it, now make it happen.",
+      "finnish": "Hyvä, sanoit sen, nyt toteuta se.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127098"
+    },
+    {
+      "english": "No worries, we’ll figure it out, together.",
+      "finnish": "Ei hätää, kyllä se selviää, yhdessä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127100"
+    },
+    {
+      "english": "That’s right, don’t quit, you’re close.",
+      "finnish": "Aivan oikein, älä lopeta, olet lähellä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127105"
+    },
+    {
+      "english": "Nice timing, keep rolling, momentum matters.",
+      "finnish": "Hyvä ajoitus, jatka eteenpäin, vauhti merkitsee.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127106"
+    },
+    {
+      "english": "Okay, try again, same goal, different way.",
+      "finnish": "Okei, kokeile uudestaan, sama tavoite, eri tapa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127108"
+    },
+    {
+      "english": "Great, you’re on track, don’t lose it.",
+      "finnish": "Hyvä, olet oikealla tiellä, älä menetä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127110"
+    },
+    {
+      "english": "Sweet, that works, keep doing that.",
+      "finnish": "Hienoa, se toimii, tee sitä vaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127112"
+    },
+    {
+      "english": "Alright, fast answer, no hesitation, go.",
+      "finnish": "Okei, nopea vastaus, ei epäröintiä, eteenpäin.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127114"
+    },
+    {
+      "english": "Good question, let’s decide, then act.",
+      "finnish": "Hyvä kysymys, päätetään, sitten toimitaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127116"
+    },
+    {
+      "english": "Yes, progress counts, even tiny steps.",
+      "finnish": "Kyllä, edistys merkitsee, vaikka pienet askeleet.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127117"
+    },
+    {
+      "english": "You’ve got this, one more try, promise.",
+      "finnish": "Sä selviät, yksi yritys lisää, lupaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127119"
+    },
+    {
+      "english": "Nice! That’s the attitude, keep aiming higher.",
+      "finnish": "Kiva! Se on asenne, tähtää vielä ylemmäs.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127122"
+    },
+    {
+      "english": "No cap, this is working, keep at it.",
+      "finnish": "Ei vitsi, tämä toimii, jatka vaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127124"
+    },
+    {
+      "english": "Okay, reset, start fresh, you’re good.",
+      "finnish": "Okei, nollaa, aloita puhtaalta pöydältä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127126"
+    },
+    {
+      "english": "Smart move, you chose right, nice!",
+      "finnish": "Hyvä valinta, teit oikean ratkaisun, kiva!",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127128"
+    },
+    {
+      "english": "What’s your goal for today, exactly?",
+      "finnish": "Mikä on tavoitteesi tälle päivälle, ihan tarkalleen?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127130"
+    },
+    {
+      "english": "Can I ask, what helps you most?",
+      "finnish": "Saanko kysyä, mikä auttaa sinua eniten?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127132"
+    },
+    {
+      "english": "How do you say this politely?",
+      "finnish": "Miten sinä sanot tämän kohteliaasti?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127134"
+    },
+    {
+      "english": "Would you mind repeating that, please?",
+      "finnish": "Haluaisitko toistaa tuon, kiitos?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127136"
+    },
+    {
+      "english": "What’s the best way to start?",
+      "finnish": "Mikä on paras tapa aloittaa?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127139"
+    },
+    {
+      "english": "Where do you usually get motivation?",
+      "finnish": "Mistä sinä yleensä saat motivaatiota?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127141"
+    },
+    {
+      "english": "When should I ask for help?",
+      "finnish": "Milloin minun kannattaa pyytää apua?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127143"
+    },
+    {
+      "english": "Do you think this plan will work?",
+      "finnish": "Uskotko, että tämä suunnitelma toimii?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127144"
+    },
+    {
+      "english": "What did you learn from last time?",
+      "finnish": "Mitä opit viime kerrasta?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127145"
+    },
+    {
+      "english": "Can I get your quick advice?",
+      "finnish": "Saisinko nopean neuvon?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127148"
+    },
+    {
+      "english": "Which part feels hardest right now?",
+      "finnish": "Mikä kohta tuntuu nyt vaikeimmalta?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127150"
+    },
+    {
+      "english": "Should I focus on accuracy or speed?",
+      "finnish": "Kannattaako minun keskittyä tarkkuuteen vai nopeuteen?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127152"
+    },
+    {
+      "english": "How can I make this easier for me?",
+      "finnish": "Miten saan tämän itselleni helpommaksi?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127156"
+    },
+    {
+      "english": "What’s your routine before you start?",
+      "finnish": "Mikä on rutiinisi ennen kuin aloitat?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127158"
+    },
+    {
+      "english": "Who do you ask when you’re stuck?",
+      "finnish": "Keneltä kysyt, kun olet jumissa?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127161"
+    },
+    {
+      "english": "Do you prefer short sessions or long ones?",
+      "finnish": "Suositko lyhyitä vai pitkiä treenejä?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127163"
+    },
+    {
+      "english": "Can we plan the next step together?",
+      "finnish": "Voidaanko suunnitella seuraava askel yhdessä?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127164"
+    },
+    {
+      "english": "What would you do in my place?",
+      "finnish": "Mitä sinä tekisit minun asemassani?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127166"
+    },
+    {
+      "english": "Is it better to ask first, or try?",
+      "finnish": "Onko parempi kysyä ensin, vai yrittää?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127168"
+    },
+    {
+      "english": "How do you keep going when it’s boring?",
+      "finnish": "Miten jaksat jatkaa, kun homma tuntuu tylsältä?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127171"
+    },
+    {
+      "english": "What’s one small change that helps fast?",
+      "finnish": "Mikä pieni muutos auttaa nopeasti?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127173"
+    },
+    {
+      "english": "Could you share what worked for you?",
+      "finnish": "Voisitko kertoa, mikä toimi sinulle?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127174"
+    },
+    {
+      "english": "When do you usually review your progress?",
+      "finnish": "Milloin yleensä katsot edistymistäsi?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127176"
+    },
+    {
+      "english": "Should we track results, or just effort?",
+      "finnish": "Seurataanko tuloksia, vai pelkkää yrittämistä?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127177"
+    },
+    {
+      "english": "What’s the one rule you follow daily?",
+      "finnish": "Mikä on se yksi sääntö, jota noudatat joka päivä?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127179"
+    },
+    {
+      "english": "Do you want feedback, or just encouragement?",
+      "finnish": "Haluatko palautetta, vai pelkkää kannustusta?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127181"
+    },
+    {
+      "english": "What’s your next question for me?",
+      "finnish": "Mikä on seuraava kysymyksesi minulle?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127183"
+    },
+    {
+      "english": "Can we set a time, so you don’t drift?",
+      "finnish": "Sovitaanko aika, ettei mene hukkaan?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127185"
+    },
+    {
+      "english": "How honest should I be with you?",
+      "finnish": "Kuinka rehellinen minun kannattaa olla sinulle?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127187"
+    },
+    {
+      "english": "What’s the real reason you want this?",
+      "finnish": "Mikä on se oikea syy, miksi haluat tämän?",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127189"
+    },
+    {
+      "english": "Keep your mind on one step, quietly.",
+      "finnish": "Pidä mielesi yhdessä askeleessa, hiljaa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127191"
+    },
+    {
+      "english": "Today, you win by showing up.",
+      "finnish": "Tänään voitat sillä, että tulet paikalle.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127193"
+    },
+    {
+      "english": "Mistakes teach fast, if you listen.",
+      "finnish": "Virheet opettavat nopeasti, jos kuuntelet.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127195"
+    },
+    {
+      "english": "Breathe, then try again, calmly.",
+      "finnish": "Hengitä, sitten yritä uudestaan, rauhassa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127197"
+    },
+    {
+      "english": "Your effort counts, even when it’s messy.",
+      "finnish": "Ponnistuskin merkitsee, vaikka se olisi sotkuista.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127199"
+    },
+    {
+      "english": "Small wins stack up, day after day.",
+      "finnish": "Pienet voitot kasaantuvat, päivä päivältä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127201"
+    },
+    {
+      "english": "Say it to yourself, you can learn.",
+      "finnish": "Sano se itsellesi, voit oppia.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127202"
+    },
+    {
+      "english": "Confidence grows, when you repeat the habit.",
+      "finnish": "Luottamus kasvaa, kun toistat tavan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127204"
+    },
+    {
+      "english": "Don’t wait for perfect, start anyway.",
+      "finnish": "Älä odota täydellistä, aloita silti.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127206"
+    },
+    {
+      "english": "Each day is a vote for yourself.",
+      "finnish": "Jokainen päivä on ääni sinulle.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127208"
+    },
+    {
+      "english": "Give yourself credit, even for drafts.",
+      "finnish": "Anna itsellesi kiitos, vaikka se olisi luonnos.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127210"
+    },
+    {
+      "english": "You’re not behind, you’re building.",
+      "finnish": "Et ole jäljessä, rakennat vain.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127212"
+    },
+    {
+      "english": "Keep it simple, just do what’s next.",
+      "finnish": "Pidä se yksinkertaisena, tee vain seuraava.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127214"
+    },
+    {
+      "english": "Your future self is cheering for you.",
+      "finnish": "Tuleva minäsi kannustaa sinua.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127218"
+    },
+    {
+      "english": "When it feels hard, that’s training time.",
+      "finnish": "Kun tuntuu vaikealta, se on treeniaikaa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127220"
+    },
+    {
+      "english": "You can try, without proving anything.",
+      "finnish": "Voit kokeilla, ilman että todistat mitään.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127222"
+    },
+    {
+      "english": "Trust the process, it’s working quietly.",
+      "finnish": "Luota prosessiin, se tekee työtä hiljaa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127224"
+    },
+    {
+      "english": "Celebrate effort, not just the finish line.",
+      "finnish": "Juhli ponnistusta, ei vain maaliin pääsyä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127226"
+    },
+    {
+      "english": "Say, “I’ll do it,” and move forward.",
+      "finnish": "Sano, “Teen sen”, ja mene eteenpäin.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127229"
+    },
+    {
+      "english": "Even one minute is a momentum start.",
+      "finnish": "Jo yksi minuutti käynnistää vauhdin.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127231"
+    },
+    {
+      "english": "You learn faster when you stay kind.",
+      "finnish": "Opit nopeammin, kun olet itsellesi ystävällinen.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127234"
+    },
+    {
+      "english": "Focus on what you can control today.",
+      "finnish": "Keskity siihen, mitä voit hallita tänään.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127235"
+    },
+    {
+      "english": "You’re doing better than yesterday, notice it.",
+      "finnish": "Teet paremmin kuin eilen, huomaa se.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127237"
+    },
+    {
+      "english": "Keep going, one sentence at a time.",
+      "finnish": "Jatka, yksi lause kerrallaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127239"
+    },
+    {
+      "english": "Progress feels small, but it’s real.",
+      "finnish": "Edistyminen tuntuu pieneltä, mutta se on oikeaa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127241"
+    },
+    {
+      "english": "Give yourself permission to be a beginner.",
+      "finnish": "Anna itsellesi lupa olla aloittelija.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127243"
+    },
+    {
+      "english": "Your attitude turns effort into results.",
+      "finnish": "Asenne muuttaa työn tuloksiksi.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127245"
+    },
+    {
+      "english": "Be proud of the work, not the luck.",
+      "finnish": "Ole ylpeä työstä, älä tuurista.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127247"
+    },
+    {
+      "english": "When doubts show up, you breathe and continue.",
+      "finnish": "Kun epäilyt tulevat, hengitä ja jatka.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127248"
+    },
+    {
+      "english": "Say thank you, then start again tomorrow.",
+      "finnish": "Sano kiitos, sitten aloita uudestaan huomenna.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127250"
+    },
+    {
+      "english": "I’m proud, even when I’m not ready yet.",
+      "finnish": "Olen ylpeä, vaikka en ole vielä valmis.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127252"
+    },
+    {
+      "english": "Lately, I’ve been honest about my limits.",
+      "finnish": "Viime aikoina olen ollut rehellinen rajoistani.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127254"
+    },
+    {
+      "english": "I want progress, not pressure on my chest.",
+      "finnish": "Haluan edistystä, en painetta rinnassani.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127256"
+    },
+    {
+      "english": "Some days, I just need patience.",
+      "finnish": "Johtuu joskus, että tarvitsen vain kärsivällisyyttä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127257"
+    },
+    {
+      "english": "I listen first, then I choose my next step.",
+      "finnish": "Kuuntelen ensin, sitten valitsen seuraavan askeleen.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127259"
+    },
+    {
+      "english": "I don’t shame myself for slow mornings.",
+      "finnish": "En häpeä itseäni hitaista aamuista.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127261"
+    },
+    {
+      "english": "When I feel stuck, I soften my expectations.",
+      "finnish": "Kun tunnen jumittavani, pehmennän odotuksiani.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127263"
+    },
+    {
+      "english": "Success starts when I stop pretending.",
+      "finnish": "Menestys alkaa, kun lopetan teeskentelyn.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127264"
+    },
+    {
+      "english": "I give myself time, not harsh deadlines.",
+      "finnish": "Annan itselleni aikaa, en tiukkoja määräaikoja.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127267"
+    },
+    {
+      "english": "I write the truth, then I act on it.",
+      "finnish": "Kirjaan totuuden, sitten toimin sen mukaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127268"
+    },
+    {
+      "english": "It’s okay to be unsure, and still move.",
+      "finnish": "On ok olla epävarma, ja silti edetä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127272"
+    },
+    {
+      "english": "I notice my feelings, then I steer gently.",
+      "finnish": "Huomaan tunteeni, sitten ohjaan kevyesti.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127273"
+    },
+    {
+      "english": "I’m learning to ask, without hiding.",
+      "finnish": "Opettelen pyytämään, ilman että piiloudun.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127275"
+    },
+    {
+      "english": "Even my doubts need room, not silence.",
+      "finnish": "Myös epäilyt tarvitsevat tilaa, ei hiljaisuutta.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127277"
+    },
+    {
+      "english": "I don’t measure my worth by outcomes alone.",
+      "finnish": "En mittaa arvoani vain tuloksilla.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127279"
+    },
+    {
+      "english": "I let setbacks teach me, then I reset.",
+      "finnish": "Annan vastoinkäymisten opettaa, sitten aloitan alusta.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127281"
+    },
+    {
+      "english": "My best motivation is being honest with myself.",
+      "finnish": "Parhain motivaatio on rehellisyys itseäni kohtaan.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127283"
+    },
+    {
+      "english": "I can be serious, and still stay warm.",
+      "finnish": "Voin olla tosissani, ja silti olla lämmin.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127284"
+    },
+    {
+      "english": "I keep going, because quitting doesn’t fit me.",
+      "finnish": "Jatkan, koska luovuttaminen ei sovi minulle.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127287"
+    },
+    {
+      "english": "I forgive myself, and I learn faster.",
+      "finnish": "Annan itselleni anteeksi, ja opin nopeammin.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127289"
+    },
+    {
+      "english": "I’m not chasing perfection, I’m chasing clarity.",
+      "finnish": "En jahtaa täydellisyyttä, vaan selkeyttä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127291"
+    },
+    {
+      "english": "Sometimes my “why” is just self-respect.",
+      "finnish": "Joskus “miksi” on vain itsekunnioitus.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127294"
+    },
+    {
+      "english": "I speak softly to myself, but I act.",
+      "finnish": "Puhun itselleni rauhassa, mutta toimin.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127297"
+    },
+    {
+      "english": "I can slow down, and still improve.",
+      "finnish": "Voin hidastaa, ja silti parantaa.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127298"
+    },
+    {
+      "english": "I’m building trust with my own consistency.",
+      "finnish": "Rakennan luottamusta omaan säännöllisyyteeni.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127300"
+    },
+    {
+      "english": "I accept the moment, then I choose again.",
+      "finnish": "Hyväksyn hetken, ja valitsen uudelleen.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127302"
+    },
+    {
+      "english": "I don’t need loud confidence, just honest effort.",
+      "finnish": "En tarvitse äänekästä varmuutta, vain rehellistä tekemistä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127305"
+    },
+    {
+      "english": "My progress is quiet, but it’s still progress.",
+      "finnish": "Edistykseni on hiljaista, mutta se on silti edistystä.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127307"
+    },
+    {
+      "english": "I’m brave enough to admit, I’m tired today.",
+      "finnish": "Olen rohkea myöntämään, olen väsynyt tänään.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127309"
+    },
+    {
+      "english": "I reflect, then I do one kinder thing.",
+      "finnish": "Pohdin, sitten teen yhden lempeämmän teon.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127312"
+    },
+    {
+      "english": "Small talk first, then ask your real question.",
+      "finnish": "Pienet jutut ensin, sitten kysy oikea kysymys.",
+      "category": "Success",
+      "generated_at": "2026-11-03T10:34:17.127314"
     }
   ],
-  "last_updated": "2026-11-02T10:42:50.485135"
+  "last_updated": "2026-11-03T10:34:17.127315"
 }
