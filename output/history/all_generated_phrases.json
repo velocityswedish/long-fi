@@ -2879,7 +2879,727 @@
       "finnish": "Pienet jutut ensin, sitten kysy oikea kysymys.",
       "category": "Success",
       "generated_at": "2026-11-03T10:34:17.127314"
+    },
+    {
+      "english": "Are you okay, do you feel better now?",
+      "finnish": "Oletko kunnossa, tuntuuko sinusta paremmalta nyt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990184"
+    },
+    {
+      "english": "Call an ambulance, please, it’s urgent.",
+      "finnish": "Soittakaa ambulanssi, kiitos, se on kiireellistä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990195"
+    },
+    {
+      "english": "Stay calm, breathe slowly, you’re not alone.",
+      "finnish": "Pysy rauhallisena, hengitä hitaasti, et ole yksin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990200"
+    },
+    {
+      "english": "Where does it hurt, show me, please.",
+      "finnish": "Mihin kohtaan se sattuu, näytä minulle, kiitos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990204"
+    },
+    {
+      "english": "Do you have medicine, do you have it with you?",
+      "finnish": "Onko sinulla lääkettä, onko se mukanasi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990207"
+    },
+    {
+      "english": "I think you need a doctor, seriously.",
+      "finnish": "Luulen, että tarvitset lääkärin, ihan tosissasi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990210"
+    },
+    {
+      "english": "Drink some water, take it easy.",
+      "finnish": "Juo vähän vettä, ota rennosti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990213"
+    },
+    {
+      "english": "Let me help you, sit down here.",
+      "finnish": "Autan sinua, istu tähän.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990220"
+    },
+    {
+      "english": "That doesn’t look good, are you dizzy?",
+      "finnish": "Ei näytä hyvältä, oletko huimassa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990233"
+    },
+    {
+      "english": "Are you breathing normally, answer me.",
+      "finnish": "Hengitätkö normaalisti, vastaa minulle.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990236"
+    },
+    {
+      "english": "Lie down, loosen your clothes, please.",
+      "finnish": "Makaahan, löysää vaatteesi, kiitos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990242"
+    },
+    {
+      "english": "Do you have allergies, tell me right now.",
+      "finnish": "Onko sinulla allergioita, kerro heti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990284"
+    },
+    {
+      "english": "Stop, move slowly, you might fall.",
+      "finnish": "Pysähdy, liiku hitaasti, voit kaatua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990292"
+    },
+    {
+      "english": "Call 112 now, don’t wait.",
+      "finnish": "Soita 112 nyt, älä odota.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990300"
+    },
+    {
+      "english": "I’m feeling sick, I need help.",
+      "finnish": "Minä voin pahoin, tarvitsen apua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990304"
+    },
+    {
+      "english": "Quick, check your temperature, please.",
+      "finnish": "Nopeasti, mittaa lämpötila, kiitos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990307"
+    },
+    {
+      "english": "Do you have a fever, how hot are you?",
+      "finnish": "Onko sinulla kuumetta, kuinka kuuma olet?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990310"
+    },
+    {
+      "english": "Where is the pain, front or back?",
+      "finnish": "Missä kohtaa sattuu, edessä vai takana?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990313"
+    },
+    {
+      "english": "I can’t breathe, call someone now.",
+      "finnish": "En pysty hengittämään, soita heti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990317"
+    },
+    {
+      "english": "Go to the pharmacy, I’ll wait here.",
+      "finnish": "Käy apteekissa, minä odotan tässä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990320"
+    },
+    {
+      "english": "Put pressure on it, don’t let it bleed.",
+      "finnish": "Paina siihen, älä päästä vuotamaan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990323"
+    },
+    {
+      "english": "That’s a bad cut, cover it now.",
+      "finnish": "Tuo on paha haava, peitä se nyt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990327"
+    },
+    {
+      "english": "Do you feel nauseous, should we sit?",
+      "finnish": "Oletko pahoinvoiva, istutaanko hetkeksi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990329"
+    },
+    {
+      "english": "I’m allergic, don’t give me that.",
+      "finnish": "Olen allerginen, älä anna minulle sitä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990333"
+    },
+    {
+      "english": "Let’s wash the wound, gently, please.",
+      "finnish": "Pestään haava, varovasti, kiitos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990336"
+    },
+    {
+      "english": "Are you in shock, look at me.",
+      "finnish": "Oletko shokissa, katso minua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990339"
+    },
+    {
+      "english": "I need water, my throat hurts.",
+      "finnish": "Tarvitsen vettä, kurkkuani särkee.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990342"
+    },
+    {
+      "english": "Do you have painkillers, anything for this?",
+      "finnish": "Onko sinulla kipulääkettä, jotain tähän?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990345"
+    },
+    {
+      "english": "Stay here, I’ll get help right away.",
+      "finnish": "Pysy tässä, haen apua heti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990348"
+    },
+    {
+      "english": "How long has this been going on?",
+      "finnish": "Kuinka kauan tämä on jatkunut?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990351"
+    },
+    {
+      "english": "What happened, where are you feeling it?",
+      "finnish": "Mitä tapahtui, missä kohtaa sinä tunnet sen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990354"
+    },
+    {
+      "english": "Do you have any allergies or past reactions?",
+      "finnish": "Onko sinulla allergioita tai aiempia reaktioita?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990357"
+    },
+    {
+      "english": "Can you speak, are you confused?",
+      "finnish": "Pystytkö puhumaan, oletko sekava?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990360"
+    },
+    {
+      "english": "When did it start, roughly?",
+      "finnish": "Milloin se alkoi, suunnilleen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990363"
+    },
+    {
+      "english": "Do you feel dizzy right now, on your feet?",
+      "finnish": "Tuntuuko sinusta huimaus nyt, seistessä?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990366"
+    },
+    {
+      "english": "Is the pain sharp, or more dull?",
+      "finnish": "Onko kipu terävää, vai enemmän jomottavaa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990368"
+    },
+    {
+      "english": "Have you taken anything already, any tablets?",
+      "finnish": "Oletko ottanut jo jotain, lääkettä?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990373"
+    },
+    {
+      "english": "Do you have nausea, or just pain?",
+      "finnish": "Onko sinulla pahoinvointia, vai pelkkää kipua?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990376"
+    },
+    {
+      "english": "Are you sweating a lot, right now?",
+      "finnish": "Hikoiletko paljon, juuri nyt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990379"
+    },
+    {
+      "english": "Can you show me, point to the spot?",
+      "finnish": "Voitko näyttää, osoita kohtaa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990381"
+    },
+    {
+      "english": "Do you feel tightness in your chest?",
+      "finnish": "Tuntuuko sinulla puristusta rinnassa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990384"
+    },
+    {
+      "english": "Are your lips bluish, do you notice?",
+      "finnish": "Huomaatko, ovatko huulesi sinertävät?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990388"
+    },
+    {
+      "english": "Do you have trouble swallowing, right now?",
+      "finnish": "Onko sinulla vaikea niellä, nyt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990391"
+    },
+    {
+      "english": "Is your throat swelling, do you feel it?",
+      "finnish": "Turpoaako kurkku, tuntuuko se?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990394"
+    },
+    {
+      "english": "Have you had asthma before, ever?",
+      "finnish": "Onko sinulla ollut astmaa, aiemmin?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990399"
+    },
+    {
+      "english": "Do you have an inhaler with you?",
+      "finnish": "Onko sinulla mukana inhalaattori?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990404"
+    },
+    {
+      "english": "Can you tell me your age, please?",
+      "finnish": "Voitko kertoa ikäsi, kiitos?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990406"
+    },
+    {
+      "english": "Do you have any chronic illnesses?",
+      "finnish": "Onko sinulla pitkäaikaissairauksia?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990409"
+    },
+    {
+      "english": "Have you eaten recently, or been fasting?",
+      "finnish": "Oletko syönyt äskettäin, vai olitko paastolla?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990412"
+    },
+    {
+      "english": "Do you have any medication allergies?",
+      "finnish": "Onko sinulla lääkeallergioita?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990415"
+    },
+    {
+      "english": "Are you bleeding now, or already stopped?",
+      "finnish": "Vuotaako se nyt, vai onko se jo loppunut?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990417"
+    },
+    {
+      "english": "Where exactly is the swelling, point please.",
+      "finnish": "Missä tarkalleen turvotus on, osoita.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990420"
+    },
+    {
+      "english": "Do you have numbness in your arm or leg?",
+      "finnish": "Tunnetko puutumista käsivarressa tai jalassa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990422"
+    },
+    {
+      "english": "Can you move your fingers, feel normal?",
+      "finnish": "Pystytkö liikuttamaan sormia, tuntuuko normaalilta?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990425"
+    },
+    {
+      "english": "What’s your pain level, from one to ten?",
+      "finnish": "Kuinka kova kipu, yhdestä kymmeneen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990429"
+    },
+    {
+      "english": "Would you like to sit, or stand?",
+      "finnish": "Haluatko istua, vai seistä?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990431"
+    },
+    {
+      "english": "Is it getting worse, or staying the same?",
+      "finnish": "Kasvaako se, vai pysyykö se samana?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990434"
+    },
+    {
+      "english": "Do you have a wound or rash anywhere?",
+      "finnish": "Onko sinulla haavaa tai ihottumaa missään?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990437"
+    },
+    {
+      "english": "Have you had this before, any similar episodes?",
+      "finnish": "Onko sinulla ollut tätä aiemmin?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990439"
+    },
+    {
+      "english": "What do you need right now, help or comfort?",
+      "finnish": "Mitä tarvitset nyt, apua vai rauhaa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990442"
+    },
+    {
+      "english": "Can I call someone for you, right now?",
+      "finnish": "Saanko soittaa jollekin puolestasi, nyt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990445"
+    },
+    {
+      "english": "Breathe slow, it’ll pass, okay?",
+      "finnish": "Hengitä rauhassa, se menee ohi, okei?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990449"
+    },
+    {
+      "english": "Quick check, how’s your head doing?",
+      "finnish": "Nopea tarkistus, miten sun pää voi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990452"
+    },
+    {
+      "english": "If you’re woozy, sit down, now.",
+      "finnish": "Jos huimaa, istu alas, heti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990456"
+    },
+    {
+      "english": "Don’t panic, we’ve got you, friend.",
+      "finnish": "Ei hätää, me pidetään sinusta huolta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990459"
+    },
+    {
+      "english": "Cold sweat, huh? Tell me straight.",
+      "finnish": "Kylmä hiki, eikö? Kerro suoraan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990463"
+    },
+    {
+      "english": "Easy now, slow breathing, keep calm.",
+      "finnish": "Rauhallisesti nyt, hitaasti hengitä, ole tyyneysi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990465"
+    },
+    {
+      "english": "That looks bad, better get checked.",
+      "finnish": "Tuo näyttää pahalta, käydään mieluummin tarkistamassa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990468"
+    },
+    {
+      "english": "Mouth dry? Sip water, just a bit.",
+      "finnish": "Kuiva suu? Ota pieni hörppy vettä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990471"
+    },
+    {
+      "english": "Let’s take it easy, rest a moment.",
+      "finnish": "Otetaas rauhassa, lepää hetki.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990474"
+    },
+    {
+      "english": "Is the cough loud, or just annoying?",
+      "finnish": "Onko yskä kova, vai vaan ärsyttävä?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990477"
+    },
+    {
+      "english": "Hold on, I’ll call the nurse.",
+      "finnish": "Odota hetki, soitan hoitajalle.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990480"
+    },
+    {
+      "english": "Sore throat again? That’s no fun.",
+      "finnish": "Kipeä kurkku taas? Ei kivaa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990483"
+    },
+    {
+      "english": "Slow down, your heart’s racing, see?",
+      "finnish": "Hidasta, sydän hakkaa, huomaathan?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990489"
+    },
+    {
+      "english": "If it worsens, don’t wait, call.",
+      "finnish": "Jos pahenee, älä odota, soita.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990493"
+    },
+    {
+      "english": "You’re safe here, just breathe.",
+      "finnish": "Olet turvassa tässä, hengitä vain.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990496"
+    },
+    {
+      "english": "Loose fit clothes, so you can breathe.",
+      "finnish": "Väljät vaatteet, jotta hengitys kulkee.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990499"
+    },
+    {
+      "english": "Warm blanket, quick help, okay?",
+      "finnish": "Lämmin peitto, nopea apu, okei?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990504"
+    },
+    {
+      "english": "Let’s cool it down, skin needs calm.",
+      "finnish": "Jäähdytetään, iho tarvitsee rauhaa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990507"
+    },
+    {
+      "english": "That sting won’t scare you, keep still.",
+      "finnish": "Tuo vihlaisu ei pelota, ole vain paikoillasi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990510"
+    },
+    {
+      "english": "We’ll keep an eye, no worries.",
+      "finnish": "Pidetään silmällä, ei hätää.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990514"
+    },
+    {
+      "english": "If you faint, lie down, slow and safe.",
+      "finnish": "Jos pyörryt, laskeudu, rauhassa ja turvallisesti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990519"
+    },
+    {
+      "english": "Mild now, but watch it closely.",
+      "finnish": "Nyt lievää, mutta seuraa tarkasti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990522"
+    },
+    {
+      "english": "Easy on the sugar, stomach’s upset.",
+      "finnish": "Kevyesti sokerilla, vatsa on sekaisin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990525"
+    },
+    {
+      "english": "No sudden moves, let’s steady you.",
+      "finnish": "Ei äkkinäisiä liikkeitä, tasataan olo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990528"
+    },
+    {
+      "english": "That bruise is spreading, get help.",
+      "finnish": "Sinne mustelma leviää, soita apua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990531"
+    },
+    {
+      "english": "Tingling? Don’t ignore it, tell me.",
+      "finnish": "Pistelee? Älä ohita, kerro.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990534"
+    },
+    {
+      "english": "If it’s burning, keep it cool.",
+      "finnish": "Jos polttaa, pidetään viileänä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990537"
+    },
+    {
+      "english": "You’re not alone, we handle this.",
+      "finnish": "Et ole yksin, me hoidetaan tämä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990541"
+    },
+    {
+      "english": "Let’s check your breathing, nice and calm.",
+      "finnish": "Katsotaan hengitys, rauhassa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990544"
+    },
+    {
+      "english": "For now, water by little sips.",
+      "finnish": "Toistaiseksi, vettä pienin hörpin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990547"
+    },
+    {
+      "english": "I’m scared, but I’m here with you.",
+      "finnish": "Minua pelottaa, mutta olen tässä kanssasi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990550"
+    },
+    {
+      "english": "It feels intense, let’s slow down together.",
+      "finnish": "Tämä tuntuu tosi voimakkaalta, rauhoitetaan yhdessä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990554"
+    },
+    {
+      "english": "I’m trying to stay calm, tell me step by step.",
+      "finnish": "Yritän pysyä rauhallisena, kerro vaihe vaiheelta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990557"
+    },
+    {
+      "english": "I keep thinking, maybe I overreacted.",
+      "finnish": "Mielessäni pyörii, ehkä liioittelen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990560"
+    },
+    {
+      "english": "Please be patient, I’m still processing.",
+      "finnish": "Olethan kärsivällinen, olen vielä vasta sisäistämässä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990563"
+    },
+    {
+      "english": "My chest feels tight, I need a moment.",
+      "finnish": "Rinnassa tuntuu puristusta, tarvitsen hetken.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990566"
+    },
+    {
+      "english": "I’m not sure, but it worries me.",
+      "finnish": "En ole varma, mutta se huolettaa minua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990569"
+    },
+    {
+      "english": "Let’s talk first, I feel overwhelmed.",
+      "finnish": "Puhutaan ensin, olen ihan ylikuormittunut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990572"
+    },
+    {
+      "english": "I’m shaking a bit, it’s just fear.",
+      "finnish": "Värisen vähän, se on vain pelkoa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990575"
+    },
+    {
+      "english": "I can’t focus, my thoughts are racing.",
+      "finnish": "En saa keskittyä, ajatukset juokseevät.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990579"
+    },
+    {
+      "english": "I feel embarrassed, but I need help.",
+      "finnish": "Minua hävettää, mutta tarvitsen apua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990581"
+    },
+    {
+      "english": "I’m trying, but I get lightheaded sometimes.",
+      "finnish": "Yritän, mutta tulee välillä huono olo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990585"
+    },
+    {
+      "english": "Give me time, I’ll answer soon.",
+      "finnish": "Anna minulle aikaa, vastaan kohta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990588"
+    },
+    {
+      "english": "I’m proud I’m speaking up now.",
+      "finnish": "Olen ylpeä, että puhun nyt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990591"
+    },
+    {
+      "english": "This feels worse than usual, honestly.",
+      "finnish": "Tämä tuntuu pahemmalta kuin yleensä, rehellisesti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990594"
+    },
+    {
+      "english": "I’m listening, please say it clearly.",
+      "finnish": "Kuulen kyllä, sano se selkeästi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990597"
+    },
+    {
+      "english": "I want to understand, not just rush.",
+      "finnish": "Haluan ymmärtää, en vain hätäillä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990601"
+    },
+    {
+      "english": "I feel better when you reassure me.",
+      "finnish": "Minulle tulee parempi olo, kun rauhoittelet.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990604"
+    },
+    {
+      "english": "I’m worried about later, what if it returns?",
+      "finnish": "Huolehdin myöhemmin, entä jos se palaa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990609"
+    },
+    {
+      "english": "I’m still hurting, but I can talk.",
+      "finnish": "Minulla on vielä kipua, mutta pystyn puhumaan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990612"
+    },
+    {
+      "english": "I’m trying to breathe, it helps a bit.",
+      "finnish": "Yritän hengittää, se auttaa vähän.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990615"
+    },
+    {
+      "english": "I don’t want to panic, just help.",
+      "finnish": "En halua panikoida, haluan vain apua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990618"
+    },
+    {
+      "english": "Please explain why, I need clarity.",
+      "finnish": "Selitä miksi, tarvitsen selkeyttä.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990622"
+    },
+    {
+      "english": "I feel numb inside, it’s like shock.",
+      "finnish": "Tuntuu tunnottomalta sisälläni, kuin shokki.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990625"
+    },
+    {
+      "english": "I’m scared it’s something serious, sorry.",
+      "finnish": "Pelottaa, että tämä on vakavaa, anteeksi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990628"
+    },
+    {
+      "english": "Let’s keep it simple, what should I do?",
+      "finnish": "Pidetään tämä yksinkertaisena, mitä teen nyt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990631"
+    },
+    {
+      "english": "I can’t tell exactly, but it feels off.",
+      "finnish": "En osaa sanoa tarkasti, mutta jokin ei tunnu oikealta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990635"
+    },
+    {
+      "english": "Please don’t rush me, I need steadiness.",
+      "finnish": "Älä kiirehdi, tarvitsen rauhallista otetta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990640"
+    },
+    {
+      "english": "I’m grateful, I’ll try to stay positive.",
+      "finnish": "Olen kiitollinen, yritän pysyä positiivisena.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:38:40.990643"
     }
   ],
-  "last_updated": "2026-11-03T10:34:17.127315"
+  "last_updated": "2026-11-04T10:38:40.990645"
 }
