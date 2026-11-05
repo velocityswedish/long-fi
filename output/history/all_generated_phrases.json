@@ -3599,7 +3599,727 @@
       "finnish": "Olen kiitollinen, yritän pysyä positiivisena.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-04T10:38:40.990643"
+    },
+    {
+      "english": "Hi, can I order now, please?",
+      "finnish": "Hei, saanko tilata nyt, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048671"
+    },
+    {
+      "english": "Do you have anything vegetarian, today?",
+      "finnish": "Onko teillä jotain kasvisruokaa, tänään?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048684"
+    },
+    {
+      "english": "What’s the most popular dish, here?",
+      "finnish": "Mikä on täällä suosituin annos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048689"
+    },
+    {
+      "english": "Can I get a recommendation, please?",
+      "finnish": "Voisitko suositella jotain, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048692"
+    },
+    {
+      "english": "Is it spicy, or not really?",
+      "finnish": "Onko se tulista, vai ei niin?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048695"
+    },
+    {
+      "english": "I’ll take that one, please.",
+      "finnish": "Otan tuon, kiitos.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048698"
+    },
+    {
+      "english": "No onions, please, I’m allergic.",
+      "finnish": "Ei sipulia, kiitos, olen allerginen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048702"
+    },
+    {
+      "english": "Could I get it without sauce?",
+      "finnish": "Saako sen ilman kastiketta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048707"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "finnish": "Saanko laskun, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048711"
+    },
+    {
+      "english": "Wait, can I change my order?",
+      "finnish": "Hetkinen, voinko vaihtaa tilausta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048714"
+    },
+    {
+      "english": "Sorry, I meant one more set.",
+      "finnish": "Anteeksi, tarkoitin vielä yhtä lisää.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048717"
+    },
+    {
+      "english": "Is tap water available, for free?",
+      "finnish": "Onko hanavesi saatavilla, ilmaiseksi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048720"
+    },
+    {
+      "english": "How long will it take, roughly?",
+      "finnish": "Kauanko siihen menee, suunnilleen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048723"
+    },
+    {
+      "english": "Is there a lunch menu, right now?",
+      "finnish": "Onko teillä lounaslista, juuri nyt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048725"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "finnish": "Onko teillä gluteenittomia vaihtoehtoja?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048728"
+    },
+    {
+      "english": "I’ll drink coffee, not tea.",
+      "finnish": "Otan kahvia, en teetä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048732"
+    },
+    {
+      "english": "Can I get it to go, please?",
+      "finnish": "Saanko tämän mukaan, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048734"
+    },
+    {
+      "english": "Is there parking nearby, by the way?",
+      "finnish": "Onko parkkipaikka lähellä, muuten?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048737"
+    },
+    {
+      "english": "Let’s split the bill, please.",
+      "finnish": "Voidaanko jakaa lasku, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048741"
+    },
+    {
+      "english": "Is service included, or extra?",
+      "finnish": "Sisältyykö palvelu hintaan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048743"
+    },
+    {
+      "english": "Thanks, that’s everything I need.",
+      "finnish": "Kiitos, siinä kaikki mitä tarvitsen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048747"
+    },
+    {
+      "english": "This is taking longer than expected.",
+      "finnish": "Tämä kestää kauemmin kuin ajattelin.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048750"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "finnish": "Saanko ruokalistan, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048752"
+    },
+    {
+      "english": "I’ll start with a starter, please.",
+      "finnish": "Otan alkuruuan, kiitos.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048755"
+    },
+    {
+      "english": "Is it included with the meal?",
+      "finnish": "Sisältyykö se ateriaan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048758"
+    },
+    {
+      "english": "One more thing, I’m in a hurry.",
+      "finnish": "Yksi juttu vielä, olen vähän kiireessä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048761"
+    },
+    {
+      "english": "Great, I’ll wait for my order.",
+      "finnish": "Hyvä, odotan tilaukseni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048764"
+    },
+    {
+      "english": "Sorry, where do I pick it up?",
+      "finnish": "Anteeksi, mistä noudan sen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048769"
+    },
+    {
+      "english": "Do you have any kids’ portions?",
+      "finnish": "Onko teillä lasten annoksia?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048773"
+    },
+    {
+      "english": "What do you suggest, for something light?",
+      "finnish": "Mitä suosittelet, jos haluan jotain kevyttä?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048776"
+    },
+    {
+      "english": "Is the sauce mild, or really strong?",
+      "finnish": "Onko kastike mietoa, vai aika voimakas?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048779"
+    },
+    {
+      "english": "Can I ask about allergens, quickly?",
+      "finnish": "Saanko kysyä allergeeneista, ihan nopeasti?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048782"
+    },
+    {
+      "english": "How fresh is the salad today?",
+      "finnish": "Kuinka tuoretta salaattia tänään on?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048784"
+    },
+    {
+      "english": "Do you have something dairy-free here?",
+      "finnish": "Onko teillä jotain maidotonta vaihtoehtoa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048787"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "finnish": "Mitä eroa näillä on?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048790"
+    },
+    {
+      "english": "Can I switch the side dishes?",
+      "finnish": "Voinko vaihtaa lisukkeet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048795"
+    },
+    {
+      "english": "Do you do half portions, by any chance?",
+      "finnish": "Teettekö puolikkaita annoksia?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048798"
+    },
+    {
+      "english": "Is this dish available all day?",
+      "finnish": "Onko tämä annos saatavilla koko päivän?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048801"
+    },
+    {
+      "english": "What comes with it, exactly?",
+      "finnish": "Mitä siihen kuuluu, ihan tarkasti?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048803"
+    },
+    {
+      "english": "Could I get it warmer, please?",
+      "finnish": "Saisinko tämän lämpimämpänä, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048806"
+    },
+    {
+      "english": "Is the fish breaded, or grilled?",
+      "finnish": "Onko kala leivitetty, vai grillattu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048809"
+    },
+    {
+      "english": "Any vegetarian options with lots of protein?",
+      "finnish": "Onko kasvisvaihtoehtoja, joissa on paljon proteiinia?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048814"
+    },
+    {
+      "english": "Can I add extra cheese, for example?",
+      "finnish": "Voinko lisätä ekstrajuustoa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048817"
+    },
+    {
+      "english": "Do you have any gluten-friendly choices?",
+      "finnish": "Onko teillä gluteenille ystävällisiä vaihtoehtoja?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048820"
+    },
+    {
+      "english": "What kind of drinks do you recommend?",
+      "finnish": "Millaisia juomia suosittelette?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048822"
+    },
+    {
+      "english": "Can I see the daily specials, please?",
+      "finnish": "Näettekö päivän erikoisuudet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048825"
+    },
+    {
+      "english": "I’m new here, what’s a safe pick?",
+      "finnish": "Olen täällä ensimmäistä kertaa, mikä on varma valinta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048829"
+    },
+    {
+      "english": "How spicy can I request, on a scale?",
+      "finnish": "Kuinka tulista saa, asteikolla?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048831"
+    },
+    {
+      "english": "Do you offer sauces on the side?",
+      "finnish": "Onko kastikkeet mahdollista ottaa erikseen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048834"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "finnish": "Saako täällä maksaa kortilla?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048836"
+    },
+    {
+      "english": "Is it noisy inside, or pretty calm?",
+      "finnish": "Onko sisällä meluisaa, vai rauhallista?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048839"
+    },
+    {
+      "english": "What time do they usually start serving?",
+      "finnish": "Mihin aikaan te yleensä aloitatte tarjoilun?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048842"
+    },
+    {
+      "english": "Is there a waiting list for popular dishes?",
+      "finnish": "Joutuuko suosittuja annoksia odottamaan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048844"
+    },
+    {
+      "english": "Do you have anything kid-friendly here?",
+      "finnish": "Onko teillä lapsille sopivia vaihtoehtoja?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048847"
+    },
+    {
+      "english": "Can we make a substitution, if needed?",
+      "finnish": "Onnistuuko vaihto, jos tarvitaan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048850"
+    },
+    {
+      "english": "Is this a vegetarian dish, actually?",
+      "finnish": "Onko tämä oikeasti kasvisruokaa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048852"
+    },
+    {
+      "english": "What’s the best dessert if I’m sharing?",
+      "finnish": "Mikä on paras jälkiruoka, jos jaetaan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048856"
+    },
+    {
+      "english": "Can you note that I prefer less salt?",
+      "finnish": "Voitteko huomioida, että pidän vähemmän suolasta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048859"
+    },
+    {
+      "english": "You’ve got this, order with confidence, okay?",
+      "finnish": "Saat tämän, tilaa rohkeasti, okei?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048865"
+    },
+    {
+      "english": "Quick smile, good choice, I’ll stick with it.",
+      "finnish": "Nopea hymy, hyvä valinta, pysyn tässä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048868"
+    },
+    {
+      "english": "Honestly, I’m excited, this sounds perfect.",
+      "finnish": "Rehellisesti, olen innoissani, tämä kuulostaa täydelliseltä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048872"
+    },
+    {
+      "english": "I trust your taste, what’s your favorite?",
+      "finnish": "Luotan makuusi, mikä on sinun suosikkisi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048876"
+    },
+    {
+      "english": "Take your time, I appreciate the guidance.",
+      "finnish": "Ota rauhassa, arvostan opastusta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048879"
+    },
+    {
+      "english": "No stress, I’ll choose something easy today.",
+      "finnish": "Ei hätää, valitsen tänään jotain helppoa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048882"
+    },
+    {
+      "english": "Perfect, I’ll go with this, thank you!",
+      "finnish": "Ihan täydellinen, otan tämän, kiitos!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048886"
+    },
+    {
+      "english": "I’m feeling adventurous, surprise me a little?",
+      "finnish": "Minulla on seikkailumieli, yllätä vähän?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048889"
+    },
+    {
+      "english": "Honestly, you’re doing great, I’ll take it.",
+      "finnish": "Rehellisesti, te teette tosi hyvin, otan sen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048895"
+    },
+    {
+      "english": "Good vibes, I’ll order now, sounds great.",
+      "finnish": "Hyvät vibat, tilaan nyt, kuulostaa hyvältä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048899"
+    },
+    {
+      "english": "I love that idea, let’s do it.",
+      "finnish": "Rakastan tuota ideaa, tehdään se.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048904"
+    },
+    {
+      "english": "I’ll keep it simple, one solid choice.",
+      "finnish": "Pidän sen simppelinä, yksi varma valinta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048908"
+    },
+    {
+      "english": "Nice, that works for me, thank you!",
+      "finnish": "Hyvä, se sopii minulle, kiitos!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048911"
+    },
+    {
+      "english": "You’re helping a lot, that’s really appreciated.",
+      "finnish": "Autat tosi paljon, sitä arvostan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048915"
+    },
+    {
+      "english": "Stay positive, I’ll find the right thing.",
+      "finnish": "Pidä positiivinen asenne, löydän oikean.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048918"
+    },
+    {
+      "english": "Confidence looks good on me, I’m ordering.",
+      "finnish": "Varma fiilis, minulla on hyvä tilata.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048923"
+    },
+    {
+      "english": "That sounds comforting, I’ll have it.",
+      "finnish": "Tuo kuulostaa lohduttavalta, otan sen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048926"
+    },
+    {
+      "english": "Let me decide fast, I’m ready now.",
+      "finnish": "Päätän nopeasti, olen valmis nyt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048930"
+    },
+    {
+      "english": "Thanks for the tip, I’m sold on that.",
+      "finnish": "Kiitos vinkistä, olen myyty tuohon.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048933"
+    },
+    {
+      "english": "Great suggestion, I’ll order the same thing.",
+      "finnish": "Mahtava ehdotus, tilaan saman.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048936"
+    },
+    {
+      "english": "I’ll trust the kitchen, that’s the move.",
+      "finnish": "Luotan keittiöön, se on oikea valinta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048940"
+    },
+    {
+      "english": "I’m in a good mood, make it tasty!",
+      "finnish": "Olen hyvällä tuulella, tee siitä maukasta!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048943"
+    },
+    {
+      "english": "That’s the right vibe, I’ll take one portion.",
+      "finnish": "Se on oikea fiilis, otan yhden annoksen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048947"
+    },
+    {
+      "english": "No pressure, I’m flexible, choose for me.",
+      "finnish": "Ei paineita, olen joustava, valitse minulle.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048950"
+    },
+    {
+      "english": "You’re right, that combo sounds amazing.",
+      "finnish": "Olet oikeassa, tuo yhdistelmä kuulostaa huikealta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048953"
+    },
+    {
+      "english": "I feel taken care of, I’ll finalize my order.",
+      "finnish": "Minusta pidetään huolta, viimeistelen tilaukseni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048957"
+    },
+    {
+      "english": "This is going to be awesome, let’s order!",
+      "finnish": "Tästä tulee mahtavaa, tilataan!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048960"
+    },
+    {
+      "english": "I like your energy, I’ll order confidently.",
+      "finnish": "Pidän sun energiasta, tilaan rohkeasti.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048963"
+    },
+    {
+      "english": "I’m grateful, your help makes this easy.",
+      "finnish": "Olen kiitollinen, sun apu tekee tästä helppoa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048967"
+    },
+    {
+      "english": "All good, I’m ready, I’ll place it now.",
+      "finnish": "Kaikki hyvin, olen valmis, teen tilauksen nyt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048970"
+    },
+    {
+      "english": "I’m just here for a calm, honest meal.",
+      "finnish": "Olen täällä vain rauhallista ja rehellistä ruokaa varten.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048973"
+    },
+    {
+      "english": "Honestly, I’m a bit nervous ordering alone.",
+      "finnish": "Rehellisesti, olen vähän hermostunut tilatessani yksin.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048977"
+    },
+    {
+      "english": "Can we keep it simple today, please?",
+      "finnish": "Voidaanko pitää tämä yksinkertaisena tänään, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048982"
+    },
+    {
+      "english": "I’d like something warm, something comforting.",
+      "finnish": "Haluaisin jotain lämmintä, jotain lohduttavaa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048986"
+    },
+    {
+      "english": "I’m craving flavor, but not too heavy.",
+      "finnish": "Tekee mieli makua, mutta ei liian raskasta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048989"
+    },
+    {
+      "english": "Take your time, I’m in no rush.",
+      "finnish": "Ottakaa rauhassa, en ole kiireessä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048992"
+    },
+    {
+      "english": "I’m learning, so please explain a bit.",
+      "finnish": "Opettelen, joten voisitteko selittää vähän?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048996"
+    },
+    {
+      "english": "If it’s popular, I’m okay with that.",
+      "finnish": "Jos se on suosittu, se sopii minulle.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.048999"
+    },
+    {
+      "english": "I want a fresh start, something light.",
+      "finnish": "Haluan raikkaan alun, jotain kevyttä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049002"
+    },
+    {
+      "english": "I’m not sure, what would you pick?",
+      "finnish": "En ole varma, mitä sinä valitsisit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049005"
+    },
+    {
+      "english": "I’ll be honest, I trust your recommendation.",
+      "finnish": "Olen rehellinen, luotan suositukseesi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049010"
+    },
+    {
+      "english": "Please help me choose, I’m stuck.",
+      "finnish": "Auttaisitko valitsemaan, olen jumissa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049013"
+    },
+    {
+      "english": "I prefer calm choices, nothing too spicy.",
+      "finnish": "Suosin rauhallisia vaihtoehtoja, ei liian tulista.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049016"
+    },
+    {
+      "english": "I’m listening, tell me what’s best here.",
+      "finnish": "Käyn kuulolle, kerro mikä on parasta täällä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049020"
+    },
+    {
+      "english": "I want it to taste like home, somehow.",
+      "finnish": "Haluaisin sen maistuvan jotenkin kodilta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049023"
+    },
+    {
+      "english": "I’m okay waiting, I want it done right.",
+      "finnish": "Voin odottaa, haluan sen tehdään kunnolla.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049026"
+    },
+    {
+      "english": "Honestly, I’m hungry, but I’m picky.",
+      "finnish": "Rehellisesti, olen nälkäinen, mutta olen tarkka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049029"
+    },
+    {
+      "english": "I’d rather not rush, I’ll decide slowly.",
+      "finnish": "En mieluummin rynnistä, päätän hitaasti.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049033"
+    },
+    {
+      "english": "This place feels nice, I want to enjoy.",
+      "finnish": "Tämä paikka tuntuu kivalta, haluan nauttia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049035"
+    },
+    {
+      "english": "I’m trying to eat better, what’s gentle?",
+      "finnish": "Yritän syödä paremmin, mikä olisi lempeää?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049039"
+    },
+    {
+      "english": "I want something filling, but still balanced.",
+      "finnish": "Haluaisin jotain täyttävää, mutta silti tasapainoista.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049042"
+    },
+    {
+      "english": "If you think it fits, I’ll go with it.",
+      "finnish": "Jos ajattelet, että se sopii, otan sen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049045"
+    },
+    {
+      "english": "I’m grateful, this helps my choices a lot.",
+      "finnish": "Olen kiitollinen, tämä auttaa valinnoissa tosi paljon.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049048"
+    },
+    {
+      "english": "I don’t want to offend anyone, just be clear.",
+      "finnish": "En halua loukata ketään, haluan vain olla selkeä.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049052"
+    },
+    {
+      "english": "I’m keeping it easy, one thing that hits.",
+      "finnish": "Pidän tämän helpolla, yksi juttu joka osuu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049057"
+    },
+    {
+      "english": "If it’s your signature, I’m curious.",
+      "finnish": "Jos se on teidän oma juttu, olen utelias.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049060"
+    },
+    {
+      "english": "I’m here for a good mood, not stress.",
+      "finnish": "Olen täällä hyvän fiiliksen, en stressin takia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049063"
+    },
+    {
+      "english": "I’ll be honest, I need something familiar.",
+      "finnish": "Olen rehellinen, tarvitsen jotain tuttua.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049066"
+    },
+    {
+      "english": "Please, I’ll follow your lead, step by step.",
+      "finnish": "Ole hyvä, seuraan teidän esimerkkiä, askel askeleelta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049070"
+    },
+    {
+      "english": "Even if it’s small, make it meaningful.",
+      "finnish": "Vaikka se olisi pieni, tee siitä merkityksellinen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049073"
+    },
+    {
+      "english": "Could I get the lunch special, please?",
+      "finnish": "Saanko lounasedun, kiitos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049076"
+    },
+    {
+      "english": "Is the portion big, or pretty small?",
+      "finnish": "Onko annos iso, vai aika pieni?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-05T10:31:31.049079"
     }
   ],
-  "last_updated": "2026-11-04T10:38:40.990645"
+  "last_updated": "2026-11-05T10:31:31.049080"
 }
