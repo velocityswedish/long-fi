@@ -4319,7 +4319,727 @@
       "finnish": "Onko annos iso, vai aika pieni?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-05T10:31:31.049079"
+    },
+    {
+      "english": "Hi, do you have a free room, tonight?",
+      "finnish": "Hei, onko teillä vapaa huone, tänään illalla?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148817"
+    },
+    {
+      "english": "Do you have check-in, now?",
+      "finnish": "Onko sisäänkirjautuminen, nyt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148832"
+    },
+    {
+      "english": "I have a reservation, in the name…",
+      "finnish": "Minulla on varaus, nimellä…",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148836"
+    },
+    {
+      "english": "Where is the reception desk?",
+      "finnish": "Missä on vastaanotto, tiskille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148839"
+    },
+    {
+      "english": "Can I get the key card, please?",
+      "finnish": "Saanko avainkortin, kiitos?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148842"
+    },
+    {
+      "english": "Is breakfast included, in the price?",
+      "finnish": "Sisältyykö aamiainen, hintaan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148844"
+    },
+    {
+      "english": "What time is breakfast, today?",
+      "finnish": "Mihin aikaan aamiainen, tänään?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148847"
+    },
+    {
+      "english": "We need extra towels, please.",
+      "finnish": "Tarvitsemme lisää pyyhkeitä, kiitos.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148854"
+    },
+    {
+      "english": "Is there Wi‑Fi, in the room?",
+      "finnish": "Onko huoneessa Wi‑Fi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148858"
+    },
+    {
+      "english": "The Wi‑Fi isn’t working, sorry.",
+      "finnish": "Wi‑Fi ei toimi, anteeksi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148862"
+    },
+    {
+      "english": "Could I get a late checkout?",
+      "finnish": "Voinko saada myöhäisen uloskirjauksen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148864"
+    },
+    {
+      "english": "What’s the room number, again?",
+      "finnish": "Mikä on huoneen numero, taas?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148867"
+    },
+    {
+      "english": "This room is too cold, sorry.",
+      "finnish": "Tämä huone on liian kylmä, anteeksi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148869"
+    },
+    {
+      "english": "The heater doesn’t work, I think.",
+      "finnish": "Lämmittimeni ei toimi, kai.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148874"
+    },
+    {
+      "english": "Is there air conditioning, anywhere?",
+      "finnish": "Onko ilmastointia, missään?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148876"
+    },
+    {
+      "english": "The window won’t open, sorry.",
+      "finnish": "Ikkuna ei aukea, anteeksi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148879"
+    },
+    {
+      "english": "Where can I park my car?",
+      "finnish": "Mistä saan pysäköidä auton?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148881"
+    },
+    {
+      "english": "Is parking free, for guests?",
+      "finnish": "Onko pysäköinti ilmaista, asiakkaille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148883"
+    },
+    {
+      "english": "We arrived, but the room isn’t ready.",
+      "finnish": "Saavuimme, mutta huone ei ole valmis.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148886"
+    },
+    {
+      "english": "Can you change the room, please?",
+      "finnish": "Voisitteko vaihtaa huoneen, kiitos?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148889"
+    },
+    {
+      "english": "How do I turn off the lights?",
+      "finnish": "Miten sammutan valot?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148891"
+    },
+    {
+      "english": "The bathroom faucet is leaking, please.",
+      "finnish": "Suihkun hana vuotaa, kiitos.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148893"
+    },
+    {
+      "english": "Do you have an iron, by chance?",
+      "finnish": "Onko teillä silitysrauta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148896"
+    },
+    {
+      "english": "I forgot my charger, can I borrow one?",
+      "finnish": "Unohdin laturin, voinko lainata?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148898"
+    },
+    {
+      "english": "Do you offer luggage storage?",
+      "finnish": "Tarjoatteko säilytyksen matkatavaroille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148900"
+    },
+    {
+      "english": "Can I leave my bags here?",
+      "finnish": "Saanko jättää laukut tänne?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148902"
+    },
+    {
+      "english": "Excuse me, the room smells bad.",
+      "finnish": "Anteeksi, huone haisee pahalle.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148904"
+    },
+    {
+      "english": "Great, everything is fine, thank you!",
+      "finnish": "Mahtavaa, kaikki on hyvin, kiitos!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148907"
+    },
+    {
+      "english": "Is there an elevator, please?",
+      "finnish": "Onko hissi, kiitos?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148909"
+    },
+    {
+      "english": "Where is the nearest store, roughly?",
+      "finnish": "Missä on lähin kauppa, suunnilleen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148911"
+    },
+    {
+      "english": "Do you have parking, near the hotel?",
+      "finnish": "Onko teillä pysäköintiä, hotellin lähellä?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148914"
+    },
+    {
+      "english": "What’s the quietest room, in your opinion?",
+      "finnish": "Mikä on teidän mielestä rauhallisin huone?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148917"
+    },
+    {
+      "english": "Is early check-in possible, today?",
+      "finnish": "Onko aikainen sisäänkirjautuminen mahdollinen, tänään?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148921"
+    },
+    {
+      "english": "Do you have rooms for families, by chance?",
+      "finnish": "Onko teillä perhehuoneita, mahdollisesti?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148923"
+    },
+    {
+      "english": "Which floor has the best view?",
+      "finnish": "Millä kerroksella on paras näköala?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148926"
+    },
+    {
+      "english": "Can I ask for a non-smoking room?",
+      "finnish": "Voinko pyytää savuttoman huoneen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148928"
+    },
+    {
+      "english": "Do you offer airport transfer, maybe?",
+      "finnish": "Tarjoatteko lentokenttäkuljetusta, ehkä?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148930"
+    },
+    {
+      "english": "What are the house rules, for guests?",
+      "finnish": "Mitkä ovat talon säännöt, vieraille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148932"
+    },
+    {
+      "english": "Is there a gym, for hotel guests?",
+      "finnish": "Onko hotellin asiakkailla pääsy kuntosalille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148935"
+    },
+    {
+      "english": "How late can I return to the hotel?",
+      "finnish": "Mihin aikaan saan palata hotelliin?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148938"
+    },
+    {
+      "english": "Do you have a quiet courtyard, for sitting?",
+      "finnish": "Onko teillä rauhallinen sisäpiha, istumiseen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148940"
+    },
+    {
+      "english": "Could you recommend a good local restaurant?",
+      "finnish": "Voisitko suositella hyvää paikallisravintolaa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148945"
+    },
+    {
+      "english": "Do you have breakfast options for vegetarians?",
+      "finnish": "Onko teillä kasvissyöjille sopivia aamiaisvaihtoehtoja?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148947"
+    },
+    {
+      "english": "Is dinner available, and what time?",
+      "finnish": "Onko päivällinen tarjolla, ja mihin aikaan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148949"
+    },
+    {
+      "english": "Can I pay by card, at check-in?",
+      "finnish": "Voinko maksaa kortilla, sisäänkirjautumisen yhteydessä?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148952"
+    },
+    {
+      "english": "Do you accept cash as well?",
+      "finnish": "Käykö teillä myös käteinen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148956"
+    },
+    {
+      "english": "Is there a minibar, in this room?",
+      "finnish": "Onko tässä huoneessa minibaari?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148958"
+    },
+    {
+      "english": "Where can I refill my water bottle?",
+      "finnish": "Mistä löydän paikan täyttää vesipulloni?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148961"
+    },
+    {
+      "english": "Do you have a laundry service, here?",
+      "finnish": "Onko teillä pyykkipalvelu, täällä?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148963"
+    },
+    {
+      "english": "Can I book a sauna time, please?",
+      "finnish": "Voinko varata saunavuoron, kiitos?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148965"
+    },
+    {
+      "english": "Is the sauna included, for guests?",
+      "finnish": "Sisältyykö sauna hintaan, vieraille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148968"
+    },
+    {
+      "english": "Do you have any rooms with a balcony?",
+      "finnish": "Onko teillä huoneita parvekkeella?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148971"
+    },
+    {
+      "english": "What’s the best way to get downtown?",
+      "finnish": "Mikä on paras tapa päästä keskustaan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148974"
+    },
+    {
+      "english": "Is it easy to use public transport nearby?",
+      "finnish": "Onko julkinen liikenne lähellä helppoa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148977"
+    },
+    {
+      "english": "Can I leave a message for housekeeping?",
+      "finnish": "Voinko jättää viestin huonepalvelulle?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148979"
+    },
+    {
+      "english": "When will housekeeping come, approximately?",
+      "finnish": "Milloin siivous tulee, suunnilleen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148981"
+    },
+    {
+      "english": "Is there a place to sit outside, today?",
+      "finnish": "Onko tänään ulkona paikkaa istua?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148984"
+    },
+    {
+      "english": "Can you help me with sightseeing tips?",
+      "finnish": "Voitteko auttaa minua nähtävyysvinkeissä?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148986"
+    },
+    {
+      "english": "What time is check-out, generally?",
+      "finnish": "Mihin aikaan on yleensä uloskirjautuminen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148989"
+    },
+    {
+      "english": "You’ll handle this smoothly, just breathe first.",
+      "finnish": "Selviät tästä helposti, hengitä ensin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148992"
+    },
+    {
+      "english": "Relax, you’re exactly where you need to be.",
+      "finnish": "Rauhoitu, olet juuri oikeassa paikassa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148997"
+    },
+    {
+      "english": "Good choice booking early, it always helps.",
+      "finnish": "Hyvä valinta, kun varaat etukäteen, se auttaa aina.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.148999"
+    },
+    {
+      "english": "Take your time, check-in will be quick.",
+      "finnish": "Ota rauhassa, sisäänkirjautuminen sujuu nopeasti.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149002"
+    },
+    {
+      "english": "Ask for help, staff is happy to assist.",
+      "finnish": "Kysy vain, henkilökunta auttaa mielellään.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149004"
+    },
+    {
+      "english": "Stay positive, tomorrow’s another day here.",
+      "finnish": "Pidä mieli korkealla, huomenna on uusi päivä.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149007"
+    },
+    {
+      "english": "You’re doing great, enjoy your stay tonight.",
+      "finnish": "Teet tosi hyvin, nauti oleskelusta tänään illalla.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149011"
+    },
+    {
+      "english": "I’m sure you’ll find this place comfortable.",
+      "finnish": "Uskon, että tästä paikasta tulee mukava.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149014"
+    },
+    {
+      "english": "No worries, your room will be ready soon.",
+      "finnish": "Ei hätää, huone on pian valmis.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149016"
+    },
+    {
+      "english": "You got this, just follow the key instructions.",
+      "finnish": "Selvä juttu, seuraa vain avainohjeita.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149019"
+    },
+    {
+      "english": "Compliments matter, nice service should be noticed.",
+      "finnish": "Kiitokset kuuluu, hyvä palvelu ansaitsee huomiota.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149021"
+    },
+    {
+      "english": "Keep it simple, one question at a time.",
+      "finnish": "Pidä se yksinkertaisena, yksi kysymys kerrallaan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149024"
+    },
+    {
+      "english": "It’s okay to be excited, vacation starts now.",
+      "finnish": "Se on ihan ok, lomasi alkaa nyt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149027"
+    },
+    {
+      "english": "You’re doing the right thing, ask about breakfast.",
+      "finnish": "Teet oikean valinnan, kysy aamiaisesta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149030"
+    },
+    {
+      "english": "Let’s make it easy, I’ll help you find it.",
+      "finnish": "Tehdään tästä helpompaa, autan sinua löytämään.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149033"
+    },
+    {
+      "english": "Nice try, we’ll fix it together quickly.",
+      "finnish": "Hienoa, korjataan tämä yhdessä nopeasti.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149036"
+    },
+    {
+      "english": "You’ll sleep well, the room is quiet.",
+      "finnish": "Nukut varmasti hyvin, huone on rauhallinen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149039"
+    },
+    {
+      "english": "Take a moment, you’ll feel at home soon.",
+      "finnish": "Varaa hetki, tunnet olosi kotoisaksi pian.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149042"
+    },
+    {
+      "english": "Good work checking in calmly, keep going.",
+      "finnish": "Hyvä, kun hoidit sisäänkirjautumisen rauhassa, jatka vain.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149046"
+    },
+    {
+      "english": "Trust the process, staff knows what to do.",
+      "finnish": "Luota prosessiin, henkilökunta tietää kyllä.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149049"
+    },
+    {
+      "english": "You deserve comfort, enjoy the amenities.",
+      "finnish": "Ansaitset mukavuutta, nauti palveluista.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149051"
+    },
+    {
+      "english": "No pressure, you can ask anytime here.",
+      "finnish": "Ei kiirettä, voit kysyä koska vain.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149054"
+    },
+    {
+      "english": "That’s a great question, thank you.",
+      "finnish": "Se on hyvä kysymys, kiitos siitä.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149057"
+    },
+    {
+      "english": "Stay confident, we’ll get you sorted.",
+      "finnish": "Pysy rohkeana, kyllä tämä järjestyy.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149060"
+    },
+    {
+      "english": "You’re close, just follow the hallway signs.",
+      "finnish": "Olet ihan lähellä, seuraa käytävän opasteita.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149063"
+    },
+    {
+      "english": "Make today easy, grab breakfast and go.",
+      "finnish": "Tee päivästä helppo, ota aamiainen ja lähde.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149065"
+    },
+    {
+      "english": "I appreciate your patience, thanks a lot.",
+      "finnish": "Arvostan kärsivällisyyttäsi, kiitos paljon.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149068"
+    },
+    {
+      "english": "You’re safe here, everything is under control.",
+      "finnish": "Olet turvassa täällä, kaikki on hallinnassa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149073"
+    },
+    {
+      "english": "Let’s keep it friendly, we’ll talk things through.",
+      "finnish": "Pidetään asiat ystävällisinä, jutellaan rauhassa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149076"
+    },
+    {
+      "english": "Good evening, hope you’ll enjoy the quiet.",
+      "finnish": "Hyvää iltaa, toivottavasti nautit rauhasta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149079"
+    },
+    {
+      "english": "Honestly, I’m nervous about the late check-in.",
+      "finnish": "Rehellisesti, minua jännittää myöhäinen sisäänkirjautuminen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149082"
+    },
+    {
+      "english": "I’m a bit tired, can we slow down?",
+      "finnish": "Olen vähän väsynyt, voidaanko rauhassa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149085"
+    },
+    {
+      "english": "If something’s unclear, I’d rather ask again.",
+      "finnish": "Jos jokin on epäselvää, mieluummin kysyn uudestaan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149088"
+    },
+    {
+      "english": "I want a quiet room, I really need it.",
+      "finnish": "Haluaisin rauhallisen huoneen, tarvitsen sitä oikeasti.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149091"
+    },
+    {
+      "english": "I’m impressed, this place feels surprisingly warm.",
+      "finnish": "Olen ihan yllättynyt, tää paikka tuntuu tosi lämpimältä.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149094"
+    },
+    {
+      "english": "It’s small, but it feels like home.",
+      "finnish": "Se on pieni, mutta tuntuu kodilta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149097"
+    },
+    {
+      "english": "Please be patient, I’m reading everything carefully.",
+      "finnish": "Olethan kärsivällinen, luen kaiken tarkasti.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149100"
+    },
+    {
+      "english": "I didn’t sleep much, is breakfast later?",
+      "finnish": "En nuku paljon, onko aamiainen myöhemmin?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149103"
+    },
+    {
+      "english": "I’m trying to relax, the hallway is loud.",
+      "finnish": "Yritän rentoutua, käytävä kuulostaa kovalta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149106"
+    },
+    {
+      "english": "No worries, I’ll wait, even if it’s slow.",
+      "finnish": "Ei haittaa, odotan, vaikka se kestäisikin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149111"
+    },
+    {
+      "english": "I’m grateful, this front desk is so kind.",
+      "finnish": "Olen kiitollinen, vastaanotto on niin ystävällinen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149114"
+    },
+    {
+      "english": "I thought I’d be uncomfortable, but I’m not.",
+      "finnish": "Luulin, että olo olisi hankala, mutta ei.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149117"
+    },
+    {
+      "english": "Can I see the room again, just to check?",
+      "finnish": "Voinko katsoa huoneen uudestaan, varmistukseksi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149120"
+    },
+    {
+      "english": "I’m sorry, I’m confused about the room key.",
+      "finnish": "Anteeksi, olen vähän hukassa huoneavaimen kanssa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149123"
+    },
+    {
+      "english": "Honestly, I need a charging spot near bed.",
+      "finnish": "Rehellisesti, tarvitsen latauspisteen sängyn lähelle.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149125"
+    },
+    {
+      "english": "I’d love a later checkout, if possible.",
+      "finnish": "Haluaisin myöhäisemmän uloskirjautumisen, jos onnistuu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149128"
+    },
+    {
+      "english": "I’m listening carefully, just guide me step-by-step.",
+      "finnish": "Kuuntelen tarkasti, ohjaa minua vain vaihe vaiheelta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149132"
+    },
+    {
+      "english": "This smell in the room feels weird.",
+      "finnish": "Tämän huoneen haju tuntuu vähän oudolta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149134"
+    },
+    {
+      "english": "I’m not judging, I just want clarity.",
+      "finnish": "En tuomitse, haluan vain selvyyttä.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149137"
+    },
+    {
+      "english": "I appreciate the help, it saves my time.",
+      "finnish": "Kiitos avusta, se säästää aikaa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149139"
+    },
+    {
+      "english": "I’m trying to be calm, but I’m anxious.",
+      "finnish": "Yritän pysyä rauhassa, mutta olen levoton.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149143"
+    },
+    {
+      "english": "The bed is great, I finally can breathe.",
+      "finnish": "Sänky on loistava, vihdoin pystyn hengittämään.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149146"
+    },
+    {
+      "english": "I’m keeping my expectations realistic, thanks.",
+      "finnish": "Pidän odotukset realistisina, kiitos.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149149"
+    },
+    {
+      "english": "I’d rather switch rooms than pretend.",
+      "finnish": "Vaihtaisin huonetta mieluummin kuin teeskennelisin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149152"
+    },
+    {
+      "english": "I’m feeling homesick, can I grab tea?",
+      "finnish": "Minua vähän kaihertaa koti-ikävä, saanko teen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149154"
+    },
+    {
+      "english": "This is my first stay, please forgive mistakes.",
+      "finnish": "Tämä on ensimmäinen yöpymiseni, älkää välittäkö mokista.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149157"
+    },
+    {
+      "english": "I’m impressed with the cleanliness, really.",
+      "finnish": "Olen oikeasti vaikuttunut siisteydestä.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149160"
+    },
+    {
+      "english": "I need one more towel, just in case.",
+      "finnish": "Tarvitsen vielä yhden pyyhkeen, varmuuden vuoksi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149162"
+    },
+    {
+      "english": "I’ll be honest, the Wi‑Fi is my lifeline.",
+      "finnish": "Sanon rehellisesti, Wi‑Fi on minun pelastus.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149165"
+    },
+    {
+      "english": "Thanks for being flexible, it means a lot.",
+      "finnish": "Kiitos joustavuudesta, se merkitsee paljon.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149167"
+    },
+    {
+      "english": "Can I check the Wi‑Fi code, please?",
+      "finnish": "Voinko tarkistaa Wi‑Fi-salasanan, kiitos?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-06T10:32:18.149170"
     }
   ],
-  "last_updated": "2026-11-05T10:31:31.049080"
+  "last_updated": "2026-11-06T10:32:18.149172"
 }
