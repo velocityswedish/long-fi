@@ -5039,7 +5039,727 @@
       "finnish": "Voinko tarkistaa Wi‑Fi-salasanan, kiitos?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-06T10:32:18.149170"
+    },
+    {
+      "english": "It’s raining again, isn’t it?",
+      "finnish": "Sataa taas, eikö?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809710"
+    },
+    {
+      "english": "Wow, what weird weather today.",
+      "finnish": "Huoh, mikä kumma sää tänään.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809724"
+    },
+    {
+      "english": "Is it windy outside, or just me?",
+      "finnish": "Onko ulkona tuulista, vai vain minusta?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809727"
+    },
+    {
+      "english": "Looks sunny, let’s hope it stays.",
+      "finnish": "Näyttää aurinkoiselta, toivotaan että pysyy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809729"
+    },
+    {
+      "english": "Cold today, so bundle up!",
+      "finnish": "Onpa kylmää, lämmitä itsesi!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809731"
+    },
+    {
+      "english": "I can’t tell, is it snowing or not?",
+      "finnish": "En tiedä, sataa lunta vai ei?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809733"
+    },
+    {
+      "english": "The air feels super fresh right now.",
+      "finnish": "Ilma tuntuu tosi raikkaalta nyt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809735"
+    },
+    {
+      "english": "That wind is intense, wow.",
+      "finnish": "Tuo tuuli on kova, huh.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809739"
+    },
+    {
+      "english": "Do you carry an umbrella today?",
+      "finnish": "Kannatko tänään sateenvarjoa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809741"
+    },
+    {
+      "english": "Clouds are gathering, I bet it rains.",
+      "finnish": "Pilviä kerääntyy, veikkaan että sataa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809743"
+    },
+    {
+      "english": "It’s muggy, I’m already tired.",
+      "finnish": "On niin kostea, olen jo valmiiksi väsynyt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809745"
+    },
+    {
+      "english": "Nice day! You can actually breathe.",
+      "finnish": "Ihana päivä, voi oikeasti hengittää!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809747"
+    },
+    {
+      "english": "Forecast says rain later, right?",
+      "finnish": "Sääennuste lupaa sadetta myöhemmin, eikö?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809748"
+    },
+    {
+      "english": "It’s warmer than yesterday, thank goodness.",
+      "finnish": "On lämpimämpää kuin eilen, kiitos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809750"
+    },
+    {
+      "english": "How’s the weather where you are?",
+      "finnish": "Millaista sää siellä on?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809752"
+    },
+    {
+      "english": "Spring vibes today, finally!",
+      "finnish": "Tuntuu keväältä, vihdoin!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809754"
+    },
+    {
+      "english": "Why is it so dark so early?",
+      "finnish": "Miksi on niin pimeää jo näin aikaisin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809755"
+    },
+    {
+      "english": "This snow is not normal, honestly.",
+      "finnish": "Tämä lumi ei ole normaalia, rehellisesti.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809757"
+    },
+    {
+      "english": "I’ll wait a bit, maybe it clears up.",
+      "finnish": "Odotan hetken, jos se selkenee.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809759"
+    },
+    {
+      "english": "Sun is out, so I’m in a good mood.",
+      "finnish": "Aurinko paistaa, joten mieli on hyvä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809761"
+    },
+    {
+      "english": "It’s raining sideways, seriously?",
+      "finnish": "Sataa sivuttain, tosissaan?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809763"
+    },
+    {
+      "english": "Did you feel that thunder?",
+      "finnish": "Huomasitko ukkosen jyrinän?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809767"
+    },
+    {
+      "english": "My phone says it’ll be windy soon.",
+      "finnish": "Puhelin sanoo, että kohta käy tuulinen.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809769"
+    },
+    {
+      "english": "Is it misty today, or am I dreaming?",
+      "finnish": "Onko tänään sumuista, vai kuvittelenko?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809772"
+    },
+    {
+      "english": "It’s slippery outside, be careful!",
+      "finnish": "Ulkoa on liukasta, ole varovainen!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809774"
+    },
+    {
+      "english": "Let’s check the weather before we go.",
+      "finnish": "Katsotaan sää ennen kuin lähdetään.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809776"
+    },
+    {
+      "english": "The sky is dramatic today, huh?",
+      "finnish": "Taivas on tänään tosi näyttävä, eikö?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809777"
+    },
+    {
+      "english": "I love this rain, it’s so calming.",
+      "finnish": "Tykkään tästä sateesta, se on niin rauhoittavaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809779"
+    },
+    {
+      "english": "You should bring a jacket, seriously.",
+      "finnish": "Sun kannattaa ottaa takki mukaan, oikeasti.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809781"
+    },
+    {
+      "english": "Seems like we’re stuck with this weather.",
+      "finnish": "Tuntuu, että tämä sää ei lopu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809783"
+    },
+    {
+      "english": "Is it supposed to get colder today?",
+      "finnish": "Onko tänään tarkoitus tulla kylmemmäksi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809784"
+    },
+    {
+      "english": "How windy does it usually get here?",
+      "finnish": "Kuinka tuulista täällä yleensä on?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809786"
+    },
+    {
+      "english": "Do you know if it might hail?",
+      "finnish": "Tiedätkö, voiko tulla raetta?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809788"
+    },
+    {
+      "english": "Should I wear boots today, just in case?",
+      "finnish": "Kannattaako laittaa kumpparit tänään, varmuuden vuoksi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809799"
+    },
+    {
+      "english": "Is the air still cold in the shade?",
+      "finnish": "Onko ilma vielä kylmä varjossa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809801"
+    },
+    {
+      "english": "Where’s the best place to sit outside?",
+      "finnish": "Missä on paras paikka istua ulkona?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809803"
+    },
+    {
+      "english": "Do you think it’ll clear up by evening?",
+      "finnish": "Uskotko, että se selkenee illalla?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809805"
+    },
+    {
+      "english": "What do you usually check before going out?",
+      "finnish": "Mitä yleensä tarkistat, ennen kuin lähdet ulos?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809807"
+    },
+    {
+      "english": "Is there a storm alert today?",
+      "finnish": "Onko tänään myrskyvaroitus voimassa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809809"
+    },
+    {
+      "english": "Do you feel the temperature dropping?",
+      "finnish": "Huomaatko lämpötilan laskevan?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809810"
+    },
+    {
+      "english": "Should we bring a scarf for later?",
+      "finnish": "Otetaan- ko huivi mukaan myöhemmin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809812"
+    },
+    {
+      "english": "How’s the rain doing over there?",
+      "finnish": "Miten siellä sataa, vieläkö?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809814"
+    },
+    {
+      "english": "Any chance the sidewalks are icy?",
+      "finnish": "Onko pienikin mahdollisuus, että kadut ovat jäisiä?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809815"
+    },
+    {
+      "english": "Would you say it feels humid today?",
+      "finnish": "Tuntuuko tänään siltä, että ilma on kostea?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809817"
+    },
+    {
+      "english": "Is the sun warm, or just bright?",
+      "finnish": "Onko aurinko lämmin, vai pelkkä kirkkaus?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809819"
+    },
+    {
+      "english": "Do you think it’ll rain on our route?",
+      "finnish": "Luulenko, että sataa meidän reitillä?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809821"
+    },
+    {
+      "english": "What’s your trick for weather-proofing?",
+      "finnish": "Mikä on sinun konsti säätä varten?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809822"
+    },
+    {
+      "english": "Is it better to wait indoors a bit?",
+      "finnish": "Kannattaako odottaa hetki sisällä?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809824"
+    },
+    {
+      "english": "How’s the visibility, any fog?",
+      "finnish": "Onko näkyvyys hyvä, onko sumua?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809826"
+    },
+    {
+      "english": "Do you hear thunder again, or is it far?",
+      "finnish": "Kuuluuko taas ukkosta, vai kaukana vain?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809828"
+    },
+    {
+      "english": "Is it safe to cycle right now?",
+      "finnish": "Onko nyt turvallista pyöräillä?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809829"
+    },
+    {
+      "english": "Should I take sunglasses, or not?",
+      "finnish": "Ottaako aurinkolasit mukaan, vai ei?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809831"
+    },
+    {
+      "english": "What’s the temperature where you are?",
+      "finnish": "Paljonko lämpöä siellä on?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809833"
+    },
+    {
+      "english": "Do you think it’s going to snow later?",
+      "finnish": "Uskotko, että sataa lunta myöhemmin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809834"
+    },
+    {
+      "english": "Have you checked the radar yet?",
+      "finnish": "Oletko jo katsonut tutkaa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809837"
+    },
+    {
+      "english": "When does spring usually hit your area?",
+      "finnish": "Milloin kevät yleensä tulee teidän seudulle?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809839"
+    },
+    {
+      "english": "Do you mind sharing your weather app?",
+      "finnish": "Voitko suositella sääkelloa tai sovellusta?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809842"
+    },
+    {
+      "english": "Is it windy enough to carry trash away?",
+      "finnish": "Onko tuuli niin kova, että roskatkin lähtee?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809844"
+    },
+    {
+      "english": "Should we plan for rain, just lightly?",
+      "finnish": "Kannattaako varautua sateeseen, pienelläkin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809846"
+    },
+    {
+      "english": "What’s your favorite weather for walking?",
+      "finnish": "Mikä sää on sun mielestä paras kävelylle?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809848"
+    },
+    {
+      "english": "Looks like a proper downpour coming, right?",
+      "finnish": "Tulee kunnon kaatosade, eikö niin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809851"
+    },
+    {
+      "english": "Feels like summer today, in a good way.",
+      "finnish": "Tuntuu ihan kesältä, ihan hyvällä tavalla.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809853"
+    },
+    {
+      "english": "The wind has teeth today, wow.",
+      "finnish": "Tällä tuulella on hampaat tänään, huh.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809855"
+    },
+    {
+      "english": "It’s not raining yet, but soon, maybe.",
+      "finnish": "Ei vielä sada, mutta pian varmaan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809858"
+    },
+    {
+      "english": "It’s bright out, but still kind of chilly.",
+      "finnish": "Valoisaa on, mutta yhä aika viileää.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809860"
+    },
+    {
+      "english": "Classic Finnish weather, quick changes again.",
+      "finnish": "Tyypillistä suomalaista säätä, taas nopeat vaihdokset.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809862"
+    },
+    {
+      "english": "No worries, it’ll pass, usually.",
+      "finnish": "Ei hätää, se menee ohi, yleensä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809864"
+    },
+    {
+      "english": "The clouds are low, feels heavy today.",
+      "finnish": "Pilvet on matalalla, tää tuntuu raskaalta.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809866"
+    },
+    {
+      "english": "It’s drizzling, not proper rain, though.",
+      "finnish": "Hentoisesti sataa, ei se kunnon sadetta ole.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809869"
+    },
+    {
+      "english": "How’s the air? Fresh, or muggy?",
+      "finnish": "Millainen ilma on, raikas vai lämmin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809871"
+    },
+    {
+      "english": "The sun’s out, but it’s not warm.",
+      "finnish": "Aurinko paistaa, mutta ei se varsinaisesti lämmitä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809873"
+    },
+    {
+      "english": "It’s windy enough to mess up your hair.",
+      "finnish": "Tuulee sen verran, että tukka menee sekaisin.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809875"
+    },
+    {
+      "english": "That gray sky means it’ll linger, probably.",
+      "finnish": "Se harmaa taivas, eiköhän se jää päälle.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809877"
+    },
+    {
+      "english": "Perfect weather for a walk, for once.",
+      "finnish": "Upea sää kävelylle, harvoin tällainen.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809879"
+    },
+    {
+      "english": "It’s so windy, umbrellas are useless today.",
+      "finnish": "Kun tuulee noin, sateenvarjot on turhia tänään.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809882"
+    },
+    {
+      "english": "The air feels wet, like it might rain.",
+      "finnish": "Ilma tuntuu kostealta, siltä se näyttää.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809883"
+    },
+    {
+      "english": "It’s cold, but not biting yet.",
+      "finnish": "On kylmää, muttei vielä pure kunnolla.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809885"
+    },
+    {
+      "english": "Are we having weather, or drama today?",
+      "finnish": "Onko tämä nyt säätä vai draamaa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809887"
+    },
+    {
+      "english": "The rain stopped, now the pavement’s drying.",
+      "finnish": "Sade loppui, ja nyt kivet kuivuu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809889"
+    },
+    {
+      "english": "Looks like it’ll clear soon, fingers crossed.",
+      "finnish": "Kyllähän se kohta selkenee, toivotaan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809891"
+    },
+    {
+      "english": "It’s warming up, you can feel it.",
+      "finnish": "Ilma lämpenee, sen huomaa kyllä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809893"
+    },
+    {
+      "english": "I swear the weather changes by the hour.",
+      "finnish": "Tuntuu, että sää vaihtuu tunnin välein.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809894"
+    },
+    {
+      "english": "It’s calm now, finally, after the wind.",
+      "finnish": "Nyt on tyventänyt, vihdoin tuon tuulen jälkeen.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809896"
+    },
+    {
+      "english": "Do you feel that chill from the sea?",
+      "finnish": "Tuntuuko se mereltä tuleva viileys?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809898"
+    },
+    {
+      "english": "The sky’s a mess, but it might be brief.",
+      "finnish": "Taivas on sekasotku, mutta voi olla lyhyt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809900"
+    },
+    {
+      "english": "It’s that in-between weather, neither hot nor cold.",
+      "finnish": "Tämä on sitä välimuotoista säätä, ei oikein kumpaakaan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809903"
+    },
+    {
+      "english": "Yesterday was warm, today’s a shock.",
+      "finnish": "Eilen oli lämmintä, tänään on taas shokki.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809906"
+    },
+    {
+      "english": "Looks like snow is teasing us again.",
+      "finnish": "Näyttää siltä, että lumi leikkii taas.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809907"
+    },
+    {
+      "english": "It’s raining lightly, more like a sprinkle.",
+      "finnish": "Sataa vähän, ennemmin tihkua kuin kunnolla.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809910"
+    },
+    {
+      "english": "Honestly, I feel restless in this weather.",
+      "finnish": "Rehellisesti, olen levoton tämän sään takia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809912"
+    },
+    {
+      "english": "I’m trying to stay patient, it’ll shift.",
+      "finnish": "Yritän pysyä kärsivällisenä, se kyllä vaihtuu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809914"
+    },
+    {
+      "english": "Today feels heavy, like my thoughts too.",
+      "finnish": "Tänään on raskasta, ihan kuin ajatuksetkin.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809916"
+    },
+    {
+      "english": "I’m a little under the weather, sorry.",
+      "finnish": "Olen vähän kipeä oloinen, anteeksi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809917"
+    },
+    {
+      "english": "When it’s like this, I slow down.",
+      "finnish": "Kun tämä on tämmöistä, hidastan vauhtia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809921"
+    },
+    {
+      "english": "I don’t mind the gloom, it’s familiar.",
+      "finnish": "En mä haittaa tätä harmautta, se on tuttu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809923"
+    },
+    {
+      "english": "The sky looks uncertain, so do I.",
+      "finnish": "Taivas näyttää epävarmalta, niin minäkin.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809925"
+    },
+    {
+      "english": "I hope you’re okay in all this.",
+      "finnish": "Toivon, että sinäkin voit hyvin tässä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809927"
+    },
+    {
+      "english": "It’s just weather, but my mood follows.",
+      "finnish": "Se on vaan säätä, mutta mun fiilis seuraa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809929"
+    },
+    {
+      "english": "I’m learning to roll with the changes.",
+      "finnish": "Opettelen vaan elämään muutosten kanssa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809931"
+    },
+    {
+      "english": "If you want, we can talk it out.",
+      "finnish": "Jos haluat, puhutaan tästä kunnolla.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809932"
+    },
+    {
+      "english": "I’m not complaining, I’m just tired.",
+      "finnish": "En mä valita, mä olen vaan väsynyt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809934"
+    },
+    {
+      "english": "Honestly, I need a calm moment today.",
+      "finnish": "Rehellisesti, mä tarvitsen rauhallisen hetken tänään.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809936"
+    },
+    {
+      "english": "The gray day makes me nostalgic.",
+      "finnish": "Harmaa päivä tekee mut nostalgiseksi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809939"
+    },
+    {
+      "english": "I try not to overthink it, though.",
+      "finnish": "Yritän silti olla murehtimatta liikaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809941"
+    },
+    {
+      "english": "It’s okay, we’ll adapt, step by step.",
+      "finnish": "Ei hätää, me sopeudutaan, pala palalta.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809943"
+    },
+    {
+      "english": "This kind of weather drains my energy.",
+      "finnish": "Tämänlainen sää vie energiaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809944"
+    },
+    {
+      "english": "I feel lighter when the clouds break.",
+      "finnish": "Mä tunnen oloni kevyemmäksi, kun pilvet hajoaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809946"
+    },
+    {
+      "english": "I keep adjusting plans, it’s the rhythm.",
+      "finnish": "Mä säädän suunnitelmia koko ajan, tää on rytmi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809948"
+    },
+    {
+      "english": "Sometimes this weather just gets to me.",
+      "finnish": "Välillä tää sää vaan ottaa päähän.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809949"
+    },
+    {
+      "english": "I’m grateful for small breaks in the rain.",
+      "finnish": "Olen kiitollinen pienistä tauoista sateessa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809951"
+    },
+    {
+      "english": "No need to hype it, I get it.",
+      "finnish": "Ei tarvitse liioitella, mä ymmärrän kyllä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809953"
+    },
+    {
+      "english": "I’m trying to protect my peace today.",
+      "finnish": "Mä yritän suojella omaa rauhaa tänään.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809955"
+    },
+    {
+      "english": "The air feels restless, so I walk slow.",
+      "finnish": "Ilma tuntuu levottomalta, kävelen hitaasti.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809958"
+    },
+    {
+      "english": "I’m okay, even if it’s a bit much.",
+      "finnish": "Mä oon ihan okay, vaikka tää onkin vähän liikaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809960"
+    },
+    {
+      "english": "Honestly, I miss the clear skies sometimes.",
+      "finnish": "Rehellisesti, mä kaipaan joskus kirkasta taivasta.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809961"
+    },
+    {
+      "english": "Let’s be kind, even to the weather.",
+      "finnish": "Ollaan ystävällisiä, myös säälle.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809963"
+    },
+    {
+      "english": "I feel more hopeful when things calm down.",
+      "finnish": "Mä tunnen toiveikkuutta, kun asiat rauhoittuu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809965"
+    },
+    {
+      "english": "I’ll take it, one day at a time.",
+      "finnish": "Kyllä mä otan, päivä kerrallaan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809967"
+    },
+    {
+      "english": "Weather talk helps, it eases my mind.",
+      "finnish": "Sääjutut auttaa, se keventää mun mieltä.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809970"
+    },
+    {
+      "english": "Did you bring an umbrella, just in case?",
+      "finnish": "Tuoitko sateenvarjon mukaan, varmuuden vuoksi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-07T09:44:36.809971"
     }
   ],
-  "last_updated": "2026-11-06T10:32:18.149172"
+  "last_updated": "2026-11-07T09:44:36.809973"
 }
