@@ -5759,7 +5759,727 @@
       "finnish": "Tuoitko sateenvarjon mukaan, varmuuden vuoksi?",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-07T09:44:36.809971"
+    },
+    {
+      "english": "Breathe once, then answer, slowly.",
+      "finnish": "Hengitä kerran, sitten vastaa, hitaasti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939567"
+    },
+    {
+      "english": "Pause, notice your thoughts, let them pass.",
+      "finnish": "Pysähdy, huomaa ajatuksesi, anna niiden mennä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939579"
+    },
+    {
+      "english": "It’s okay, take a quiet moment first.",
+      "finnish": "On ihan ok, ota ensin rauhallinen hetki.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939581"
+    },
+    {
+      "english": "Check in now, how’s your body?",
+      "finnish": "Tarkista nyt, miltä keho tuntuu?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939584"
+    },
+    {
+      "english": "Relax your shoulders, you’re safe right now.",
+      "finnish": "Rentouta hartiat, olet turvassa juuri nyt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939586"
+    },
+    {
+      "english": "One step at a time, breathe with it.",
+      "finnish": "Yksi askel kerrallaan, hengitä sen mukana.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939588"
+    },
+    {
+      "english": "Before you speak, slow down a bit.",
+      "finnish": "Ennen kuin puhut, hidasta vähän.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939590"
+    },
+    {
+      "english": "Let it go, you don’t have to fight.",
+      "finnish": "Päästä irti, sinun ei tarvitse taistella.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939594"
+    },
+    {
+      "english": "Right now, focus on what you feel.",
+      "finnish": "Juuri nyt, keskity siihen, mitä tunnet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939597"
+    },
+    {
+      "english": "Count breaths, feel the air come in.",
+      "finnish": "Laske hengityksiä, tunne ilman tulevan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939599"
+    },
+    {
+      "english": "Mindful moment, right here, right now.",
+      "finnish": "Tietoinen hetki, juuri tässä, juuri nyt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939601"
+    },
+    {
+      "english": "What’s the next kind thing you need?",
+      "finnish": "Mikä on seuraava hyvä asia, jota tarvitset?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939603"
+    },
+    {
+      "english": "Listen to your body, it knows.",
+      "finnish": "Kuuntele kehoasi, se tietää.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939604"
+    },
+    {
+      "english": "If it’s too much, pause and reset.",
+      "finnish": "Jos on liikaa, pysähdy ja nollaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939607"
+    },
+    {
+      "english": "Slow down, you’ll think clearer, trust me.",
+      "finnish": "Hidasta, ajatus kirkastuu, luota minuun.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939609"
+    },
+    {
+      "english": "Name it, then breathe, it eases.",
+      "finnish": "Nimeä se, sitten hengitä, se helpottaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939610"
+    },
+    {
+      "english": "It’s just a thought, not a fact.",
+      "finnish": "Se on vain ajatus, ei tosiasia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939614"
+    },
+    {
+      "english": "Look around, notice five small details.",
+      "finnish": "Katso ympärillesi, huomaa viisi pientä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939615"
+    },
+    {
+      "english": "Be here, don’t chase the noise.",
+      "finnish": "Ole tässä, älä jahtaa meteliä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939617"
+    },
+    {
+      "english": "Warm up slowly, tension melts away.",
+      "finnish": "Lämmitä vähitellen, jännitys sulaa pois.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939619"
+    },
+    {
+      "english": "Say, “I’m safe,” and feel it.",
+      "finnish": "Sano, “Olen turvassa,” ja tunne se.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939621"
+    },
+    {
+      "english": "Quick check, what do you need now?",
+      "finnish": "Pikakysely, mitä tarvitset juuri nyt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939622"
+    },
+    {
+      "english": "Keep it simple, one breath, one step.",
+      "finnish": "Pidä se yksinkertaisena, yksi hengitys, yksi askel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939624"
+    },
+    {
+      "english": "You can pause, even mid-conversation.",
+      "finnish": "Voit pysähtyä, vaikka keskellä keskustelua.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939626"
+    },
+    {
+      "english": "Fresh start, let today be gentle.",
+      "finnish": "Uusi alku, anna tämän päivän olla lempeä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939627"
+    },
+    {
+      "english": "Notice the sound, then return to breath.",
+      "finnish": "Huomaa ääni, sitten palaa hengitykseen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939628"
+    },
+    {
+      "english": "If you slip, it’s fine, restart kindly.",
+      "finnish": "Jos lipsahdat, se on ok, aloita uudelleen ystävällisesti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939631"
+    },
+    {
+      "english": "Right here, right now, that’s enough.",
+      "finnish": "Tässä, juuri nyt, se riittää.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939632"
+    },
+    {
+      "english": "Before reacting, ask yourself, “What matters?”",
+      "finnish": "Ennen kuin reagoit, kysy itseltäsi, “Mikä tärkeää?”",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939635"
+    },
+    {
+      "english": "Can we slow down, just for a moment?",
+      "finnish": "Voidaanko hidastaa, vain hetkeksi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939637"
+    },
+    {
+      "english": "How are you feeling, right now, really?",
+      "finnish": "Miltä sinusta tuntuu, juuri nyt, oikeasti?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939639"
+    },
+    {
+      "english": "What helped you most, when you felt stressed?",
+      "finnish": "Mikä auttoi eniten, kun olit stressaantunut?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939641"
+    },
+    {
+      "english": "Do you want to try a calming breath together?",
+      "finnish": "Haluatko kokeilla rauhoittavaa hengitystä yhdessä?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939642"
+    },
+    {
+      "english": "Could I ask, what’s on your mind?",
+      "finnish": "Saisinko kysyä, mikä pyörii mielessäsi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939646"
+    },
+    {
+      "english": "Let’s check in, what do you need today?",
+      "finnish": "Katsotaan yhdessä, mitä tarvitset tänään?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939648"
+    },
+    {
+      "english": "How do you usually settle your thoughts?",
+      "finnish": "Miten sinä yleensä rauhoitat ajatuksiasi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939649"
+    },
+    {
+      "english": "Should we focus on feelings, or breathing?",
+      "finnish": "Pidetäänkö huomio tunteissa, vai hengityksessä?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939651"
+    },
+    {
+      "english": "When you feel stuck, what do you do first?",
+      "finnish": "Kun tunnet olevasi jumissa, mitä teet ensin?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939653"
+    },
+    {
+      "english": "Do you want advice, or just to vent?",
+      "finnish": "Haluatko neuvoja, vai haluatko vain tuulettaa?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939654"
+    },
+    {
+      "english": "What’s one kind question you can ask yourself?",
+      "finnish": "Mikä on yksi lempeä kysymys itsellesi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939659"
+    },
+    {
+      "english": "Would you like to practice, eyes open or closed?",
+      "finnish": "Haluatko harjoitella, silmät auki vai kiinni?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939661"
+    },
+    {
+      "english": "Can you notice your body, without judging?",
+      "finnish": "Voitko huomata kehosi, ilman tuomitsemista?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939663"
+    },
+    {
+      "english": "What would make this conversation feel safer?",
+      "finnish": "Mikä tekisi tästä keskustelusta turvallisemman?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939665"
+    },
+    {
+      "english": "How can I support you, in this moment?",
+      "finnish": "Miten voin tukea sinua, tässä hetkessä?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939667"
+    },
+    {
+      "english": "Do you feel tension anywhere, right now?",
+      "finnish": "Tuntuuko sinulla jännitystä jossain nyt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939668"
+    },
+    {
+      "english": "Let me know, what pace works for you?",
+      "finnish": "Kerro, mikä rytmi sopii sinulle parhaiten.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939670"
+    },
+    {
+      "english": "Should we pause, or keep talking calmly?",
+      "finnish": "Pidetäänkö tauko, vai jatketaanko rauhassa?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939672"
+    },
+    {
+      "english": "What emotion is present, without pushing it away?",
+      "finnish": "Mitä tunnet nyt, ilman että työnnät sen pois?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939673"
+    },
+    {
+      "english": "Do you want to talk, or just sit together?",
+      "finnish": "Haluatko jutella, vai istutaanko vain yhdessä?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939676"
+    },
+    {
+      "english": "What’s your biggest worry lately, gently?",
+      "finnish": "Mikä on suurin huolesi, ihan hiljaa?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939679"
+    },
+    {
+      "english": "Can we slow your thinking, together for one minute?",
+      "finnish": "Voidaanko hidastaa ajattelua, yhdessä yhden minuutin?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939680"
+    },
+    {
+      "english": "How does your breath feel, in your chest?",
+      "finnish": "Miltä hengitys tuntuu, rinnassasi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939682"
+    },
+    {
+      "english": "What’s one small win you can acknowledge today?",
+      "finnish": "Mikä on yksi pieni voitto, jonka voit huomata?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939684"
+    },
+    {
+      "english": "Do you want a question, or a simple exercise?",
+      "finnish": "Haluatko kysymyksen, vai yksinkertaisen harjoituksen?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939686"
+    },
+    {
+      "english": "What’s the kindest thing you can say now?",
+      "finnish": "Mikä on lempein asia, jonka voit sanoa nyt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939687"
+    },
+    {
+      "english": "Can I check, are you okay to continue?",
+      "finnish": "Saanko kysyä, sopiiko jatkaa, oletko kunnossa?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939689"
+    },
+    {
+      "english": "What do you notice first, the sound or breath?",
+      "finnish": "Mitä huomaat ensin, äänen vai hengityksen?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939691"
+    },
+    {
+      "english": "Want to trade one honest thought, quietly?",
+      "finnish": "Haluatko jakaa yhden rehellisen ajatuksen, hiljaa?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939692"
+    },
+    {
+      "english": "How can we end this gently, together?",
+      "finnish": "Miten päätetään tämä lempeästi, yhdessä?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939694"
+    },
+    {
+      "english": "You’re doing better than you think, seriously.",
+      "finnish": "Teet paremmin kuin luulet, ihan oikeasti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939696"
+    },
+    {
+      "english": "Small steps count, that’s how it works.",
+      "finnish": "Pienet askeleet merkitsevät, näin se toimii.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939698"
+    },
+    {
+      "english": "Let your mind wander, then come back.",
+      "finnish": "Anna mielen vaeltaa, sitten palaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939700"
+    },
+    {
+      "english": "Gentle thoughts, you can train them daily.",
+      "finnish": "Pehmeitä ajatuksia, voit treenata niitä joka päivä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939701"
+    },
+    {
+      "english": "Be proud, even if progress is tiny.",
+      "finnish": "Ole ylpeä, vaikka edistys olisi pieni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939703"
+    },
+    {
+      "english": "Try kindness first, it changes everything fast.",
+      "finnish": "Kokeile ystävällisyyttä ensin, se muuttaa kaiken nopeasti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939705"
+    },
+    {
+      "english": "Right now is practice, not a test.",
+      "finnish": "Tässä hetkessä harjoitellaan, ei testata.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939707"
+    },
+    {
+      "english": "You don’t have to fix it all.",
+      "finnish": "Sinun ei tarvitse korjata kaikkea.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939708"
+    },
+    {
+      "english": "Choose one kind sentence to yourself.",
+      "finnish": "Valitse yksi hyvä lause itsellesi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939710"
+    },
+    {
+      "english": "It’s okay to pause, your brain learns.",
+      "finnish": "Se on ok pysähtyä, aivosi oppivat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939712"
+    },
+    {
+      "english": "Notice the thought, then soften around it.",
+      "finnish": "Huomaa ajatus, sitten pehmennä sen ympärillä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939714"
+    },
+    {
+      "english": "Your attention is a tool, use it kindly.",
+      "finnish": "Huomio on työkalu, käytä sitä lempeästi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939716"
+    },
+    {
+      "english": "Small relief is still real success.",
+      "finnish": "Pieni helpotuskin on oikeaa onnistumista.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939718"
+    },
+    {
+      "english": "Say, ‘Thanks,’ even to your feelings.",
+      "finnish": "Sano, ‘kiitos’, vaikka tunteillekin.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939720"
+    },
+    {
+      "english": "Let the moment be messy, that’s fine.",
+      "finnish": "Anna hetken olla sotkuinen, sekin käy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939722"
+    },
+    {
+      "english": "You’re allowed to start over, anytime.",
+      "finnish": "Sinulla on lupa aloittaa alusta, milloin vain.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939724"
+    },
+    {
+      "english": "Even calm has days, don’t worry.",
+      "finnish": "Kyllä rauhallisuuskin vaihtelee, ei hätää.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939726"
+    },
+    {
+      "english": "Pause, and let your shoulders drop.",
+      "finnish": "Pysähdy, ja anna hartioiden laskea.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939728"
+    },
+    {
+      "english": "Keep your goal simple, keep your pace gentle.",
+      "finnish": "Pidä tavoite yksinkertaisena, pidä vauhti lempeänä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939730"
+    },
+    {
+      "english": "You’re not behind, you’re just human.",
+      "finnish": "Et ole jäljessä, olet vain ihminen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939731"
+    },
+    {
+      "english": "Breathe like you mean it, quietly.",
+      "finnish": "Hengitä kuin tarkoitat, hiljaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939734"
+    },
+    {
+      "english": "Trust the process, your body knows the way.",
+      "finnish": "Luota prosessiin, kehosi tietää tien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939737"
+    },
+    {
+      "english": "Your thoughts can pass, like clouds.",
+      "finnish": "Ajatukset voivat mennä ohi, kuin pilvet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939739"
+    },
+    {
+      "english": "Praise yourself, for showing up today.",
+      "finnish": "Kehu itseäsi, kun olet paikalla tänään.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939740"
+    },
+    {
+      "english": "When doubt shows up, be curious, not harsh.",
+      "finnish": "Kun epäily tulee, ole utelias, älä kova.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939742"
+    },
+    {
+      "english": "Tell your mind, ‘We’re okay,’ gently.",
+      "finnish": "Kerro mielelle, ‘me selvitään’, lempeästi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939744"
+    },
+    {
+      "english": "You can focus on one tiny detail.",
+      "finnish": "Voit keskittyä yhteen pieneen yksityiskohtaan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939747"
+    },
+    {
+      "english": "It’s brave to pause, even for a second.",
+      "finnish": "On rohkeaa pysähtyä, vaikka vain hetkeksi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939749"
+    },
+    {
+      "english": "Notice effort, not just outcomes, always.",
+      "finnish": "Huomaa ponnistus, ei vain tulokset, aina.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939751"
+    },
+    {
+      "english": "You’re building space, one breath at a time.",
+      "finnish": "Rakennat tilaa, yksi hengitys kerrallaan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939753"
+    },
+    {
+      "english": "Right now, name one feeling without judging it.",
+      "finnish": "Nimeä yksi tunne juuri nyt, ilman tuomitsemista.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939755"
+    },
+    {
+      "english": "If it’s heavy, you can admit that.",
+      "finnish": "Jos se painaa, voit myöntää sen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939757"
+    },
+    {
+      "english": "Let honesty be quiet, not dramatic.",
+      "finnish": "Anna rehellisyyden olla hiljaista, ei dramaattista.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939758"
+    },
+    {
+      "english": "I’m here, even if my mood shifts.",
+      "finnish": "Olen tässä, vaikka mieleni vaihtelee.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939760"
+    },
+    {
+      "english": "Notice your thoughts, then stop chasing them.",
+      "finnish": "Huomaa ajatukset, sitten älä jahtaa niitä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939762"
+    },
+    {
+      "english": "Pause, and feel your body’s small signals.",
+      "finnish": "Pysähdy, ja tunne kehon pienet signaalit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939764"
+    },
+    {
+      "english": "Where do you feel tension, in plain words?",
+      "finnish": "Missä tunnet jännitystä, ihan omin sanoin?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939766"
+    },
+    {
+      "english": "You don’t need answers, just kinder awareness.",
+      "finnish": "Et tarvitse vastauksia, vain lempeää tietoa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939768"
+    },
+    {
+      "english": "Sometimes calm is just delayed stress.",
+      "finnish": "Joskus rauha on vain viivästynyt stressi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939769"
+    },
+    {
+      "english": "Be patient with your own learning curve.",
+      "finnish": "Ole kärsivällinen oman oppimiskäyräsi kanssa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939771"
+    },
+    {
+      "english": "What truth can you say softly to yourself?",
+      "finnish": "Mitä totuutta voit sanoa pehmeästi itsellesi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939772"
+    },
+    {
+      "english": "Let your breath be your gentle anchor.",
+      "finnish": "Anna hengityksen toimia lempeänä ankkurina.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939774"
+    },
+    {
+      "english": "If you drift, it’s still part of practice.",
+      "finnish": "Jos harhaudut, sekin on osa harjoittelua.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939777"
+    },
+    {
+      "english": "Check in, what do you actually want?",
+      "finnish": "Käy tarkistamassa, mitä oikeasti haluat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939779"
+    },
+    {
+      "english": "Notice fear, then widen your attention anyway.",
+      "finnish": "Huomaa pelko, silti levitä huomiotasi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939780"
+    },
+    {
+      "english": "Your body speaks first, before your thoughts.",
+      "finnish": "Kehosi puhuu ensin, ennen kuin ajattelet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939782"
+    },
+    {
+      "english": "Try saying, I’m doing my best, now.",
+      "finnish": "Kokeile sanoa, teen parhaani nyt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939784"
+    },
+    {
+      "english": "Hold the feeling, and don’t wrestle it.",
+      "finnish": "Pidä tunne, älä kisko sitä väkisin.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939786"
+    },
+    {
+      "english": "Some thoughts are warnings, not commands.",
+      "finnish": "Osa ajatuksista on varoituksia, ei käskyjä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939788"
+    },
+    {
+      "english": "Let the moment teach you, without rushing.",
+      "finnish": "Anna hetken opettaa sinua, ilman kiirettä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939789"
+    },
+    {
+      "english": "What emotion is asking for space today?",
+      "finnish": "Mikä tunne pyytää tilaa tänään?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939791"
+    },
+    {
+      "english": "You can feel upset, and still stay kind.",
+      "finnish": "Voit olla järkyttynyt, ja silti olla lempeä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939793"
+    },
+    {
+      "english": "Slow down your inner voice, just a bit.",
+      "finnish": "Hidasta sisäistä ääntäsi, vähän.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939796"
+    },
+    {
+      "english": "Even discomfort has a message, listen gently.",
+      "finnish": "Myös epämukavuudella on viesti, kuuntele lempeästi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939797"
+    },
+    {
+      "english": "If you’re judging, return to what’s real.",
+      "finnish": "Jos tuomitset, palaa siihen, mikä on totta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939800"
+    },
+    {
+      "english": "Give yourself credit for trying, not perfecting.",
+      "finnish": "Anna itsellesi kiitosta yrittämisestä, ei täydellisyydestä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939802"
+    },
+    {
+      "english": "What would calm say, if it spoke now?",
+      "finnish": "Mitä rauha sanoisi, jos se puhuisi nyt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939803"
+    },
+    {
+      "english": "Let your feelings move, like weather changing.",
+      "finnish": "Anna tunteiden liikkua, kuin sää vaihtuu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939805"
+    },
+    {
+      "english": "You can be both emotional, and present.",
+      "finnish": "Voit olla sekä tunteikas, että läsnä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939806"
+    },
+    {
+      "english": "End with gratitude for surviving this moment.",
+      "finnish": "Lopeta kiitollisuuteen, selviytymisestä juuri tästä hetkestä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939808"
+    },
+    {
+      "english": "Before you text, pause, breathe, choose kindness.",
+      "finnish": "Ennen kuin lähetät viestin, pysähdy, hengitä, valitse ystävällisyys.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-08T09:58:35.939809"
     }
   ],
-  "last_updated": "2026-11-07T09:44:36.809973"
+  "last_updated": "2026-11-08T09:58:35.939811"
 }
