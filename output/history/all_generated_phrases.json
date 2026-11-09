@@ -6479,7 +6479,727 @@
       "finnish": "Ennen kuin lähetät viestin, pysähdy, hengitä, valitse ystävällisyys.",
       "category": "Mindfulness",
       "generated_at": "2026-11-08T09:58:35.939809"
+    },
+    {
+      "english": "It’s okay, I forgive you, really.",
+      "finnish": "Ei se mitään, minä annan anteeksi, ihan oikeasti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340736"
+    },
+    {
+      "english": "Forget it, let’s move on, okay?",
+      "finnish": "Unohda se, jatketaan eteenpäin, okei?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340753"
+    },
+    {
+      "english": "No worries, it’s forgiven, we’re good.",
+      "finnish": "Ei hätää, se on annettu anteeksi, me ollaan ok.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340756"
+    },
+    {
+      "english": "I’m letting it go, don’t bring it up.",
+      "finnish": "Päästän sen menemään, älä nosta sitä uudestaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340759"
+    },
+    {
+      "english": "All right, I understand, I forgive.",
+      "finnish": "Selvä, mä ymmärrän, minä annan anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340761"
+    },
+    {
+      "english": "It was a mistake, I forgive you, no stress.",
+      "finnish": "Se oli virhe, minä annan anteeksi, ei stressiä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340763"
+    },
+    {
+      "english": "Let’s leave it there, okay, no hard feelings.",
+      "finnish": "Jätetään se siihen, okei, ei kovia tunteita.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340766"
+    },
+    {
+      "english": "You’re forgiven, thanks for saying sorry.",
+      "finnish": "Olet anteeksi annettu, kiitos kun pyysit anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340770"
+    },
+    {
+      "english": "I won’t hold it against you, promise.",
+      "finnish": "En jää kiinni siihen, lupaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340773"
+    },
+    {
+      "english": "It’s fine, I can let it go.",
+      "finnish": "Ei mitään, mä pystyn päästämään sen irti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340776"
+    },
+    {
+      "english": "Don’t overthink, I’m over it now.",
+      "finnish": "Älä vatvo, mä olen jo päässyt yli.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340778"
+    },
+    {
+      "english": "Thanks, that’s enough, we’re okay now.",
+      "finnish": "Kiitos, se riittää, me ollaan ok nyt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340780"
+    },
+    {
+      "english": "I forgive you, but let’s talk calmly.",
+      "finnish": "Annan anteeksi, mutta jutellaan rauhassa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340782"
+    },
+    {
+      "english": "No need to apologize again, it’s fine.",
+      "finnish": "Ei tarvitse pyytää anteeksi uudestaan, kaikki hyvin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340784"
+    },
+    {
+      "english": "I hear you, and I forgive you.",
+      "finnish": "Mä kuulen sut, ja mä annan anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340786"
+    },
+    {
+      "english": "Let it be, I’m not mad anymore.",
+      "finnish": "Anna olla, mä en ole enää vihainen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340788"
+    },
+    {
+      "english": "We’ll be fine, stop blaming yourself.",
+      "finnish": "Me selvitään, lopeta itsesi syyttäminen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340791"
+    },
+    {
+      "english": "I can’t change it, but I forgive.",
+      "finnish": "En mä voi muuttaa sitä, mutta annan anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340793"
+    },
+    {
+      "english": "It’s water under the bridge, move on.",
+      "finnish": "Se on mennyttä, jatka eteenpäin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340795"
+    },
+    {
+      "english": "Okay, I accept your apology.",
+      "finnish": "Selvä, mä hyväksyn sun anteeksipyynnön.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340796"
+    },
+    {
+      "english": "I’m choosing peace, I forgive, okay?",
+      "finnish": "Valitsen rauhan, annan anteeksi, okei?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340798"
+    },
+    {
+      "english": "Let’s keep this light, no grudges.",
+      "finnish": "Pidetään tää kevyenä, ei kaunoja.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340802"
+    },
+    {
+      "english": "I forgive you, but don’t repeat it.",
+      "finnish": "Annan anteeksi, mutta älä tee samaa uudestaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340804"
+    },
+    {
+      "english": "It’s okay, we all mess up sometimes.",
+      "finnish": "Ei se mitään, me kaikki mokaillaan joskus.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340806"
+    },
+    {
+      "english": "I’m not punishing you, we can reset.",
+      "finnish": "En mä rankaise sua, voidaan aloittaa alusta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340808"
+    },
+    {
+      "english": "Thanks for understanding, I forgive you.",
+      "finnish": "Kiitos kun ymmärrät, mä annan anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340810"
+    },
+    {
+      "english": "Give me a second, I’ll calm down.",
+      "finnish": "Anna hetki, mä rauhoitun, ja annan anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340812"
+    },
+    {
+      "english": "We’re good now, no need to talk about it.",
+      "finnish": "Me ollaan kunnossa nyt, ei tarvi puhua siitä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340814"
+    },
+    {
+      "english": "I forgive, but I want honesty too.",
+      "finnish": "Annan anteeksi, mutta haluan myös rehellisyyttä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340816"
+    },
+    {
+      "english": "Let’s clear the air, I forgive you.",
+      "finnish": "Selvitellään tämä, mä annan anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340818"
+    },
+    {
+      "english": "It’s fine, I trust you again, really.",
+      "finnish": "Se on fine, luotan muhun taas, ihan oikeasti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340820"
+    },
+    {
+      "english": "So, what happened, and how can we fix it?",
+      "finnish": "Mitä tapahtui, ja miten me voidaan korjata se?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340822"
+    },
+    {
+      "english": "Do you want to talk, before we move on?",
+      "finnish": "Haluatko puhua, ennen kuin mennään eteenpäin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340824"
+    },
+    {
+      "english": "Can we agree, no more drama about this?",
+      "finnish": "Sovitaanko, ettei tästä enää vouhota?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340826"
+    },
+    {
+      "english": "What do you need from me, to feel okay?",
+      "finnish": "Mitä tarvitset minulta, että voit olla ok?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340829"
+    },
+    {
+      "english": "How do we prevent this next time, for real?",
+      "finnish": "Miten estetään tämä ensi kerralla, ihan oikeasti?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340831"
+    },
+    {
+      "english": "Are you sorry, like, fully sorry?",
+      "finnish": "Oletko oikeasti pahoillasi, ihan kunnolla?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340834"
+    },
+    {
+      "english": "Tell me your side, then we’ll reset.",
+      "finnish": "Kerro oma puolesi, sitten nollataan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340836"
+    },
+    {
+      "english": "What would make this feel fair again?",
+      "finnish": "Mikä tekisi tästä taas reilua?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340838"
+    },
+    {
+      "english": "Can we shake hands, even if it stings?",
+      "finnish": "Voidaanko puristaa kättä, vaikka se kirpaisee?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340840"
+    },
+    {
+      "english": "Should we write it down, so we remember?",
+      "finnish": "Kirjataanko tämä ylös, ettei mene ohi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340842"
+    },
+    {
+      "english": "I’m listening, what do you want to say?",
+      "finnish": "Kuuntelen, mitä sinä haluat sanoa?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340845"
+    },
+    {
+      "english": "Do you want advice, or just a hug?",
+      "finnish": "Haluatko neuvoa, vai vain halausta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340847"
+    },
+    {
+      "english": "Be honest, what were you thinking then?",
+      "finnish": "Ole rehellinen, mitä ajattelit silloin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340849"
+    },
+    {
+      "english": "How can I trust you, step by step?",
+      "finnish": "Miten voin luottaa sinuun, askel askeleelta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340851"
+    },
+    {
+      "english": "What’s the plan, so this won’t repeat?",
+      "finnish": "Mikä on suunnitelma, ettei tämä toistu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340853"
+    },
+    {
+      "english": "Do you want to make it right, today?",
+      "finnish": "Haluatko korjata tämän, tänään?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340855"
+    },
+    {
+      "english": "Can we pause here, and breathe first?",
+      "finnish": "Pidetään tauko, hengitetään ensin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340857"
+    },
+    {
+      "english": "What’s your apology, actually mean in practice?",
+      "finnish": "Mitä se anteeksipyyntö oikeasti tarkoittaa?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340859"
+    },
+    {
+      "english": "Should we set boundaries, so it stops?",
+      "finnish": "Asetetaanko rajat, jotta tämä loppuu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340861"
+    },
+    {
+      "english": "Can I ask one thing, please, nicely?",
+      "finnish": "Saanko kysyä yhden asian, kiitos, nätisti?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340863"
+    },
+    {
+      "english": "Will you do better, or just say sorry?",
+      "finnish": "Teetkö paremmin, vai vaan sanotko anteeksi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340864"
+    },
+    {
+      "english": "What helps you calm down, after a fight?",
+      "finnish": "Mikä rauhoittaa sinua, riidan jälkeen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340867"
+    },
+    {
+      "english": "How about we talk, and keep it respectful?",
+      "finnish": "Keskustellaan vain, ja pidetään se asiallisena?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340869"
+    },
+    {
+      "english": "Do you want forgiveness, or a fresh start?",
+      "finnish": "Haluatko anteeksiannon, vai uuden alun?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340871"
+    },
+    {
+      "english": "Can we reset our expectations, together?",
+      "finnish": "Nollataanko odotukset, yhdessä?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340873"
+    },
+    {
+      "english": "What’s one change you’ll make from now?",
+      "finnish": "Mikä yksi muutos, jonka teet tästä eteenpäin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340875"
+    },
+    {
+      "english": "I get it, so can we try again?",
+      "finnish": "Ymmärrän, joten voimmeko yrittää uudestaan?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340877"
+    },
+    {
+      "english": "Do you feel ready to fix this with me?",
+      "finnish": "Oletko valmis korjaamaan tätä kanssani?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340878"
+    },
+    {
+      "english": "Can I say one thing, then you respond?",
+      "finnish": "Saanko sanoa yhden asian, sitten sinä vastaat?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340880"
+    },
+    {
+      "english": "Let’s check in, are we okay right now?",
+      "finnish": "Katsotaanko tilanne, ollaanko me nyt ok?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340882"
+    },
+    {
+      "english": "All right, I’ll let it go, for real.",
+      "finnish": "Selvä, päästän sen menemään, ihan oikeasti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340884"
+    },
+    {
+      "english": "Weird as it feels, we can move on.",
+      "finnish": "Vaikka kirpaisee, voidaan jatkaa eteenpäin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340886"
+    },
+    {
+      "english": "Take a breath, I’m not keeping score.",
+      "finnish": "Ota henkeä, en mä pidä pisteitä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340888"
+    },
+    {
+      "english": "Let’s bury the hatchet, and keep it simple.",
+      "finnish": "Haudataan kirves, ja pidetään se yksinkertaisena.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340891"
+    },
+    {
+      "english": "No need to stir it up again.",
+      "finnish": "Ei tarvitse nostaa sitä uudestaan esiin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340892"
+    },
+    {
+      "english": "I’ll forgive, but I’ll watch the pattern.",
+      "finnish": "Annan anteeksi, mutta katselen kuvioita tarkasti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340896"
+    },
+    {
+      "english": "We can wipe the slate clean, slowly.",
+      "finnish": "Pyyhitään pöytä puhtaaksi, rauhassa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340898"
+    },
+    {
+      "english": "I’m choosing peace, not petty revenge.",
+      "finnish": "Valitsen rauhan, en pientä kostonhimoa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340900"
+    },
+    {
+      "english": "Let’s not drag this around forever.",
+      "finnish": "Ei tätä jaksa pyörittää loputtomiin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340902"
+    },
+    {
+      "english": "We can start over, no performance needed.",
+      "finnish": "Aloitetaan alusta, ei tarvitse esittää.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340903"
+    },
+    {
+      "english": "It’s water under the bridge, okay?",
+      "finnish": "Se on jo mennyttä, sopii?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340906"
+    },
+    {
+      "english": "I’ll trust again, when actions match words.",
+      "finnish": "Luotan uudestaan, kun teot osuu puheeseen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340908"
+    },
+    {
+      "english": "Say it straight, then we’re past this.",
+      "finnish": "Sanot suoraan, ja sitten ollaan ohi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340910"
+    },
+    {
+      "english": "I can forgive, but don’t play games.",
+      "finnish": "Voin antaa anteeksi, mutta älä pelleile.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340912"
+    },
+    {
+      "english": "Give me room, I’ll cool down.",
+      "finnish": "Anna tilaa, niin rauhoitun.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340914"
+    },
+    {
+      "english": "We’ll talk later, but we’ll fix it.",
+      "finnish": "Puhutaan myöhemmin, mutta korjataan tämä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340917"
+    },
+    {
+      "english": "No hard feelings, let’s keep going.",
+      "finnish": "Ei kaunaa, jatketaan vaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340919"
+    },
+    {
+      "english": "I’ll meet you halfway, not at fault.",
+      "finnish": "Tapaan sinut puolivälissä, en syyllisten kanssa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340921"
+    },
+    {
+      "english": "Better late than never, let’s make it right.",
+      "finnish": "Parempi myöhään kuin ei milloinkaan, korjataan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340923"
+    },
+    {
+      "english": "I’m not holding you hostage with this.",
+      "finnish": "En pidä sinua panttivankina tästä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340925"
+    },
+    {
+      "english": "Let it be, I’m done being hurt.",
+      "finnish": "Annetaan olla, olen kyllästynyt loukkaantumiseen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340927"
+    },
+    {
+      "english": "We’ll set it aside, and learn from it.",
+      "finnish": "Panetaan se syrjään, ja opitaan siitä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340929"
+    },
+    {
+      "english": "Keep it real, show you mean it.",
+      "finnish": "Pysy rehellisenä, näytä että tarkoitat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340931"
+    },
+    {
+      "english": "Let’s not replay it, we need closure.",
+      "finnish": "Ei jauheta uudestaan, tarvitaan päätös.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340933"
+    },
+    {
+      "english": "I’ll forgive, if you take responsibility.",
+      "finnish": "Annan anteeksi, jos otat vastuun.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340935"
+    },
+    {
+      "english": "Time helps, but it needs consistency too.",
+      "finnish": "Aika auttaa, mutta vaatii myös johdonmukaisuutta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340939"
+    },
+    {
+      "english": "We’ll keep our bond, not the grudge.",
+      "finnish": "Pidetään välimatka pois, pidetään yhteys.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340941"
+    },
+    {
+      "english": "It’s okay to be sorry, but act differently.",
+      "finnish": "Anteeksi voi sanoa, mutta tee toisin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340943"
+    },
+    {
+      "english": "Let’s agree, this ends here, today.",
+      "finnish": "Sovitaan, tämä loppuu tähän, tänään.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340945"
+    },
+    {
+      "english": "I’m forgiving, and I want peace back.",
+      "finnish": "Annan anteeksi, ja haen rauhan takaisin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340947"
+    },
+    {
+      "english": "I’m working through it, step by step.",
+      "finnish": "Työstän tätä, askel kerrallaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340949"
+    },
+    {
+      "english": "Inside, I’m still hurt, but listening.",
+      "finnish": "Sisälläni olen yhä kipeä, mutta kuuntelen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340952"
+    },
+    {
+      "english": "I don’t deny it, I just soften.",
+      "finnish": "En kiellä sitä, pehmennän vain.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340954"
+    },
+    {
+      "english": "I want to be honest, not fake.",
+      "finnish": "Haluan olla rehellinen, en esittää mitään.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340956"
+    },
+    {
+      "english": "Some days I miss my old trust.",
+      "finnish": "Joitain päiviä kaipaan vanhaa luottamusta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340958"
+    },
+    {
+      "english": "I’m learning patience, even when it stings.",
+      "finnish": "Opettelen kärsivällisyyttä, vaikka se sattuu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340960"
+    },
+    {
+      "english": "I’m choosing forgiveness, and I mean it.",
+      "finnish": "Valitsen anteeksiannon, ja tarkoitan sitä.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340963"
+    },
+    {
+      "english": "I need time, to feel safe again.",
+      "finnish": "Tarvitsen aikaa, jotta tunnen oloni taas turvalliseksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340965"
+    },
+    {
+      "english": "I’m not erasing history, just releasing pain.",
+      "finnish": "En pyyhi pois historiaa, vain päästän kivusta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340967"
+    },
+    {
+      "english": "I can’t rush this, but I’m moving.",
+      "finnish": "En voi kiirehtiä tätä, mutta olen menossa eteenpäin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340971"
+    },
+    {
+      "english": "I’m letting my anger go, little by little.",
+      "finnish": "Päästän vihani menemään, pikku hiljaa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340973"
+    },
+    {
+      "english": "I’m reflecting quietly, and I still care.",
+      "finnish": "Pohdin hiljaa, ja silti välitän.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340975"
+    },
+    {
+      "english": "I know growth takes work, not magic.",
+      "finnish": "Tiedän, että kasvu vaatii työtä, ei taikaa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340977"
+    },
+    {
+      "english": "I’m ready to soften, without losing myself.",
+      "finnish": "Olen valmis pehmenemään, enkä menetä itseäni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340980"
+    },
+    {
+      "english": "What happened hurts, but it won’t rule me.",
+      "finnish": "Se mitä tapahtui sattuu, mutta ei hallitse minua.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340983"
+    },
+    {
+      "english": "I’m forgiving, yet I’m keeping my boundaries.",
+      "finnish": "Annan anteeksi, mutta pidän rajani.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340985"
+    },
+    {
+      "english": "I can see your side, still I’m cautious.",
+      "finnish": "Ymmärrän sinua, mutta olen silti varovainen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340987"
+    },
+    {
+      "english": "I’m not keeping score, I’m seeking peace.",
+      "finnish": "En laske pisteitä, haen vain rauhaa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340990"
+    },
+    {
+      "english": "I forgive, but I want change, not promises.",
+      "finnish": "Annan anteeksi, mutta haluan muutosta, en lupauksia.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340993"
+    },
+    {
+      "english": "I’m choosing calm, even if it’s uncomfortable.",
+      "finnish": "Valitsen rauhan, vaikka se tuntuisi oudolta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340996"
+    },
+    {
+      "english": "I’m learning to breathe through the hard parts.",
+      "finnish": "Opettelen hengittämään vaikeiden hetkien läpi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.340998"
+    },
+    {
+      "english": "I won’t pretend, I’ll say what I feel.",
+      "finnish": "En teeskentele, sanon mitä tunnen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341000"
+    },
+    {
+      "english": "Forgiveness grows, when we talk gently.",
+      "finnish": "Anteeksianto kasvaa, kun puhumme pehmeästi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341002"
+    },
+    {
+      "english": "I’m letting go of the sting, slowly.",
+      "finnish": "Päästän irti kirvelystä, hitaasti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341004"
+    },
+    {
+      "english": "I can be hurt, and still forgive.",
+      "finnish": "Voin olla loukkaantunut, ja silti antaa anteeksi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341006"
+    },
+    {
+      "english": "I’m not excusing it, I’m moving forward.",
+      "finnish": "En selittele sitä, vaan jatkan eteenpäin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341008"
+    },
+    {
+      "english": "I hear you, and I’m trying to trust.",
+      "finnish": "Kuulen sinua, ja yritän luottaa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341010"
+    },
+    {
+      "english": "I’m listening for effort, not just words.",
+      "finnish": "Kuuntelen yritystä, en pelkkiä sanoja.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341012"
+    },
+    {
+      "english": "I’m okay with progress, not perfection.",
+      "finnish": "Olen ok edistymisen kanssa, en täydellisyyden.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T11:03:45.341014"
     }
   ],
-  "last_updated": "2026-11-08T09:58:35.939811"
+  "last_updated": "2026-11-09T11:03:45.341016"
 }
