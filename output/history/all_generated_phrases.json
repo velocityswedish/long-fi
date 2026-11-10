@@ -7199,7 +7199,727 @@
       "finnish": "Olen ok edistymisen kanssa, en täydellisyyden.",
       "category": "Forgiveness",
       "generated_at": "2026-11-09T11:03:45.341014"
+    },
+    {
+      "english": "Quick question, are you free today?",
+      "finnish": "Pikakysymys, oletko vapaa tänään?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.639993"
+    },
+    {
+      "english": "I’m just checking, what’s the plan?",
+      "finnish": "Vain varmistan, mikä on suunnitelma?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640005"
+    },
+    {
+      "english": "Sorry, I missed that, can you repeat?",
+      "finnish": "Anteeksi, menin ohi, voitko toistaa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640011"
+    },
+    {
+      "english": "Nice, that helps a lot, thanks!",
+      "finnish": "Mahtavaa, siitä on paljon apua, kiitos!",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640015"
+    },
+    {
+      "english": "Wait, hold on, what do you mean?",
+      "finnish": "Hetkinen, mitä tarkoitat?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640018"
+    },
+    {
+      "english": "Honestly, I don’t know yet",
+      "finnish": "Rehellisesti, en tiedä vielä",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640021"
+    },
+    {
+      "english": "Good idea, let’s try it together",
+      "finnish": "Hyvä idea, kokeillaan yhdessä",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640025"
+    },
+    {
+      "english": "Don’t worry, we’ll figure it out",
+      "finnish": "Ei hätää, kyllä se selviää",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640030"
+    },
+    {
+      "english": "Come on, it’s not that hard",
+      "finnish": "No niin, ei se ole niin vaikeaa",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640034"
+    },
+    {
+      "english": "I think so, but let me confirm",
+      "finnish": "Luulen niin, mutta varmistetaan",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640037"
+    },
+    {
+      "english": "Right now, I can’t, sorry",
+      "finnish": "Juuri nyt en pysty, anteeksi",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640041"
+    },
+    {
+      "english": "That’s it, done for today",
+      "finnish": "Siinä se, valmista tänään",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640044"
+    },
+    {
+      "english": "Really? wow, that’s surprising",
+      "finnish": "Ai oikeasti, huh, mikä yllätys",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640047"
+    },
+    {
+      "english": "No way, that can’t be true",
+      "finnish": "Ei voi olla, se ei voi pitää paikkaansa",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640050"
+    },
+    {
+      "english": "Let me see, where is it?",
+      "finnish": "Katotaan, missä se on",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640053"
+    },
+    {
+      "english": "Okay then, I’ll handle it",
+      "finnish": "Selvä sitten, hoidan sen",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640056"
+    },
+    {
+      "english": "Just a moment, I’m on my way",
+      "finnish": "Hetki, olen tulossa",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640059"
+    },
+    {
+      "english": "I’m in, let’s go now",
+      "finnish": "Mukaan vaan, mennään heti",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640062"
+    },
+    {
+      "english": "Actually, I changed my mind",
+      "finnish": "Totta puhuen, vaihdoin mieltäni",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640065"
+    },
+    {
+      "english": "What’s up, how’s your day going?",
+      "finnish": "Mitä kuuluu, miten päivä menee?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640069"
+    },
+    {
+      "english": "It’s fine, I’ll manage",
+      "finnish": "Ei haittaa, pärjään kyllä",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640072"
+    },
+    {
+      "english": "Look, that’s the spot, right there",
+      "finnish": "Tässä, tuossa se on",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640075"
+    },
+    {
+      "english": "Thanks a ton, you saved me",
+      "finnish": "Kiitos paljon, pelastit minut",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640077"
+    },
+    {
+      "english": "I’m sorry, my mistake",
+      "finnish": "Anteeksi, minun vikani",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640080"
+    },
+    {
+      "english": "Sure, go ahead, I’m listening",
+      "finnish": "Totta kai, sano vain, kuuntelen",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640083"
+    },
+    {
+      "english": "No problem, anytime",
+      "finnish": "Ei ongelmaa, milloin vain",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640087"
+    },
+    {
+      "english": "I’m tired, can we pause?",
+      "finnish": "Olen väsynyt, voidaanko pitää tauko?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640093"
+    },
+    {
+      "english": "Let’s be quick, we’re running late",
+      "finnish": "Tehdään nopeasti, myöhästytään",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640096"
+    },
+    {
+      "english": "Okay, tell me straight, what happened?",
+      "finnish": "Selkoksi, kerro suoraan, mitä tapahtui?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640112"
+    },
+    {
+      "english": "Can I ask you something, quickly?",
+      "finnish": "Saanko kysyä sinulta jotain, nopeasti?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640115"
+    },
+    {
+      "english": "What do you recommend for first-timers?",
+      "finnish": "Mitä suosittelet ensikertalaiselle?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640118"
+    },
+    {
+      "english": "Where should we start, from the basics?",
+      "finnish": "Mistä meidän kannattaa aloittaa, alkeista?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640121"
+    },
+    {
+      "english": "Is this the right place to ask?",
+      "finnish": "Onko tämä oikea paikka kysyä?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640124"
+    },
+    {
+      "english": "Do you have a minute, for advice?",
+      "finnish": "Onko sinulla hetki, neuvoja varten?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640126"
+    },
+    {
+      "english": "How would you say this in Finnish?",
+      "finnish": "Miten sinä sanoisit tämän suomeksi?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640129"
+    },
+    {
+      "english": "Could you help me, with this question?",
+      "finnish": "Voisitko auttaa minua, tässä kysymyksessä?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640132"
+    },
+    {
+      "english": "When is the best time, to talk?",
+      "finnish": "Milloin on paras aika, jutella?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640136"
+    },
+    {
+      "english": "Should I email first, or call you?",
+      "finnish": "Pitäisikö minun lähettää sähköposti ensin, vai soittaa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640139"
+    },
+    {
+      "english": "Do you know, what they usually ask?",
+      "finnish": "Tiedätkö, mitä he yleensä kysyvät?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640142"
+    },
+    {
+      "english": "Can we plan this together, today?",
+      "finnish": "Suunnitellaanko tämä yhdessä, tänään?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640144"
+    },
+    {
+      "english": "What’s your goal here, in one sentence?",
+      "finnish": "Mikä on sun tavoite, tässä yhdessä lauseessa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640148"
+    },
+    {
+      "english": "How serious should we take this?",
+      "finnish": "Kuinka vakavasti meidän pitäisi ottaa tämä?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640150"
+    },
+    {
+      "english": "Which option makes most sense, to you?",
+      "finnish": "Mikä vaihtoehto tuntuu järkevimmältä, sinusta?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640153"
+    },
+    {
+      "english": "Can I get your thoughts, on the plan?",
+      "finnish": "Saatko antaa ajatuksesi, suunnitelmasta?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640155"
+    },
+    {
+      "english": "What should I avoid, this time?",
+      "finnish": "Mitä minun kannattaa välttää, tällä kertaa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640157"
+    },
+    {
+      "english": "Is there anything I should prepare beforehand?",
+      "finnish": "Pitääkö minun valmistautua jotenkin etukäteen?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640160"
+    },
+    {
+      "english": "What if I get stuck, who helps?",
+      "finnish": "Entä jos jään jumiin, kuka auttaa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640163"
+    },
+    {
+      "english": "Can you clarify, what you mean exactly?",
+      "finnish": "Voitko tarkentaa, mitä tarkoitat tarkalleen?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640166"
+    },
+    {
+      "english": "Do you have examples, so I can follow?",
+      "finnish": "Onko sinulla esimerkkejä, jotta ymmärrän?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640168"
+    },
+    {
+      "english": "How do you usually stay on track?",
+      "finnish": "Miten sinä yleensä pysyt kärryillä?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640171"
+    },
+    {
+      "english": "What would you do, if you were me?",
+      "finnish": "Mitä sinä tekisit, jos olisit minä?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640173"
+    },
+    {
+      "english": "Is it okay, if I ask later?",
+      "finnish": "Onko se ok, jos kysyn myöhemmin?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640176"
+    },
+    {
+      "english": "What’s the simplest next step, for today?",
+      "finnish": "Mikä on helpoin seuraava askel, tänään?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640179"
+    },
+    {
+      "english": "Do we need any documents, beforehand?",
+      "finnish": "Tarvitsemmeko mitään asiakirjoja, etukäteen?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640181"
+    },
+    {
+      "english": "How do you measure success, for yourself?",
+      "finnish": "Miten sinä mittaat menestystä, itsellesi?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640184"
+    },
+    {
+      "english": "Can I get feedback, after we try?",
+      "finnish": "Saanko palautetta, kun kokeillaan?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640186"
+    },
+    {
+      "english": "Who’s the right person, for this issue?",
+      "finnish": "Kuka on oikea henkilö, tähän asiaan?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640189"
+    },
+    {
+      "english": "Before we decide, what matters most?",
+      "finnish": "Ennen kuin päätetään, mikä on tärkeintä?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640192"
+    },
+    {
+      "english": "You’ve got this, one step at a time",
+      "finnish": "Selviydyt tästä, yksi askel kerrallaan",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640197"
+    },
+    {
+      "english": "Keep going, even slow progress counts",
+      "finnish": "Jatka eteenpäin, hidas edistyminenkin riittää",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640200"
+    },
+    {
+      "english": "Trust the process, it works in time",
+      "finnish": "Luota prosessiin, se toimii aikanaan",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640203"
+    },
+    {
+      "english": "Small wins today, big results later",
+      "finnish": "Pienet voitot tänään, suuret tulokset myöhemmin",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640205"
+    },
+    {
+      "english": "Say it out loud, I can do this",
+      "finnish": "Sano se ääneen, minä pystyn",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640210"
+    },
+    {
+      "english": "Your effort matters, don’t doubt it",
+      "finnish": "Panoksesi merkitsee, älä epäile sitä",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640213"
+    },
+    {
+      "english": "Better try than perfect, always",
+      "finnish": "Parempi kokeilla kuin olla täydellinen, aina",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640216"
+    },
+    {
+      "english": "Take a breath, then choose again",
+      "finnish": "Hengitä hetki, sitten valitse uudelleen",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640218"
+    },
+    {
+      "english": "You’re learning, not failing, remember that",
+      "finnish": "Opit, et epäonnistu, muista se",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640221"
+    },
+    {
+      "english": "One message of praise, you deserve it",
+      "finnish": "Yksi kehu, olet sen ansainnut",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640224"
+    },
+    {
+      "english": "Make today count, even quietly",
+      "finnish": "Tee tänään merkityksellinen, vaikka hiljaa",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640226"
+    },
+    {
+      "english": "When it’s hard, go softer with yourself",
+      "finnish": "Kun on vaikeaa, ole itsellesi lempeä",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640229"
+    },
+    {
+      "english": "You’re building courage with every attempt",
+      "finnish": "Rakennat rohkeutta joka yrityksellä",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640232"
+    },
+    {
+      "english": "Give yourself credit, you worked for it",
+      "finnish": "Anna itsellesi tunnustusta, teit töitä sen eteen",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640235"
+    },
+    {
+      "english": "Small routine, big mindset shift",
+      "finnish": "Pieni rutiini, iso ajattelun muutos",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640237"
+    },
+    {
+      "english": "Progress feels messy, keep going anyway",
+      "finnish": "Edistyminen on sekavaa, silti jatka",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640240"
+    },
+    {
+      "english": "Be proud of showing up today",
+      "finnish": "Ole ylpeä, että näytät itsesi tänään",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640242"
+    },
+    {
+      "english": "Your purpose grows, when you act",
+      "finnish": "Sinun tarkoitus kasvaa, kun teet",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640244"
+    },
+    {
+      "english": "Say yes to effort, not perfection",
+      "finnish": "Sano kyllä työlle, älä täydellisyydelle",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640247"
+    },
+    {
+      "english": "Reset quickly, then go for the next",
+      "finnish": "Nollaa nopeasti, sitten seuraavaan",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640249"
+    },
+    {
+      "english": "You can start again, no shame",
+      "finnish": "Voit aloittaa alusta, ei häpeää",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640252"
+    },
+    {
+      "english": "Let support in, you’re not alone",
+      "finnish": "Ota apua vastaan, et ole yksin",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640254"
+    },
+    {
+      "english": "Every day is practice for your dreams",
+      "finnish": "Jokainen päivä on harjoitusta unelmillesi",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640257"
+    },
+    {
+      "english": "Choose hope, it’s a real skill",
+      "finnish": "Valitse toivo, se on taito",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640260"
+    },
+    {
+      "english": "Your pace is valid, keep it steady",
+      "finnish": "Sinun tahtisi on ok, pysy tasaisena",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640262"
+    },
+    {
+      "english": "Celebrate effort, that’s where change starts",
+      "finnish": "Juhli yrittämistä, siitä muutos alkaa",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640265"
+    },
+    {
+      "english": "Now breathe, and move one inch forward",
+      "finnish": "Nyt hengitä, ja ota yksi askel eteenpäin",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640268"
+    },
+    {
+      "english": "I’m figuring myself out, slowly but honestly.",
+      "finnish": "Selvitän itseäni hitaasti, mutta rehellisesti.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640271"
+    },
+    {
+      "english": "Some days I doubt, then I try anyway.",
+      "finnish": "Joina päivinä epäilen, sitten yritän silti.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640274"
+    },
+    {
+      "english": "I want my goals to feel real.",
+      "finnish": "Haluun, että tavoitteet tuntuu oikeilta.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640276"
+    },
+    {
+      "english": "I’ll be patient, even when progress feels slow.",
+      "finnish": "Olen kärsivällinen, vaikka eteneminen tuntuu hitaalta.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640280"
+    },
+    {
+      "english": "I don’t need perfect, I need honest effort.",
+      "finnish": "En tarvitse täydellistä, tarvitsen rehellistä yritystä.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640283"
+    },
+    {
+      "english": "My gut says wait, my heart says go.",
+      "finnish": "Mun vaisto sanoo odota, mun sydän sanoo mene.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640289"
+    },
+    {
+      "english": "I’m learning to name my feelings, out loud.",
+      "finnish": "Harjoittelen nimeämään tunteet, ääneen.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640293"
+    },
+    {
+      "english": "When I’m nervous, I’ll breathe and reset.",
+      "finnish": "Kun hermostun, hengitän ja nollaan.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640296"
+    },
+    {
+      "english": "I’m allowed to change my mind, calmly.",
+      "finnish": "Minulla on lupa vaihtaa mieltä, rauhassa.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640299"
+    },
+    {
+      "english": "I’ll take notes, but keep my self-respect.",
+      "finnish": "Teen muistiinpanoja, mutta pidän itsestäni kiinni.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640302"
+    },
+    {
+      "english": "I’m not behind, I’m just building quietly.",
+      "finnish": "En ole myöhässä, rakennan vain hiljaa.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640306"
+    },
+    {
+      "english": "I trust myself, even when I’m unsure.",
+      "finnish": "Luotan itseeni, vaikka olenkin epävarma.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640310"
+    },
+    {
+      "english": "I’ll listen first, then speak with kindness.",
+      "finnish": "Kuuntelen ensin, sitten puhun ystävällisesti.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640314"
+    },
+    {
+      "english": "Sometimes my fear talks, I answer anyway.",
+      "finnish": "Joskus pelko puhuu, minä vastaan silti.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640316"
+    },
+    {
+      "english": "I’m trying to be gentle, not dramatic.",
+      "finnish": "Yritän olla lempeä, en draamallinen.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640319"
+    },
+    {
+      "english": "I want my purpose to match my values.",
+      "finnish": "Haluun, että tarkoitus sopii arvoihin.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640322"
+    },
+    {
+      "english": "I’ll own my mistakes, learn, then move on.",
+      "finnish": "Otan virheet omaksi, opin, ja jatkan.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640325"
+    },
+    {
+      "english": "I’m not stuck, I’m recalibrating my pace.",
+      "finnish": "En ole jumissa, säätelen vauhtia uudelleen.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640328"
+    },
+    {
+      "english": "My feelings are data, not excuses.",
+      "finnish": "Mun tunteet on dataa, ei tekosyitä.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640331"
+    },
+    {
+      "english": "I’ll be consistent, even when motivation dips.",
+      "finnish": "Olen johdonmukainen, vaikka motivaatio notkahtaisi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640336"
+    },
+    {
+      "english": "I’ll celebrate effort, not just outcomes.",
+      "finnish": "Juhlin yrittämistä, en vain lopputuloksia.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640339"
+    },
+    {
+      "english": "When I’m tired, I rest, then continue.",
+      "finnish": "Kun olen väsynyt, levään, sitten jatkan.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640342"
+    },
+    {
+      "english": "I don’t chase perfection, I chase progress.",
+      "finnish": "En jahtaa täydellisyyttä, vaan etenemistä.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640345"
+    },
+    {
+      "english": "I’m allowed to want more, and still be okay.",
+      "finnish": "Minulla on lupa haluta enemmän, ja silti olla ok.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640349"
+    },
+    {
+      "english": "My inner voice matters, so I listen gently.",
+      "finnish": "Sisäinen ääni merkitsee, joten kuuntelen varovasti.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640351"
+    },
+    {
+      "english": "I’m building courage, one awkward moment at a time.",
+      "finnish": "Rakennan rohkeutta, yksi kömpelö hetki kerrallaan.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640355"
+    },
+    {
+      "english": "I’ll ask myself, what do I really need?",
+      "finnish": "Kysyn itseltäni, mitä minä oikeasti tarvitsen?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640358"
+    },
+    {
+      "english": "I’m proud of my growth, not my speed.",
+      "finnish": "Olen ylpeä kasvustani, en nopeudesta.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640360"
+    },
+    {
+      "english": "Today, I’ll be real, and keep showing up.",
+      "finnish": "Tänään olen rehellinen, ja jatkan paikalle tulemista.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640363"
+    },
+    {
+      "english": "Plan tomorrow, then focus on today.",
+      "finnish": "Suunnittele huominen, sitten keskity tähän päivään.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640366"
+    },
+    {
+      "english": "Ask first, then share your idea.",
+      "finnish": "Kysy ensin, sitten kerro ideasi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640368"
+    },
+    {
+      "english": "When stuck, take a short walk.",
+      "finnish": "Kun jumiin jää, lähde lyhyelle kävelylle.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640371"
+    },
+    {
+      "english": "Do one small task, start right now.",
+      "finnish": "Tee yksi pieni tehtävä, aloita heti.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640373"
+    },
+    {
+      "english": "If it’s confusing, ask for clarification.",
+      "finnish": "Jos jokin on epäselvää, kysy tarkennusta.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640376"
+    },
+    {
+      "english": "Keep promises, even to yourself.",
+      "finnish": "Pidä lupauksesi, myös itsellesi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T10:53:11.640379"
     }
   ],
-  "last_updated": "2026-11-09T11:03:45.341016"
+  "last_updated": "2026-11-10T10:53:11.640380"
 }
