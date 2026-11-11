@@ -7919,7 +7919,727 @@
       "finnish": "Pidä lupauksesi, myös itsellesi.",
       "category": "Purpose",
       "generated_at": "2026-11-10T10:53:11.640379"
+    },
+    {
+      "english": "It’s fine, we can wait a moment",
+      "finnish": "Ei hätää, voidaan odottaa hetki",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029763"
+    },
+    {
+      "english": "Sorry, I’m slow, please be patient",
+      "finnish": "Anteeksi, olen hidas, olethan kärsivällinen",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029776"
+    },
+    {
+      "english": "Please, don’t worry, this takes time",
+      "finnish": "Älä huoli, tämä vie aikaa",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029780"
+    },
+    {
+      "english": "No problem, I understand, keep going",
+      "finnish": "Ei ongelmaa, ymmärrän, jatka vaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029784"
+    },
+    {
+      "english": "Hold on, I’ll check right now",
+      "finnish": "Hetkinen, katson heti",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029787"
+    },
+    {
+      "english": "Wait a sec, the bus is coming",
+      "finnish": "Odota hetki, bussi tulee",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029790"
+    },
+    {
+      "english": "Calm down, we’ll figure it out",
+      "finnish": "Rauhoitu, kyllä se selviää",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029793"
+    },
+    {
+      "english": "Sorry, I’m stuck, give me a minute",
+      "finnish": "Anteeksi, olen jumissa, anna minuutti",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029799"
+    },
+    {
+      "english": "Let me try again, slowly",
+      "finnish": "Yritän uudestaan, rauhassa",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029802"
+    },
+    {
+      "english": "Okay, listen, take it step by step",
+      "finnish": "Selvä, kuuntele, mene yksi askel kerrallaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029805"
+    },
+    {
+      "english": "Thanks, I really appreciate your patience",
+      "finnish": "Kiitos, arvostan todella kärsivällisyyttäsi",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029808"
+    },
+    {
+      "english": "Give me time, I’m almost done",
+      "finnish": "Anna aikaa, olen kohta valmis",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029811"
+    },
+    {
+      "english": "It’s okay, we’ll sort it out",
+      "finnish": "Ei se mitään, hoidetaan se",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029814"
+    },
+    {
+      "english": "Please repeat, I didn’t catch it",
+      "finnish": "Voitko toistaa, en kuullut kunnolla",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029818"
+    },
+    {
+      "english": "Take a breath, everything will be fine",
+      "finnish": "Ota henkeä, kaikki menee hyvin",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029820"
+    },
+    {
+      "english": "No worries, I’ll wait for you",
+      "finnish": "Ei huolta, odotan sinua",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029823"
+    },
+    {
+      "english": "Sorry, I need a second to think",
+      "finnish": "Anteeksi, tarvitsen hetken miettiä",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029826"
+    },
+    {
+      "english": "I know, it’s annoying, but hang on",
+      "finnish": "Tiedän, ärsyttää, mutta jaksa",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029829"
+    },
+    {
+      "english": "We’ll get there, just be patient",
+      "finnish": "Me päästään perille, ole kärsivällinen",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029832"
+    },
+    {
+      "english": "One more try, then we stop",
+      "finnish": "Vielä yksi yritys, sitten lopetetaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029834"
+    },
+    {
+      "english": "I’m here, take your time",
+      "finnish": "Olen tässä, ota rauhassa",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029837"
+    },
+    {
+      "english": "Okay, slow down, I’m learning",
+      "finnish": "Selvä, hidasta, opettelen",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029840"
+    },
+    {
+      "english": "Just keep going, you’re doing fine",
+      "finnish": "Jatka vain, pärjäät hyvin",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029845"
+    },
+    {
+      "english": "Don’t panic, we still have time",
+      "finnish": "Älä panikoi, meillä on vielä aikaa",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029848"
+    },
+    {
+      "english": "I’ll handle it, just wait",
+      "finnish": "Hoiden sen, odota",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029851"
+    },
+    {
+      "english": "Okay, take turns, one at a time",
+      "finnish": "Selvä, vuorotellen, yksi kerrallaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029856"
+    },
+    {
+      "english": "Sorry, I’m late, thanks for waiting",
+      "finnish": "Anteeksi, olen myöhässä, kiitos että odotit",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029859"
+    },
+    {
+      "english": "All good, let’s start when you’re ready",
+      "finnish": "Kaikki hyvin, aloitetaan kun olet valmis",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029862"
+    },
+    {
+      "english": "Quick question, can we slow down a bit?",
+      "finnish": "Pikakysymys, voidaanko hidastaa vähän?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029865"
+    },
+    {
+      "english": "When do you think you can finish?",
+      "finnish": "Milloin arvelet, että ehdit lopettaa?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029868"
+    },
+    {
+      "english": "Could you explain it again, please?",
+      "finnish": "Voisitko selittää sen uudestaan, kiitos?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029870"
+    },
+    {
+      "english": "What’s the best way to practice this?",
+      "finnish": "Mikä on paras tapa harjoitella tätä?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029873"
+    },
+    {
+      "english": "May I ask for your advice, please?",
+      "finnish": "Saanko kysyä neuvoa, kiitos?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029876"
+    },
+    {
+      "english": "Do we have time to go over it?",
+      "finnish": "Onko meillä aikaa käydä tämä läpi?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029878"
+    },
+    {
+      "english": "How should I respond in this situation?",
+      "finnish": "Miten minun kannattaa vastata tässä tilanteessa?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029881"
+    },
+    {
+      "english": "Can you tell me what I missed?",
+      "finnish": "Voisitko kertoa, mitä missasin?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029883"
+    },
+    {
+      "english": "Would you mind answering one more question?",
+      "finnish": "Haittaako, jos kysyn vielä yhden?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029886"
+    },
+    {
+      "english": "I’m trying to get it, can you help?",
+      "finnish": "Yritän ymmärtää, voitko auttaa?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029889"
+    },
+    {
+      "english": "Should I write it down, or just listen?",
+      "finnish": "Kannattaako minun kirjoittaa, vai pelkästään kuunnella?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029892"
+    },
+    {
+      "english": "How long does it take to learn this?",
+      "finnish": "Kauanko tässä menee oppimiseen?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029894"
+    },
+    {
+      "english": "Can we talk through your steps together?",
+      "finnish": "Voidaanko käydä askeleet yhdessä läpi?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029896"
+    },
+    {
+      "english": "What should I do if I get stuck?",
+      "finnish": "Mitä teen, jos jään jumiin?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029899"
+    },
+    {
+      "english": "Could you repeat the key part, please?",
+      "finnish": "Voisitko toistaa sen tärkeän kohdan?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029902"
+    },
+    {
+      "english": "Do you have a quick example for me?",
+      "finnish": "Onko sinulla nopea esimerkki minulle?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029904"
+    },
+    {
+      "english": "What’s your rule of thumb here?",
+      "finnish": "Mikä on sinun nyrkkisääntösi tässä?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029907"
+    },
+    {
+      "english": "Can I get feedback on my answer?",
+      "finnish": "Saanko palautetta vastauksestani?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029910"
+    },
+    {
+      "english": "Are you okay if I ask later?",
+      "finnish": "Sopii, jos kysyn myöhemmin?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029912"
+    },
+    {
+      "english": "Which part is hardest for you?",
+      "finnish": "Mikä kohta on sinulle vaikein?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029915"
+    },
+    {
+      "english": "Can we slow it down for practice?",
+      "finnish": "Hidastetaanko tämä harjoittelua varten?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029917"
+    },
+    {
+      "english": "What’s the next step after this?",
+      "finnish": "Mikä on seuraava askel tästä?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029920"
+    },
+    {
+      "english": "Do you prefer email or messages?",
+      "finnish": "Suositteletko sähköpostia vai viestejä?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029922"
+    },
+    {
+      "english": "Can you check my sentence, please?",
+      "finnish": "Voitko tarkistaa lauseeni, kiitos?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029925"
+    },
+    {
+      "english": "How do you stay patient during practice?",
+      "finnish": "Miten säilytät kärsivällisyyden harjoitellessa?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029929"
+    },
+    {
+      "english": "Would it help if we go slower?",
+      "finnish": "Auttaisiko, jos etenisimme hitaammin?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029932"
+    },
+    {
+      "english": "Can we pause here, then continue?",
+      "finnish": "Pidetäänkö tässä tauko, ja jatketaan?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029936"
+    },
+    {
+      "english": "What do you recommend for daily practice?",
+      "finnish": "Mitä suosittelet päivittäiseen harjoitteluun?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029939"
+    },
+    {
+      "english": "Can you guide me through this one?",
+      "finnish": "Voitko ohjata minua tässä yhdessä?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029941"
+    },
+    {
+      "english": "How can I improve without rushing?",
+      "finnish": "Miten parannan, ilman että hätiköin?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029943"
+    },
+    {
+      "english": "You’re learning fast, patience makes it stick",
+      "finnish": "Opit nopeasti, kärsivällisyys tekee siitä pysyvää",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029946"
+    },
+    {
+      "english": "Small steps, steady heart, you’ll love this",
+      "finnish": "Pienet askeleet, rauhallinen mieli, tästä tulee kiva",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029952"
+    },
+    {
+      "english": "Say it calmly, your brain will catch up",
+      "finnish": "Sano se rauhassa, aivosi pysyvät perässä",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029954"
+    },
+    {
+      "english": "Keep your vibe light, we’ll improve together",
+      "finnish": "Pidä fiilis kevyenä, parannetaan yhdessä",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029958"
+    },
+    {
+      "english": "Good job, you’re exactly where you should be",
+      "finnish": "Hyvä juttu, olet juuri siellä missä pitää",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029961"
+    },
+    {
+      "english": "Let it take time, you’re building confidence",
+      "finnish": "Anna ajan viedä, rakennat varmuutta",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029966"
+    },
+    {
+      "english": "You’re doing great, pause, then continue",
+      "finnish": "Teet tosi hyvin, pysähdy, jatka sitten",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029969"
+    },
+    {
+      "english": "Trust the process, patience is your superpower",
+      "finnish": "Luota prosessiin, kärsivällisyys on supervoimasi",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029972"
+    },
+    {
+      "english": "Slow is smooth, and you’re getting better",
+      "finnish": "Hidas on varma, ja sinä paranet",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029975"
+    },
+    {
+      "english": "Smile, you’re not behind, you’re progressing",
+      "finnish": "Hymyile, et ole jäljessä, etenet",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029978"
+    },
+    {
+      "english": "You’ve got room to grow, keep going",
+      "finnish": "Sinulla on tilaa kasvaa, jatka vaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029981"
+    },
+    {
+      "english": "Focus on meaning, not speed, okay?",
+      "finnish": "Keskity merkitykseen, ei nopeuteen, selvä?",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029984"
+    },
+    {
+      "english": "Nice try, your effort is totally counting",
+      "finnish": "Hyvä yritys, ponnistelusi on oikeasti tärkeää",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029987"
+    },
+    {
+      "english": "Be gentle with yourself, learning is messy",
+      "finnish": "Ole armollinen itsellesi, oppiminen on sotkuista",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029989"
+    },
+    {
+      "english": "You’re building momentum, one calm minute at a time",
+      "finnish": "Rakennat vauhtia, yksi rauhallinen minuutti kerrallaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029993"
+    },
+    {
+      "english": "Pause for a second, you’ll find the word",
+      "finnish": "Pysähdy hetkeksi, löydät sen sanan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029996"
+    },
+    {
+      "english": "Right now, just aim for progress, not perfection",
+      "finnish": "Nyt tavoittelet edistystä, et täydellisyyttä",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.029999"
+    },
+    {
+      "english": "That was solid, keep the pace comfortable",
+      "finnish": "Se oli tosi hyvä, pidä tahti itsellesi sopiva",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030001"
+    },
+    {
+      "english": "You can do it, one step, then another",
+      "finnish": "Sinä pystyt, yksi askel, sitten toinen",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030004"
+    },
+    {
+      "english": "Rough days happen, don’t judge your pace",
+      "finnish": "Huonot päivät kuuluu, älä tuomitse tahtiasi",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030007"
+    },
+    {
+      "english": "Stay curious, patient practice turns into confidence",
+      "finnish": "Pysy uteliaana, kärsivällinen treeni tekee luottamusta",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030010"
+    },
+    {
+      "english": "Hey, you’re improving, that’s what matters",
+      "finnish": "Hei, sinä paranet, se on se mikä merkitsee",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030013"
+    },
+    {
+      "english": "Take your time, I like your effort",
+      "finnish": "Ota rauhassa, pidän yrityksestäsi",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030016"
+    },
+    {
+      "english": "Let’s celebrate small wins, then we continue",
+      "finnish": "Juhlistetaan pienet voitot, sitten jatketaan",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030019"
+    },
+    {
+      "english": "Your consistency beats speed, every time",
+      "finnish": "Johdonmukaisuus voittaa nopeuden, aina",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030021"
+    },
+    {
+      "english": "Don’t overthink, just try softly and learn",
+      "finnish": "Älä vatvo, kokeile kevyesti ja opi",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030024"
+    },
+    {
+      "english": "Good rhythm, keep it steady, you’re getting there",
+      "finnish": "Hyvä rytmi, pidä tasaista, olet melkein perillä",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030028"
+    },
+    {
+      "english": "Ask yourself, what’s next, not what’s wrong",
+      "finnish": "Kysy itseltäsi, mikä on seuraavaksi, ei mikä meni pieleen",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030035"
+    },
+    {
+      "english": "I’m proud of you, patient practice pays off",
+      "finnish": "Olen sinusta ylpeä, kärsivällinen harjoittelu tuottaa tulosta",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030039"
+    },
+    {
+      "english": "I feel nervous, so I breathe and continue.",
+      "finnish": "Minua jännittää, joten hengitän ja jatkan.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030041"
+    },
+    {
+      "english": "Some days feel slow, I stay honest.",
+      "finnish": "Jotkut päivät tuntuvat hitailta, pysyn rehellisenä.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030044"
+    },
+    {
+      "english": "I notice my thoughts, then I soften.",
+      "finnish": "Huomaan ajatukseni, sitten pehmennän.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030047"
+    },
+    {
+      "english": "I can’t force it, but I can wait.",
+      "finnish": "En voi pakottaa sitä, mutta voin odottaa.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030050"
+    },
+    {
+      "english": "Patience isn’t passive, it’s brave focus.",
+      "finnish": "Kärsivällisyys ei ole passiivista, se on rohkeaa keskittymistä.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030054"
+    },
+    {
+      "english": "When I slip, I try again, quietly.",
+      "finnish": "Kun mokaan, yritän uudestaan, hiljaa.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030056"
+    },
+    {
+      "english": "I’m learning to tolerate the in-between.",
+      "finnish": "Opettelen sietämään sitä väliä.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030059"
+    },
+    {
+      "english": "My heart races, but my pace stays steady.",
+      "finnish": "Sydämeni käy kierroksilla, mutta tahti pysyy tasaisena.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030062"
+    },
+    {
+      "english": "I tell myself, it takes time, really.",
+      "finnish": "Kerron itselleni, se vie aikaa, ihan oikeasti.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030065"
+    },
+    {
+      "english": "I choose patience, even when I’m tired.",
+      "finnish": "Valitsen kärsivällisyyden, vaikka olen väsynyt.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030068"
+    },
+    {
+      "english": "I let the sentence settle in my head.",
+      "finnish": "Annan lauseen asettua päähäni.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030070"
+    },
+    {
+      "english": "Honestly, I want results, but I wait.",
+      "finnish": "Rehellisesti, haluan tuloksia, mutta odotan.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030073"
+    },
+    {
+      "english": "I don’t rush feelings, I just listen.",
+      "finnish": "En hötki tunteita, kuuntelen vain.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030076"
+    },
+    {
+      "english": "I feel stuck sometimes, and that’s okay.",
+      "finnish": "Olen joskus jumissa, ja se on ihan ok.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030079"
+    },
+    {
+      "english": "Patience helps me respond, not react.",
+      "finnish": "Kärsivällisyys auttaa minua vastaamaan, ei reagoimaan.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030084"
+    },
+    {
+      "english": "I watch my frustration, then I reframe.",
+      "finnish": "Katson turhautumistani, sitten muutan näkökulmaa.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030087"
+    },
+    {
+      "english": "I’m proud of calm, not just speed.",
+      "finnish": "Olen ylpeä rauhasta, en vain nopeudesta.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030090"
+    },
+    {
+      "english": "Small pauses give my brain time.",
+      "finnish": "Pienet tauot antavat aivoille aikaa.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030092"
+    },
+    {
+      "english": "I keep my expectations realistic, and kinder.",
+      "finnish": "Pidän odotukseni realistisina, ja lempeämpinä.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030095"
+    },
+    {
+      "english": "It’s okay to be slower, I choose steadiness.",
+      "finnish": "On ok olla hitaampi, valitsen rauhallisen tahdin.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030098"
+    },
+    {
+      "english": "I let mistakes teach me, not punish me.",
+      "finnish": "Ann an virheiden opettaa minua, ei rangaista.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030101"
+    },
+    {
+      "english": "Today I focus on effort, not outcome.",
+      "finnish": "Tänään keskityn tekemiseen, en lopputulokseen.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030103"
+    },
+    {
+      "english": "I slow down inside, even if I talk fast.",
+      "finnish": "Hidastan sisällä, vaikka puhuisin nopeasti.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030108"
+    },
+    {
+      "english": "When doubt appears, I return to practice.",
+      "finnish": "Kun epäily iskee, palaan harjoitukseen.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030111"
+    },
+    {
+      "english": "I’m honest: I want it now, not later.",
+      "finnish": "Olen rehellinen: haluan sen nyt, en myöhemmin.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030114"
+    },
+    {
+      "english": "Patience makes room for understanding to grow.",
+      "finnish": "Kärsivällisyys antaa tilaa ymmärryksen kasvulle.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030116"
+    },
+    {
+      "english": "I celebrate progress, even when it’s tiny.",
+      "finnish": "Juhlin edistystä, vaikka se olisi pieni.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030120"
+    },
+    {
+      "english": "I don’t measure worth by one imperfect try.",
+      "finnish": "Arvo ei riipu yhdestä epäonnistuneesta yrityksestä.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030123"
+    },
+    {
+      "english": "I keep going, because my future needs this.",
+      "finnish": "Jatkan, koska tulevaisuuteni tarvitsee tätä.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030126"
+    },
+    {
+      "english": "Let your feelings pass, then choose your next action.",
+      "finnish": "Anna tunteiden mennä ohi, sitten valitse seuraava teko.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030128"
+    },
+    {
+      "english": "Slow down, before you text back fast.",
+      "finnish": "Hidasta, ennen kuin lähetät tekstin heti.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030133"
+    },
+    {
+      "english": "If it’s confusing, ask one clear question.",
+      "finnish": "Jos se on sekavaa, kysy yksi selkeä kysymys.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030137"
+    },
+    {
+      "english": "In line, breathe, it’ll move soon.",
+      "finnish": "Jonossa hengitä, se etenee pian.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T10:30:02.030140"
     }
   ],
-  "last_updated": "2026-11-10T10:53:11.640380"
+  "last_updated": "2026-11-11T10:30:02.030142"
 }
