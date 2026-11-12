@@ -3,7 +3,51 @@
     {
       "category": "Hope",
       "date": "2020-01-01"
+    },
+    {
+      "category": "Creativity",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Success",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Purpose",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Patience",
+      "date": "2020-01-12"
     }
   ],
-  "last_updated": "2026-11-12T11:15:15.310444"
+  "last_updated": "2026-11-12T11:23:02.699018"
 }
