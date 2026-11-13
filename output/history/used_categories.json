@@ -47,7 +47,39 @@
     {
       "category": "Patience",
       "date": "2020-01-12"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T11:23:02.699018"
+  "last_updated": "2026-11-13T12:25:39.286615"
 }
