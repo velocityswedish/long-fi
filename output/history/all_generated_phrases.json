@@ -9423,7 +9423,399 @@
       "transliteration": "OdoTAN LAIturilla KAKSI.",
       "category": "Public Transportation",
       "generated_at": "2026-11-14T11:39:12.195086"
+    },
+    {
+      "english": "No worries, we’ll figure it out",
+      "finnish": "Ei hätää, kyllähän se järjestyy.",
+      "transliteration": "Ei HÄTÄÄ, ky lla se JÄRJESTYY.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "What’s up, you alive?",
+      "finnish": "Mitä kuuluu, ootko sä hengissä?",
+      "transliteration": "MITÄ KUULUU, ootko SÄ HENGISSÄ?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I’m starving, like really hungry",
+      "finnish": "Mulla on nälkä, ihan oikeasti.",
+      "transliteration": "MULLA ON NÄLKÄ, ihaN OIKEASTI.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "That’s not my vibe, sorry",
+      "finnish": "Ei kyllä nappaa, sori vaan.",
+      "transliteration": "Ei KYLLÄ NAP PAA, sori VAAN.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Let’s roll, I’m ready",
+      "finnish": "Lähdetään, mä oon valmis.",
+      "transliteration": "LAHDETAA N, mä oon VALMIS.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Give me a sec, just a moment",
+      "finnish": "Oota hetki, mä katon tuon.",
+      "transliteration": "OOTA HETKI, mä KATON TUON.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "You’re kidding me, right?",
+      "finnish": "Sä tajuutko, sä et voi olla tosissasi.",
+      "transliteration": "SÄ TAJUUKO, sä et VOI OLLA TOSISSASI.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I breathe, and I calm down.",
+      "finnish": "Hengitän, ja rauhoitun.",
+      "transliteration": "HENGitän, ja rauHOITun.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "My mind gets quieter, little by little.",
+      "finnish": "Mieleni hiljenee hiljalleen.",
+      "transliteration": "MIEleNI hiljenee hiljalleen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I let go of what I can’t control.",
+      "finnish": "Päästän irti siitä, mitä en voi hallita.",
+      "transliteration": "PÄÄstän IRTI siitÄ, MITä en voi HALLita.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "This moment is enough for me.",
+      "finnish": "Tämä hetki riittää minulle.",
+      "transliteration": "TÄmä HETki RIIttÄÄ miNULle.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I choose peace over the noise.",
+      "finnish": "Valitsen rauhan kohinan sijaan.",
+      "transliteration": "VAlinNSEN rauHAN KOHI nan SIJAAN.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I speak gently, even inside.",
+      "finnish": "Puhun lempeästi, myös sisälläni.",
+      "transliteration": "PUHUn lemPEÄsti, MUI kAAN SISälläni.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I take a slow sip of water.",
+      "finnish": "Otan rauhassa pitkän kulauksen vettä.",
+      "transliteration": "OTan rauHASSA PITkän kU LAuk sen VETtä.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I need a minute to steady up.",
+      "finnish": "Tarvitsen hetken, että tasapainoni löytyy.",
+      "transliteration": "Tar-vits-en HET-ken, että TA-sa-pai-nO-ni LÖY-tyy.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Keep your core tight while you walk.",
+      "finnish": "Pidä keskivartalo tiukkana, kun kävelet.",
+      "transliteration": "PIL-dä KES-ki-var-ta-lo TII-kaa-na, kun KÄ VE-let.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Can we practice balancing on one foot?",
+      "finnish": "Harjoitellaanko tasapainoa yhdellä jalalla?",
+      "transliteration": "HAR-joitel-laan-ko TA-sa-pai-noa YH-del-lä jaL-la-la?",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Slow down, you’re moving too fast.",
+      "finnish": "Hidasta, liikut nyt liian nopeasti.",
+      "transliteration": "HI-da-sta, LIi-kut nyt Lii-än NO-pe-asti.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Mind the curb, it’s slippery today.",
+      "finnish": "Varo reunakiveystä, se on tänään liukas.",
+      "transliteration": "VA-ro REU-na-kiveys-tä, se on TÄ-nä-än Lii-ukas.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I sit first, then I stand slowly.",
+      "finnish": "Istun ensin, sitten nousen hitaasti.",
+      "transliteration": "IS-tun en-sin, sit-ten NO-u-sen HI-taas-ti.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "My knee feels wobbly, be careful.",
+      "finnish": "Polvi tuntuu heiluvalta, ole varovainen.",
+      "transliteration": "POL-vi tun-tuu HEI-lu-val-ta, o-le va-ro-vai-nen.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Yeah, I get what you mean.",
+      "finnish": "Joo, mä ymmärrän mitä sä tarkoitat.",
+      "transliteration": "JO-o, mä YMMÄRRÄn mitä sä TARKOITAt",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "That’s true, I agree.",
+      "finnish": "Se on totta, mä olen samaa mieltä.",
+      "transliteration": "SE on TOTTA, mä OLEN SAmaa MIELTÄ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I’m with you on that.",
+      "finnish": "Oon sun kanssa samaa mieltä.",
+      "transliteration": "OOn SUN KANSSA SAmaa MIELTÄ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Totally, that sounds right to me.",
+      "finnish": "Täysin, se kuulostaa ihan oikealta.",
+      "transliteration": "TÄYSin, se KUULOSTAA IHAN OIkealta",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Agreed, let’s do it your way.",
+      "finnish": "Sama mieltä, tehdään niin kuin sä sanot.",
+      "transliteration": "SAma MIELTÄ, TEHDÄÄN niin KUN sä SANOT",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I think you’re right about that.",
+      "finnish": "Mä luulen, että sä oot oikeassa.",
+      "transliteration": "mä LUULEN, että sä oot OIKEASSA",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "No, I see it differently.",
+      "finnish": "Ei, mä nään sen eri tavalla.",
+      "transliteration": "EI, mä NÄÄn sen Eri TAVALLA",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Hi, nice to meet you!",
+      "finnish": "Moi, kiva tavata sinut!",
+      "transliteration": "Moi, KI-va TA-va-ta SI-nut!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Hey, how’s it going today?",
+      "finnish": "Hei, miten tänään menee?",
+      "transliteration": "HEI, MI-ten TÄ-nään ME-nee?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Thanks for meeting me today.",
+      "finnish": "Kiitos, että tapaat minut tänään.",
+      "transliteration": "KII-tos, että TA-pa-t MIN-ut TÄ-nään.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Excuse me, are you new here?",
+      "finnish": "Anteeksi, oletko uusi täällä?",
+      "transliteration": "AN-teek-si, O-let-ko UU-si TÄäl-lä?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "What should I call you?",
+      "finnish": "Miten sinun nimesi sanotaan?",
+      "transliteration": "MI-ten SI-nun NI-me-si sa-notaan?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I’m from Denmark, by the way.",
+      "finnish": "Olen Tanskasta, muuten.",
+      "transliteration": "O-len TAN-skas-ta, MUu-ten.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Do you have a moment?",
+      "finnish": "Onko sinulla hetki aikaa?",
+      "transliteration": "O-ko SI-nul-la HET-ki ai-kaa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Hi, it’s me, quick question.",
+      "finnish": "Moi, olen minä, yksi nopea kysymys.",
+      "transliteration": "MOI, olen MINÄ, yksi NOPEA KYSYMYS.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Can you call me back today?",
+      "finnish": "Soitatko takaisin tänään, kiitos?",
+      "transliteration": "SOITATKO TAAS KIN tänään, KII TOS?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I missed your call, sorry.",
+      "finnish": "Pahoittelut, jäin paitsi puhelustasi.",
+      "transliteration": "PAHOITTE LIT, jäin PAI TS SI puhelus TA SI.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Please text me the details.",
+      "finnish": "Laita viesti, niin saat lisätiedot perille.",
+      "transliteration": "LAI TA VIE STI, niin SAAT LISÄ TIE DOT PERILLE.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Where are you, I’m outside.",
+      "finnish": "Missä olet, olen ulkona.",
+      "transliteration": "MIS SÄ OLET, olen ULOK NA.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I’m stuck in traffic, sorry!",
+      "finnish": "Olen jumissa ruuhkassa, pahoittelen.",
+      "transliteration": "Olen JUM MI ssa RUU HKA ssa, PAHOITTE LEN.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Could we reschedule for tomorrow?",
+      "finnish": "Voidaanko siirtää tapaaminen huomiseen?",
+      "transliteration": "VOI DAAN KO SIIR TÄÄ TAPA A MI NEN HUOMI SEEN?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I wake up, then stretch a bit.",
+      "finnish": "Herään, ja venyttelen vähän.",
+      "transliteration": "HerÄÄn, ja VEnyttelen VÍhÄn.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "First coffee, then I check email.",
+      "finnish": "Ensin kahvi, sitten katson sähköpostin.",
+      "transliteration": "ENsin KAHvi, SITten katson sÄhköpostin.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I brush my teeth before work.",
+      "finnish": "Pesen hampaat ennen töitä.",
+      "transliteration": "Pesen HAMPaat ENnen TÖitÄ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I take the bus downtown today.",
+      "finnish": "Otan tänään bussin keskustaan.",
+      "transliteration": "OTan tÄnÄÄn bussin KESkustaan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "On the way, I listen to podcasts.",
+      "finnish": "Menomatkalla kuuntelen podcasteja.",
+      "transliteration": "MEnoMATkalla KUUNtelen POKdasTeja.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "At lunch, I eat something light.",
+      "finnish": "Lounaalla syön jotain kevyttä.",
+      "transliteration": "LOunaaLLA SYÖn JOTain KEVYTTÄ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "After work, I pick up groceries.",
+      "finnish": "Töiden jälkeen haen ruokakaupassa tarvikkeet.",
+      "transliteration": "TÖiDEN JÄlkeen HAA n RUKkaupasSA TARvikkeet.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I missed you, so much.",
+      "finnish": "Minä kaipasin sinua, niin paljon.",
+      "transliteration": "MINA kaipasin SINUA, NIIN PALJON.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Let’s go slow together.",
+      "finnish": "Käydään tämä yhdessä rauhassa.",
+      "transliteration": "KÄYDÄÄN tämä YHDESSÄ rauhassa.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "Your laugh lights up my day.",
+      "finnish": "Sinun naurusi valaisee päiväni.",
+      "transliteration": "SINUN NAURUSI VAlaisee PÄIVÄNI.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I choose you, again and again.",
+      "finnish": "Minä valitsen sinut, yhä uudestaan.",
+      "transliteration": "MINA VALITSEN SINUT, YHÄ UUDestaan.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I’m here, no matter what.",
+      "finnish": "Olen tässä, vaikka mikä olisi.",
+      "transliteration": "OLen TÄSSÄ, vaikka MIKÄ olisi.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "We can talk about anything.",
+      "finnish": "Me voidaan puhua mistä vain.",
+      "transliteration": "ME voidaan PUHUA MISTÄ VAIN.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
+    },
+    {
+      "english": "I want to build this with you.",
+      "finnish": "Haluan rakentaa tätä kanssasi.",
+      "transliteration": "HALUAN RAKENTAA tätä KANsasi.",
+      "category": "Love",
+      "generated_at": "2026-11-15T12:05:28.171192"
     }
   ],
-  "last_updated": "2026-11-14T11:39:12.195086"
+  "last_updated": "2026-11-15T12:05:28.171192"
 }
