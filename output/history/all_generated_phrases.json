@@ -10599,7 +10599,399 @@
       "transliteration": "KÄÄNNÄ EPÄILY POLTTOAINEEKSI, ÄLÄ JARRUKSI",
       "category": "Creativity",
       "generated_at": "2026-11-17T13:41:12.984611"
+    },
+    {
+      "english": "I love switching off and reading.",
+      "finnish": "Rakastan, kun saan sulkea maailman ja lukea.",
+      "transliteration": "Rakastan, kun saan sulkea maailma ja lukea.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Weekend walks reset my whole mood.",
+      "finnish": "Lauantain kävelyt nollaavat fiiliksen kokonaan.",
+      "transliteration": "Lauantain kävelyt nollaavat fiiliksen kokonaan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I bake something simple, just because.",
+      "finnish": "Leivon jotain pientä vain siksi, että se on ihanaa.",
+      "transliteration": "Leivon jotain pientä vain SIKSI, että se on ihanaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I journal to untangle my feelings.",
+      "finnish": "Kirjoitan päiväkirjaa, jotta ajatukset järjestyvät.",
+      "transliteration": "Kirjoitan PÄIVÄKIRJAA, jotta ajatukset järjestyvät.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I practice guitar for pure joy.",
+      "finnish": "Soitan kitaraa puhtaasta ilosta, ilman suorittamista.",
+      "transliteration": "SOITAN kitaraa puhtaasta ILÓSTA, ilman suorittamista.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Throwing on a podcast, I relax.",
+      "finnish": "Kun laitan podcastin taustalle, saan rauhan.",
+      "transliteration": "Kun LAITAN podcastin taustalle, saan rauhan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I water plants, and time slows down.",
+      "finnish": "Kastelen kasvit, ja aika hidastuu.",
+      "transliteration": "KASTELEN kasvit, ja aiKA HIDASTUU.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I celebrate small wins, right now.",
+      "finnish": "Juhlin pieniä voittoja juuri nyt.",
+      "transliteration": "JUHLIn pIEniä VOittoja JUuri NYt",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Today I choose steady, not flashy.",
+      "finnish": "Valitsen tänään tasaisen, en näyttävän.",
+      "transliteration": "VALitsen TÄnään TAsaIsta, en NAÄyttävää",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "My focus is one next useful step.",
+      "finnish": "Keskityn yhteen seuraavaan hyödylliseen askeleeseen.",
+      "transliteration": "KESKIYdyn yhteen SEUraavaan HYÖdylliseen ASKeLeeseen",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I ship it imperfectly, then improve.",
+      "finnish": "Teen sen valmiiksi edes vähän keskeneräisenä, sitten hion.",
+      "transliteration": "TEen sen VALmiiksi Edes väHÄn KESkenEräisenä, SITten hion",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I stop waiting for motivation.",
+      "finnish": "Lopetan odottamisen, että motivaatio ilmestyy.",
+      "transliteration": "LOpetan ODottaamisen, että motiVAAstio ILmesTyY",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I ask for help before I stall.",
+      "finnish": "Kysyn apua ennen kuin jähmettää.",
+      "transliteration": "KYsyN APUA ENnen kuin JÄHmetyY",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I turn feedback into a plan.",
+      "finnish": "Muunnen palautteen toimivaksi suunnitelmaksi.",
+      "transliteration": "MUunNAN palAUtteen toIMivakSI SUUNniTELmaksi",
+      "category": "Success",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Call emergency now, I need help",
+      "finnish": "Soita hätäpuhelu nyt, tarvitsen apua",
+      "transliteration": "SOITA hätäPUHELU NYT, tarvitsen APUA",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Are you having trouble breathing?",
+      "finnish": "Onko sinulla hengitysvaikeuksia?",
+      "transliteration": "Onko siNULla HENgitysVAiKEUKsia?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Tell me your name and age",
+      "finnish": "Kerro nimesi ja ikäsi",
+      "transliteration": "KERRo NIMesi ja IKÄsi",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I think this might be an allergy",
+      "finnish": "Luulen, että tämä voi olla allergiaa",
+      "transliteration": "LUulen, että TÄMÄ voi olla ALlerGIAa",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Swelling is getting worse, please respond",
+      "finnish": "Turvotus pahenee, vastaa minulle",
+      "transliteration": "TURvotus PAHenee, VASTaa miNUlle",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I’m dizzy, sit me down gently",
+      "finnish": "Minulla on huimaus, istuta minut rauhassa",
+      "transliteration": "MINulla on HUiMAS, ISTuTA minut rauhAASsa",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Does anything feel numb or weak?",
+      "finnish": "Tuntuuko jokin puutuneelta tai heikolta?",
+      "transliteration": "TUNtuuko jokin puuTUneELta tai HEiKOLta?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "What do you recommend today?",
+      "finnish": "Mitä suosittelet tänään, ihan oikeasti?",
+      "transliteration": "Mitä SUOSITTELET tänään, IHAN oikeasti?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Can I see the vegetarian options?",
+      "finnish": "Saanko katsella kasvisvaihtoehdot, kiitos?",
+      "transliteration": "SAanko KATSELLa kasvisvaihtoehdot, KIITOS?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Is it spicy, or mild?",
+      "finnish": "Onko se tulista, vai ihan miedompaa?",
+      "transliteration": "ONko se TULISTA, vai IHAN miedompaa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I have a peanut allergy.",
+      "finnish": "Minulla on maapähkinäallergia.",
+      "transliteration": "MINulla on maaPÄHKINäALLergia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Do you offer gluten-free bread?",
+      "finnish": "Onko teillä gluteenitonta leipää?",
+      "transliteration": "ONko teillä gluteenitonTA LEipää?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I’ll take the salmon, please.",
+      "finnish": "Otan lohen, kiitos.",
+      "transliteration": "Otan loHEn, KIITOS.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Can I add extra sauce?",
+      "finnish": "Saanko lisäkastiketta, kiitos?",
+      "transliteration": "SAanko LISÄkastiketta, KIITOS?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Where do I check in, please?",
+      "finnish": "Mihin minun pitää kirjautua sisään?",
+      "transliteration": "MihIN MINUn PITÄÄ kirjautuA SISÄÄn?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Is breakfast included in my rate?",
+      "finnish": "Sisältyykö aamiainen huonehintaan?",
+      "transliteration": "SisälTYYKÖ aaMIainen HUOnehTINtaan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "What time is checkout, exactly?",
+      "finnish": "Mihin aikaan huone pitää luovuttaa?",
+      "transliteration": "MihIN aiKAA huONE PITÄÄ luoVUTtaa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Can I get extra pillows, please?",
+      "finnish": "Saanko lisätyynyjä, kiitos?",
+      "transliteration": "SAanko LIsäTYYNYjä, KiiTOS?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Is there an elevator for luggage?",
+      "finnish": "Onko hissiä tavaroille ja matkatavaroille?",
+      "transliteration": "ONko hissIä TAvaROILLE ja matkaTAVAroille?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "The air smells smoky, can you help?",
+      "finnish": "Huoneessa haisee savulta, auttaisitko?",
+      "transliteration": "HUonEessa HAIsee SAVULta, auTTaiSITko?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Do you have a wake-up call?",
+      "finnish": "Tilaanko herätyspuhelun?",
+      "transliteration": "TIlaanko heräTYsPUheLUN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "How windy is it near you?",
+      "finnish": "Onko teillä tänään tosi tuulista?",
+      "transliteration": "Onko teillÄ tänÄÄn tosi TUulista?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "The air feels crisp today.",
+      "finnish": "Tänään ilma tuntuu raikkaalta.",
+      "transliteration": "TÄnÄÄn ilma tuntuu RAIkkaalta.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Is it going to clear up?",
+      "finnish": "Ajatteletko, että sää selkenee myöhemmin?",
+      "transliteration": "AAjatteleko, ettÄ sÄÄ selkenee myöhemmin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I love this soft, steady weather.",
+      "finnish": "Tämä on ihanan tasainen sää.",
+      "transliteration": "TÄmÄ on IhaNan TASainen sÄÄ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "It smells like rain in the air.",
+      "finnish": "Haisee siltä, että kohta sataa.",
+      "transliteration": "HAiseE siltä, ettÄ kohta sataa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Have you noticed the sudden drop?",
+      "finnish": "Oletko huomannut lämpötilan laskun?",
+      "transliteration": "Oletko huOMANNUT LÄmpötilan LAksun?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "The clouds are hanging low.",
+      "finnish": "Pilvet roikkuvat tosi matalalla.",
+      "transliteration": "PILvet roikkuvat TOsi MATAalla.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Feel your feet, right where they are.",
+      "finnish": "Tunne jalkasi, siinä missä ne ovat.",
+      "transliteration": "TunNE jalKasI, SII-nä misSä NE ovat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Name three sounds you can hear.",
+      "finnish": "Nimeä kolme ääntä, jotka kuulet.",
+      "transliteration": "NIMeä KOLMe ääntä, joTKA kuuLET.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Soften your jaw, even slightly.",
+      "finnish": "Rentouta leukasi, vaikka vain vähän.",
+      "transliteration": "RENtOUta LEuKasI, VAIKka vain VÄhän.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Unclench your hands, then breathe.",
+      "finnish": "Avaa kädet, ja hengitä.",
+      "transliteration": "Aavaa KÄDET, ja HENgitä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Let your gaze rest without searching.",
+      "finnish": "Anna katseen levätä, ilman etsimistä.",
+      "transliteration": "ANna KATseen leVÄtÄ, ilMAN etSItÄmistä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Where is warmth or coolness right now?",
+      "finnish": "Missä on lämpöä tai viileyttä juuri nyt?",
+      "transliteration": "MISsä on LÄMPöä tai VII-leyttä JUsTI nyt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Notice your posture, then adjust gently.",
+      "finnish": "Huomaa asentosi, sitten säädä hellästi.",
+      "transliteration": "HUoMaa ASenTOSi, sitTEN sääDÄ HELläsTI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I forgive you, and I mean safety.",
+      "finnish": "Anteeksi, ja haluan turvallisuutta.",
+      "transliteration": "ANTEEKSI, ja haluan TURVALLISUUTTA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I can forgive, but I need space.",
+      "finnish": "Voin antaa anteeksi, mutta tarvitsen tilaa.",
+      "transliteration": "VOIN antaa ANTEEKSI, mutta TARVITSEN TIlaa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Let’s talk calmly, not re-litigate.",
+      "finnish": "Puhutaan rauhassa, ei avata samaa uudestaan.",
+      "transliteration": "PUHUTAAN rauhassa, ei AVATA samaa UUDestaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "Thank you for owning it, seriously.",
+      "finnish": "Kiitos, että kannat vastuusi, ihan oikeasti.",
+      "transliteration": "KIItos, että KANNAT vastuusi, IHAN oikeasti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I forgive, and we go forward gently.",
+      "finnish": "Annan anteeksi, ja jatketaan eteenpäin lempeästi.",
+      "transliteration": "ANnan ANTEEKSI, ja jatketaan ETEENpäin lempeästi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I’m choosing peace over being right.",
+      "finnish": "Valitsen rauhan sen sijaan, että olisin oikeassa.",
+      "transliteration": "VALITSEN rauhan sen SIJaan, että OLisin OIKEAssa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "You hurt me, and I’m still kind.",
+      "finnish": "Sait minut satutetuksi, ja silti olen ystävällinen.",
+      "transliteration": "SAIT minut SAtutetuksi, ja SILTI olen YSTÄvällinen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T13:15:13.179874"
     }
   ],
-  "last_updated": "2026-11-17T13:41:12.984611"
+  "last_updated": "2026-11-18T13:15:13.179874"
 }
