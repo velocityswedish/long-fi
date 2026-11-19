@@ -10991,7 +10991,399 @@
       "transliteration": "SAIT minut SAtutetuksi, ja SILTI olen YSTÄvällinen.",
       "category": "Forgiveness",
       "generated_at": "2026-11-18T13:15:13.179874"
+    },
+    {
+      "english": "I choose what matters today.",
+      "finnish": "Valitsen sen, mikä merkitsee tänään.",
+      "transliteration": "VALITSEN sen MIKÄ MERKITSEE TÄNÄÄN",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "My purpose is quieter than fear.",
+      "finnish": "Tarkoitukseni on hiljaisempi kuin pelko.",
+      "transliteration": "tarkOI tukse ni on HILJAI sempi kuin PE LKO",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I act on one clear value.",
+      "finnish": "Toimin yhden selkeän arvon mukaan.",
+      "transliteration": "TOIMIN yhden SELKEÄN ARVOn MUKAAN",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I build meaning through small kindness.",
+      "finnish": "Rakennan merkitystä pienillä ystävällisillä teoilla.",
+      "transliteration": "RA ken nan MER KI tys tä PIe nil lä YSTÄ VÄL LI sil LÄ TE OIL la",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I forgive delays, keep the direction.",
+      "finnish": "Annan viiveiden anteeksi, pidän suunnan.",
+      "transliteration": "AN nan VII vei den AN teek si, PIDÄN SUUNNAN",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I do it for me, not approval.",
+      "finnish": "Teen sen itseni vuoksi, en hyväksynnän takia.",
+      "transliteration": "TEEN sen I TSE ni VUOK SI, en HY VÄKSYN NÄN TAKA",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Today I pick courage over comfort.",
+      "finnish": "Tänään valitsen rohkeuden mukavuuden sijaan.",
+      "transliteration": "TÄNÄÄN VALITSEN ROH KEU den MU KA vu u den SIJAA N",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I can wait without judging myself.",
+      "finnish": "Voin odottaa, enkä tuomitse itseäni.",
+      "transliteration": "Voin ODOTTAA, EN KÄ TUOMITSE itseäni.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I pause, then I choose carefully.",
+      "finnish": "Pysähdyn, ja valitsen huolellisesti.",
+      "transliteration": "PYSÄHDYN, ja VALITSEN HUUOLELLISESTI.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Slow is still progress for me.",
+      "finnish": "Hitauskin on minulle edistystä.",
+      "transliteration": "HITauskin ON MINULLE EDISTYSTÄ.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I take one step, not ten.",
+      "finnish": "Otan yhden askeleen, en kymmentä.",
+      "transliteration": "OTAN yhden ASKELEEN, en KYMMENTÄ.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Even silence teaches me to calm.",
+      "finnish": "Jopa hiljaisuus opettaa minua rauhoittumaan.",
+      "transliteration": "JOPA HILJAISUUS opettaa MI NUA RAUHOITTUMAAN.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I let time do its part.",
+      "finnish": "Annan ajan hoitaa osansa.",
+      "transliteration": "ANNAN AJAN HOITAA OSANSA.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I don’t need an instant answer.",
+      "finnish": "En tarvitse heti vastausta.",
+      "transliteration": "EN TARVITSE HEti VASTAUSTA.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "A silly joke lifts my mood",
+      "finnish": "Raukea vitsi nostaa mielialaa",
+      "transliteration": "RauKEA vitsi NOSSTAA MIEliALAA",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Sunlight on my face feels good",
+      "finnish": "Aurinko kasvoilla tuntuu hyvältä",
+      "transliteration": "AURinKO KASVOilLA TUNtuu HYVÄltä",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I feel light when I tidy up",
+      "finnish": "Tunnen keveyttä, kun siivoan",
+      "transliteration": "Tunnen KEVyYTTÄ, KUN SIIVOAN",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Fresh sheets make me feel cared for",
+      "finnish": "Puhtaat lakanat saavat olon tuntumaan rakastetulta",
+      "transliteration": "PuhTAAT LAKAnaT SAaVAT OLOn TUNtumaan raKAStetULta",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I share snacks and it warms me",
+      "finnish": "Kun jaan jotain pientä, se lämmittää",
+      "transliteration": "Kun JAA n joTAkin PIEntä, se LÄmmittää",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Kind words from a friend stick",
+      "finnish": "Ystävän ystävälliset sanat jäävät mieleen",
+      "transliteration": "YStäVÄn YSÄVÄlliset saNAT JÄÄvät MIEleen",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Music in the kitchen puts me at ease",
+      "finnish": "Keittiössä soi musiikki, ja olo rauhoittuu",
+      "transliteration": "KEitTIÖssä SOI MUUsiikki, ja OLO rauHOITtuU",
+      "category": "Happiness",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’ll go anyway, even shaky.",
+      "finnish": "Menen silti, vaikka jalat vapisee.",
+      "transliteration": "Menen SItli, VAIkka jalat VApisEe.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I can handle this awkward moment.",
+      "finnish": "Selviän tästä hankalasta hetkestä.",
+      "transliteration": "SelviÄn TUstA hankalasta hetKEStÄ.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’ll ask the question I need.",
+      "finnish": "Kysyn juuri sen, mitä tarvitsen.",
+      "transliteration": "KysYn JUsu sen, miTä TARvitsen.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’ll admit it when I don’t know.",
+      "finnish": "Sanon sen ääneen, etten tiedä.",
+      "transliteration": "SaNOn sen ÄÄnEen, en tIEdä.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’ll make the call, then breathe.",
+      "finnish": "Soitan nyt, sitten hengitän.",
+      "transliteration": "SOitan NYt, sitten HENGitÄn.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I won’t run from hard news.",
+      "finnish": "En pakene vaikeaa uutista.",
+      "transliteration": "En pakEne VAIkeaa UUtis ta.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I can set a boundary, kindly.",
+      "finnish": "Laitan rajat, mutta pysyn ystävällisenä.",
+      "transliteration": "LAitan RAjat, mutta PYSyn YStÄvÄllisenÄ.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "How do I set up online banking?",
+      "finnish": "Miten voin ottaa verkkopankin käyttöön?",
+      "transliteration": "Miten voin OTTaa verkkopankin KÄYTÖÖN?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I need my IBAN for wiring.",
+      "finnish": "Tarvitsen tilini IBANin rahansiirtoa varten.",
+      "transliteration": "Tarvitsen TILini IBANin RAHansiirtoa VARTEN.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Can I pay contactless with this card?",
+      "finnish": "Pystynkö maksamaan lähimaksulla tällä kortilla?",
+      "transliteration": "PYSTynkö MAKsaamaan LÄHimaksulla TÄLLÄ kortilla?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Why was my card declined just now?",
+      "finnish": "Miksi korttini hylättiin äsken?",
+      "transliteration": "MIksi KORTtini HYLättiin ÄSken?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Can you check if the charge went through?",
+      "finnish": "Voisitteko tarkistaa, menikö veloitus läpi?",
+      "transliteration": "VOisitteko TARKistaa, MEnikö VELoi tus läpi?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I want a temporary card limit change.",
+      "finnish": "Haluaisin muuttaa tilapäisesti kortin limiittiä.",
+      "transliteration": "Haluaisin MUUTtaa TIlaapäisesti KORTin LIMIittiä.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Is there a fee for receiving money?",
+      "finnish": "Peritäänkö maksu, kun saan rahaa tililleni?",
+      "transliteration": "PeriTäÄNkö MAksu, KUN SAAN rahaa TILilleni?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "How far is the railway station?",
+      "finnish": "Kuinka kaukana rautatieasema on?",
+      "transliteration": "KUINKA kaukana RAUTA-tiE-asema on?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Which way to the airport?",
+      "finnish": "Mihin suuntaan lentokenttästä pääsee?",
+      "transliteration": "MIHIN SUUNTAAN lentokenttästä PÄÄSEE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Is there a shortcut through here?",
+      "finnish": "Onko tässä oikotietä läpi?",
+      "transliteration": "ONKO tässä oikOTIETÄ LÄPI?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Do I turn left here?",
+      "finnish": "Pitääkö tästä kääntyä vasemmalle?",
+      "transliteration": "PIITÄÄKÖ tästä KAÄNTYÄ VA-semMAlle?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Where is the nearest metro entrance?",
+      "finnish": "Missä on lähin metroasema sisäänkäynti?",
+      "transliteration": "MISsÄ on LÄHIN meTRO-aSEma SISÄÄNKÄYNTI?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "How do I get to the park?",
+      "finnish": "Miten pääsen puistoon?",
+      "transliteration": "MITEN PÄÄSEN puistoon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Can you tell me the bus number?",
+      "finnish": "Voitko kertoa minulle bussin numeron?",
+      "transliteration": "VOITko KERTOA MI-nulle BUSsin NUMERO-n?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Morning coffee sparks my best thoughts",
+      "finnish": "Aamukahvi sytyttää parhaat ajatukseni",
+      "transliteration": "AAMUKAHLVI SYTYTTÄÄ PARHAAT AJATUKSENI",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I write the mess, then refine",
+      "finnish": "Kirjoitan sotkun ylös, sitten hion",
+      "transliteration": "KIRJOITAN SOTKUN YLÖS, SITTEN HIOn",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "A warm shower clears my mind",
+      "finnish": "Lämmin suihku tyhjentää pääni",
+      "transliteration": "LÄMMIN SUHSKU TYHJENTÄÄ PÄÄNI",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I ask one question, then act",
+      "finnish": "Kysyn yhden kysymyksen, ja alan",
+      "transliteration": "KYSYN YHDEN KYSymyksen, JA ALAN",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Small practice beats waiting for motivation",
+      "finnish": "Pikkuharjoitus voittaa sen odottamisen, että motivaatio tulee",
+      "transliteration": "PIKKUHARJOITUS VOITTAA SEN ODOTTAMISEN, ETTÄ MOTIVAATIO TULEE",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I read one page, without pressure",
+      "finnish": "Luenn yhtä sivua, ilman painetta",
+      "transliteration": "LUEN YHTÄ SIVUA, ILMAN PAINETTA",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "A new playlist gives me permission",
+      "finnish": "Uusi soittolista antaa luvan vain olla ja tehdä",
+      "transliteration": "UUSI SOITTOLISTA ANTAA LUVAN VAIN OLLA JA TEHDÄ",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I feel shy when you look at me.",
+      "finnish": "Olen hieman ujo, kun katsot minua.",
+      "transliteration": "Olen hiemän ujo, kun KATSOT minua.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’m worried I’ll mess things up.",
+      "finnish": "Minua huolettaa, etten mokaile ihan tahallani.",
+      "transliteration": "Mina HUOLETTAA, etten MOKAAILE ihan tahallani.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I feel disappointed in myself.",
+      "finnish": "Olen pettynyt itseeni.",
+      "transliteration": "Olen PETTYNYT itseeni.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "Right now I feel a little lonely.",
+      "finnish": "Tällä hetkellä minua yksinäistää hieman.",
+      "transliteration": "Talla HETKELLÄ minua YKSINAISTÄÄ hieman.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’m grateful you showed up for me.",
+      "finnish": "Olen kiitollinen, että tulit tueksi.",
+      "transliteration": "Olen KIITOLLINEN, etta TULIT tueksi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I feel proud of how far we’ve come.",
+      "finnish": "Olen ylpeä siitä, mihin olemme päässeet.",
+      "transliteration": "Olen YLPEÄ siita, mihin OLEMME paästäneet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
+    },
+    {
+      "english": "I’m angry, but I want to be fair.",
+      "finnish": "Olen vihainen, mutta yritän olla oikeudenmukainen.",
+      "transliteration": "Olen VIHAINEN, mutta YRITÄN olla OIKEUDENMUKAINEN.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T13:33:31.166997"
     }
   ],
-  "last_updated": "2026-11-18T13:15:13.179874"
+  "last_updated": "2026-11-19T13:33:31.166997"
 }
