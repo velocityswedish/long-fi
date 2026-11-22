@@ -12167,7 +12167,399 @@
       "transliteration": "VAStaan VIIesteihin ENNEN palaveria.",
       "category": "Daily Routine",
       "generated_at": "2026-11-21T12:50:47.126550"
+    },
+    {
+      "english": "Hold steady, I’m right behind you.",
+      "finnish": "Pidä tasaisesti, olen heti perässäsi.",
+      "transliteration": "PidÄ tasaiSESTI, olen HEti perÄSSÄSI.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Try a slow toe-to-heel step.",
+      "finnish": "Kokeile hidasta kantapäästä varpaisiin -askelta.",
+      "transliteration": "KOkeile hiDAS ta KANTapÄÄSTÄ varPAAsiin ASKelta.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Let your weight settle before moving.",
+      "finnish": "Anna painon asettua, ennen kuin liikut.",
+      "transliteration": "ANNA PAInon ASETTUA, ennen kuin LIikut.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Don’t rush, breathe and rebalance.",
+      "finnish": "Älä hätiköi, hengitä ja palauta tasapaino.",
+      "transliteration": "ÄlÄ HÄtikÖI, hengITÄ ja paLAUta taSApiNO.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "When you turn, keep your eyes forward.",
+      "finnish": "Kun käännät, pidä katse eteenpäin.",
+      "transliteration": "Kun KÄÄNNÄt, pidÄ KATSE EteenPÄIN.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I’m going to count, you sway slowly.",
+      "finnish": "Lasken nyt, sinä keinahda rauhassa.",
+      "transliteration": "LASken nyt, siNÄ KEINahda rauHASSA.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Brace your hips, it helps a lot.",
+      "finnish": "Tue lantiota, se auttaa paljon.",
+      "transliteration": "TUE LANtiota, se AUTtaa PALjon.",
+      "category": "Balance",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "No stress, I’ll handle it",
+      "finnish": "Ei hätää, mä hoidan sen",
+      "transliteration": "Ei HÄTÄÄ, mä HOIdan sen",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "That’s hilarious, oh my god",
+      "finnish": "Voi vittu, toi on hauskaa",
+      "transliteration": "Voi VITtu, TOI on HAUSkaa",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I’m late, don’t start without me",
+      "finnish": "Oon myöhässä, älkää aloittako ilman mua",
+      "transliteration": "OON myÖHÄssä, ÄL-kää ai-LOITta-ko ilMAN MUA",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Calm down, relax a bit",
+      "finnish": "Rauhoitu nyt, hengitä välillä",
+      "transliteration": "RAUhoitu NYT, HENgitä väLILlä",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I have a bad feeling about this",
+      "finnish": "Mulla on paha fiilis tästä",
+      "transliteration": "MUL-la on PAHA FIiilis TÄSTÄ",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "What, really? That’s wild",
+      "finnish": "Mitä, oikeesti, toi on ihan järjetöntä",
+      "transliteration": "MI-tä, OIkeesti, TOI on I-han JÄRjetöntä",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Just tell me, straight up",
+      "finnish": "Sano se suoraan, ei kiertelyä",
+      "transliteration": "SA-no se SUO-raan, ei KIERte-lyä",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I can do this, honestly.",
+      "finnish": "Minä pystyn tähän, rehellisesti.",
+      "transliteration": "Mi-nä PYs-ty-n tähän, RE-hli-ses-ti.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I speak up before doubt wins.",
+      "finnish": "Puhun ääneen ennen kuin epäilys voittaa.",
+      "transliteration": "PU-hun AA-ne-en en-nen KUN in epäi lys VOIT-taa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I trust my pace, not perfection.",
+      "finnish": "Luotan omaan tahtiini, en täydellisyyteen.",
+      "transliteration": "LUo-tan O-maan TAH-ti-i-ni, en TÄY-del-li-syy-teen.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I feel brave enough for today.",
+      "finnish": "Minusta tuntuu, että olen tarpeeksi rohkea tälle päivälle.",
+      "transliteration": "Mi-nus-ta TUN-tuu, et-tä O-len TAR-peek-si ROH-kea täl-le PÄI-väl-le.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "My mistakes are data, not failure.",
+      "finnish": "Virheeni ovat tietoa, eivät epäonnistumista.",
+      "transliteration": "VIr-he-eni OV-at TIE-to-a, EI-vät epä-onnis-tu-mis-ta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I can pause and still respond.",
+      "finnish": "Voin pysähtyä, ja silti vastata.",
+      "transliteration": "VO-in py-säh-tyä, ja SIL-ti VAS-tä-ta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I look them in the eye.",
+      "finnish": "Katson heitä silmiin asti.",
+      "transliteration": "KAT-son HEi-tä SIL-mi-in as-ti.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Can I work from home tomorrow?",
+      "finnish": "Voinko tehdä etätöitä huomenna?",
+      "transliteration": "VOinko TEHdä ETäTYöitä HUOMENna?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I need a meeting room for ten.",
+      "finnish": "Tarvitsen kokoushuoneen kymmenelle.",
+      "transliteration": "TA RviTSEN KO kOUS huONeen KYMmenelle.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Could you resend the calendar invite?",
+      "finnish": "Voisitko lähettää kalenterikutsun uudelleen?",
+      "transliteration": "VOisitko LÄHettää KA lENterikUTsun UuDELleen?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I finished it, want to check now?",
+      "finnish": "Valmis jo, katsotaanko se nyt?",
+      "transliteration": "VALMIS JO, KATso taanko se NYT?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Where should I upload the document?",
+      "finnish": "Mihin minun pitää ladata tiedosto?",
+      "transliteration": "MIHIN MI nun pi TÄÄ laDA ta TIE dOS to?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Can we shorten today’s agenda a bit?",
+      "finnish": "Voidaanko lyhentää päivän esityslistaa vähän?",
+      "transliteration": "VOI daanko LYYHentää PÄi vän E SI tys lis taa VIHAn?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Do we have the latest version?",
+      "finnish": "Onko meillä uusin versio?",
+      "transliteration": "ONko MEilLÄ UU sin VERsio?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Welcome in, coat rack is by the door",
+      "finnish": "Tervetuloa sisään, takkikaappi on oven vieressä",
+      "transliteration": "terVETuloa SIINN, TAKkikaappi on OVen VIERESSÄ",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I brought homemade cookies, try one",
+      "finnish": "Toin itse leivottuja keksejä, maista yksi",
+      "transliteration": "TOIN ITse LEIVottuja KEKsiä, MAIsta YKSI",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Let me help you pour your drink",
+      "finnish": "Autan mielelläni, kaadan juoman puolestasi",
+      "transliteration": "AUtan MIElelläni, KAadan JUoman puolesi",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Shoes off, let's keep it comfy inside",
+      "finnish": "Kengät pois, pidetään sisällä rennosti ja lämpimästi",
+      "transliteration": "KENkät POIS, PIdeään SIllä RENToSTI ja LAMpiMAsTI",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Can we sing together for a minute?",
+      "finnish": "Voidaanko laulaa yhdessä hetki",
+      "transliteration": "VOIdaanko LAUlaa YHDESSÄ HETki",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "This playlist is perfect for mingling",
+      "finnish": "Tämä soittolista on täydellinen jutusteluun",
+      "transliteration": "TÄmä SOITtoLISTa on TÄYdellinen JUTusteluUN",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Dinner is ready, plates are on the table",
+      "finnish": "Ruoka on valmiina, lautaset ovat pöydässä",
+      "transliteration": "RUOka on VAlmiina, LAUtaset ovat PÖYdässä",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Sleep on it, then decide.",
+      "finnish": "Nuku yön yli, sitten päätä.",
+      "transliteration": "NUKU YÖN YLI, SITTeN PÄÄTÄ.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Ask, then listen for the answer.",
+      "finnish": "Kysy ensin, kuuntele vasta sitten.",
+      "transliteration": "KYSY ENSIN, KUUNTELE VASTA SITTEN.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "You don’t need to carry it alone.",
+      "finnish": "Sinun ei tarvitse kantaa kaikkea yksin.",
+      "transliteration": "SINUN EI TARVI KANTAA KAIKKAA YKSIN.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Let your yes be real and clear.",
+      "finnish": "Pidä kylläsi selkeänä ja totena.",
+      "transliteration": "PIDÄ KÄYSI SELKEÄNÄ JA TOTENA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Do the small cleanup right away.",
+      "finnish": "Siivoa pieni sotku heti pois.",
+      "transliteration": "SIIVOA PIENI SOTKU HETI POIS.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "When you’re angry, slow your feet.",
+      "finnish": "Kun olet vihainen, hidasta askelia.",
+      "transliteration": "KUN OLET VIHainen, HIDASTA ASKELIA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Choose the next right step, not the perfect.",
+      "finnish": "Valitse seuraava oikea askel, ei täydellisyys.",
+      "transliteration": "VALITSE SEURAAVA OIKEA ASKEL, EI TÄYDELLISYYS.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "Today I level up my habits",
+      "finnish": "Tänään nostan tasoa tavoissani, rauhassa.",
+      "transliteration": "Tänään NOSTAN TASOA TAVOISSAni, rauhassa.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I track progress, not perfection",
+      "finnish": "Seuraan edistymistä, en täydellisyyttä.",
+      "transliteration": "SEURAAN edistymistä, EN täydellisyyttä.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I’m getting stronger with each try",
+      "finnish": "Tulokseni paranevat joka yrityksellä, askel kerrallaan.",
+      "transliteration": "Tulokseni PARANEvat joka YRITYKSELLÄ, askel kerrallaan.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "My mindset is changing for good",
+      "finnish": "Ajatteluni on muuttumassa pysyvästi.",
+      "transliteration": "AJATTELUNI on MUUTTUmassa pysyvästi.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I use discomfort as my teacher",
+      "finnish": "Käytän epämukavuutta opettajana, en vihollisena.",
+      "transliteration": "KÄYTÄN EPÄmukavuutta opettajana, EN vihollisena.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I ask, then I act on it",
+      "finnish": "Kysyn ja toimin heti sen jälkeen.",
+      "transliteration": "KYSYN ja TOIMIN heti sen jälkeen.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I’m building consistency, one morning",
+      "finnish": "Rakennan johdonmukaisuutta, yksi aamu kerrallaan.",
+      "transliteration": "RAKENnan johdonmukaisuutta, YKSI aamu KERRALLAAN.",
+      "category": "Growth",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I breathe, then I act",
+      "finnish": "Hengitän, ja sitten toimin",
+      "transliteration": "Hengitän, ja SITTEN toimin",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "My focus is my quiet power",
+      "finnish": "Tarkennus on hiljaista voimaa",
+      "transliteration": "Tarkennus on HILJAISTA VOIMAA",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I rest, and it makes me stronger",
+      "finnish": "Lepään, ja se tekee minusta vahvemman",
+      "transliteration": "Lepään, ja SE TEKEE minusta vahvemman",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I let fear pass, I stay steady",
+      "finnish": "Annan pelon mennä, pysyn vakaana",
+      "transliteration": "Annan PE LON mennä, py sY n vakaana",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "No more shrinking, I take space",
+      "finnish": "En enää kutistu, otan tilaa",
+      "transliteration": "En ENÄÄ kutistu, otan TILAA",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I choose effort over excuses",
+      "finnish": "Valitsen työn, en tekosyitä",
+      "transliteration": "Valitsen TYÖN, en TEKO S IÄ",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
+    },
+    {
+      "english": "I ask for help without shame",
+      "finnish": "Pyydän apua ilman häpeää",
+      "transliteration": "Pyydän APUA ILMAN häpeää",
+      "category": "Strength",
+      "generated_at": "2026-11-22T12:44:35.049101"
     }
   ],
-  "last_updated": "2026-11-21T12:50:47.126550"
+  "last_updated": "2026-11-22T12:44:35.049101"
 }
