@@ -12951,7 +12951,399 @@
       "transliteration": "PIE- NET VOI- TOT PITÄ- VÄT MI- NU T LII- KKEES- SÄ E- TEEN- PÄIN.",
       "category": "Perseverance",
       "generated_at": "2026-11-23T15:01:52.756804"
+    },
+    {
+      "english": "I play, and ideas appear faster.",
+      "finnish": "Lelttelen, ja ideat tulevat nopeammin.",
+      "transliteration": "LeLttelen, ja IDEat tuLevat NOpeammin.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "What if mistakes are part of it?",
+      "finnish": "Entä jos virheet kuuluvat tähän?",
+      "transliteration": "ENtä jos VIRheet KuuLUvat TÄHän?",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I remix old ideas, on purpose.",
+      "finnish": "Remixaan vanhoja ideoita tarkoituksella.",
+      "transliteration": "RemIxxaan VANhoja iDEoiTA tarkoiTUKsellA.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Let me try a totally different angle.",
+      "finnish": "Kokeilen ihan toisenlaista näkökulmaa.",
+      "transliteration": "KOkeen ihan TOisenLAista NÄKökulmaa.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I follow curiosity, even when it’s messy.",
+      "finnish": "Kutan uteliaisuuden perässä, vaikka se sotkisi.",
+      "transliteration": "KuLtan uTEliaisuuden PERässä, AIkKEt se sotKISI.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Today I’ll build, not just brainstorm.",
+      "finnish": "Tänään rakennan, en pelkästään ideoi.",
+      "transliteration": "TÄnään RAKennan, en PELkänTÄän iDEoi.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I give my mind permission to wander.",
+      "finnish": "Annan mieleni vaellella luvan kanssa.",
+      "transliteration": "ANnan mieLeni VAAellella luVAN kansSA.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I hope, even when it's messy.",
+      "finnish": "Toivon, vaikka kaikki olisi vielä kesken.",
+      "transliteration": "Toivon, vaikka kaikki olisi VIELÄ kesken.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I choose a hopeful next step.",
+      "finnish": "Valitsen toiveikkaan seuraavan askeleen.",
+      "transliteration": "VaLIN sen toiveIKKAAN seuRAA vaN ASKELEN.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Let hope do the small work.",
+      "finnish": "Anna toivon tehdä pieni työ, tänään.",
+      "transliteration": "ANna TOIVOn teh-dä PIEN i työ, TÄÄNÄÄN.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I text back, with hope.",
+      "finnish": "Vastaan viestiin, toivo mielessäni.",
+      "transliteration": "VASTAan VIESTiin, TOiVO mielessäNI.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Hope says, call that friend.",
+      "finnish": "Toivo kuiskaa, soita sille ystävälle.",
+      "transliteration": "TOiVO kuISkaA, SOi-ta sille YSTÄvälle.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I can wait, and still believe.",
+      "finnish": "Voin odottaa, ja silti uskoa huomiseen.",
+      "transliteration": "VOin O-dottaa, ja S I I T I uskoa HUo MIS teen.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Hope keeps showing up in my day.",
+      "finnish": "Toivo löytää tiensä tähän päivään.",
+      "transliteration": "TOivo LÖytää TIEn-sä tä-hän PÄi-vään.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Going for a swim clears my head",
+      "finnish": "Meren uiminen kirkastaa ajatukseni.",
+      "transliteration": "Meren uiminen KIRKASTAA ajatukseni.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I lace up my running shoes",
+      "finnish": "Siton juoksukengät ja lähden liikkeelle.",
+      "transliteration": "Siton JUOKSUKENGÄT ja lähden LIIKKEELLE.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I sketch for fun, no pressure",
+      "finnish": "Piirrän luonnoksia vain huvikseen, ilman painetta.",
+      "transliteration": "Piirrän LUONNOSKIA vain HUVIKSEEN, ilman PAINETTA.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Baking bread smells like comfort",
+      "finnish": "Leivän leipominen tuoksuu lohdulta.",
+      "transliteration": "Leivän LEIPOMINEN TUOKSUU lohdulta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I play chess when I need focus",
+      "finnish": "Shakki auttaa minua keskittymään hetkeksi.",
+      "transliteration": "Shakki AUTTAA minua KESKITTYMÄÄN hetkeksi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I join a weekly dance class",
+      "finnish": "Käyn viikoittaisella tanssitunnilla ja nautin rytmistä.",
+      "transliteration": "Käyn VIIKOITTAISELLA tanssitunnilla ja NAUTIN rytmistä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Scrapbooking keeps my hands busy",
+      "finnish": "Romuttaaminen? Ei, askartelu pitää kädet kiireisinä.",
+      "transliteration": "Romuttaminen? Ei, ASKARTELU pitää KÄDET kiireisinä.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I trust my next right action.",
+      "finnish": "Luotan seuraavaan oikeaan tekoon.",
+      "transliteration": "Luo TAN seuRAA Vaan OI KEAAN TEKOON.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Progress counts even when it’s messy.",
+      "finnish": "Edistyskin kelpaa, vaikka se olisi sotkuista.",
+      "transliteration": "E DIS TYS KIN KEL PAA, VAIK KA se olisi SO TKuis TA.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I keep promises to myself daily.",
+      "finnish": "Pidän itselleni lupaukset joka päivä.",
+      "transliteration": "PI dän it SEL LEN i lu PAUK set JOKA PÄI VÄ.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Small routines build big success.",
+      "finnish": "Pienet rutiinit rakentavat suuren menestyksen.",
+      "transliteration": "PI e net RU TII NIT RAKEN TA vat SUu REN MEN ES TYSEN.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I make space for rest, then return.",
+      "finnish": "Teen tilaa levolle, ja palaan.",
+      "transliteration": "TE n Tii laa LE VOL le, ja PA laan.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I finish what I start, kindly.",
+      "finnish": "Päätän aloittamani, lempeästi.",
+      "transliteration": "PÄÄ tän A LOIT ta ma NI, LEM PEÄS TI.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I turn fear into one step.",
+      "finnish": "Muutan pelon yhdeksi askeleeksi.",
+      "transliteration": "MUU tan PE lo n yh DEK si A SKE LEK SI.",
+      "category": "Success",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Is parking free here?",
+      "finnish": "Onko pysäköinti täällä ilmaista?",
+      "transliteration": "Onko pysAKOinti TÄÄLLÄ ILmaista?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Where can I store my luggage?",
+      "finnish": "Minne voin jättää matkatavarat säilytykseen?",
+      "transliteration": "MINne VOin JÄTTÄÄ MATkatavarat SÄiLÖTyKSEEN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Can I get a late breakfast?",
+      "finnish": "Onko aamiaista myöhempään aikaan?",
+      "transliteration": "Onko AAMiaista MYYÖhemPÄÄN AIkaan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "The room is cold, can you help?",
+      "finnish": "Huone on kylmä, voisitteko auttaa?",
+      "transliteration": "Huone on KYLMÄ, VOIsiteko AUttaa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Do you have hair dryer available?",
+      "finnish": "Onko hiustenkuivaajaa saatavilla?",
+      "transliteration": "Onko HIIustenKUIVAjaa SAatavilLA?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Could I have a room map?",
+      "finnish": "Voinko saada hotellin kartan?",
+      "transliteration": "VOinko SAada hotellin KARTan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Is Wi-Fi strong in my room?",
+      "finnish": "Toimiiko Wi-Fi hyvin huoneessa?",
+      "transliteration": "TOIMIiko Wi-Fi HYvin HUoNEessa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I can let this go now.",
+      "finnish": "Voin päästää tämän nyt irti.",
+      "transliteration": "VOin PÄÄstää TÄMÄn NyoT irti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I forgive, but I need consistency.",
+      "finnish": "Annan anteeksi, mutta tarvitsen johdonmukaisuutta.",
+      "transliteration": "ANnan ANteeksi, mutta TARvitsen JOHdonmukaisuutta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I’m choosing mercy today, not revenge.",
+      "finnish": "Valitsen tänään armoa, en kostoa.",
+      "transliteration": "VALitsen TÄNÄän ARMOa, en KOSToa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Let’s move on, step by step.",
+      "finnish": "Edetään eteenpäin, askel kerrallaan.",
+      "transliteration": "EteenpÄIn, ASKEL kerraLlaan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I’ll try to see, not judge.",
+      "finnish": "Yritän nähdä, enkä tuomita.",
+      "transliteration": "YRITÄn NÄhdä, enkä TUOmitA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I’m ready to soften my heart.",
+      "finnish": "Olen valmis pehmentämään sydäntäni.",
+      "transliteration": "Olen VAlmis PEHmentämään SYdäntäni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Thank you, I’m letting it settle.",
+      "finnish": "Kiitos, annan tämän asettua.",
+      "transliteration": "KIItos, ANnan TÄMÄn Asettua.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Feel your attention landing right now",
+      "finnish": "Tunnu, mihin huomiosi laskeutuu nyt",
+      "transliteration": "TUNNU, MIHIN HUOMIOSI LASKEUTUU NYT",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Let your shoulders drop, gently",
+      "finnish": "Päästä hartiat alas, varovasti",
+      "transliteration": "PÄÄSTÄ HARTIAT ALAS, VAROVASTI",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Soften your gaze, no fixing needed",
+      "finnish": "Peitä katseesi pehmeämmäksi, ei tarvitse korjata",
+      "transliteration": "PEITÄ KATSEESI PEHMEÄM MÄKSI, EI TARVITSE KORJATA",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Check the room, then check in",
+      "finnish": "Katso ympärillesi, sitten tarkista itsesi",
+      "transliteration": "KATSO YMPÄRILLESI, SITTEN TARKISTA ITSESI",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Notice one need, not a whole story",
+      "finnish": "Huomaa yksi tarve, älä koko tarina",
+      "transliteration": "HUOMAA YKSI TARVE, ELÄ KOKO TARINA",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Breathe in, exhale the urge to rush",
+      "finnish": "Hengitä sisään, ja päästä kiireen tarve pois",
+      "transliteration": "HENGITÄ SISÄÄN, JA PÄÄSTÄ KIREEN TARVE POIS",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Name what you feel, then unclench",
+      "finnish": "Nimeä se mitä tunnet, sitten löysää ote",
+      "transliteration": "NIMEÄ SE MITÄ TUNNET, SITTEN LÖYSÄÄ OTE",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Looks like rain might start soon.",
+      "finnish": "Näyttää siltä, että sade alkaa pian.",
+      "transliteration": "NÄYTTÄÄ siltä, että SAde alkaa pian.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Is it warmer where you are?",
+      "finnish": "Onko siellä lämpimämpää kuin täällä?",
+      "transliteration": "ONko siellä LÄMPIMÄMPÄÄ kuin täällä?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I can hear the wind changing.",
+      "finnish": "Kuulen, kun tuuli vaihtaa suuntaa.",
+      "transliteration": "KUULEN, kun TUIli VAihtaa SUUNtaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "The sun feels shy today.",
+      "finnish": "Aurinko tuntuu tänään ujolta.",
+      "transliteration": "AUrinko TUNtuu tänään uJOLta.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "Do you prefer this kind of weather?",
+      "finnish": "Tykkäätkö tällaisesta säästä?",
+      "transliteration": "TYKKÄÄtkö TÄLLAI ses ta SÄÄstä?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "I’m wearing layers just in case.",
+      "finnish": "Laitan kerroksia, ihan varmuuden vuoksi.",
+      "transliteration": "LAitan KERROksia, IHAN varmuuden VUOKsi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
+    },
+    {
+      "english": "That drizzle is so gentle.",
+      "finnish": "Tuo tihkusade on niin lempeää.",
+      "transliteration": "Tuo TIHKU sade on niin LEMPEÄÄ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T15:01:45.355994"
     }
   ],
-  "last_updated": "2026-11-23T15:01:52.756804"
+  "last_updated": "2026-11-24T15:01:45.355994"
 }
