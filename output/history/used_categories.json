@@ -431,7 +431,39 @@
     {
       "category": "Weather & Small Talk",
       "date": "2026-11-24"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-25"
     }
   ],
-  "last_updated": "2026-11-24T15:01:45.368462"
+  "last_updated": "2026-11-25T14:40:08.260294"
 }
