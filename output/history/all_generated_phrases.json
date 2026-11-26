@@ -13735,7 +13735,399 @@
       "transliteration": "Kuin-ka PIT-kä KÄ-ve-ly täs-TÄ on?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-25T14:40:08.244912"
+    },
+    {
+      "english": "How do I check my balance?",
+      "finnish": "Miten tarkistan saldoni?",
+      "transliteration": "MIten tarkistAN SALdoni?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can I update my personal details?",
+      "finnish": "Voinko päivittää henkilötietoni?",
+      "transliteration": "VOinko PÄivitTÄ henkilötieToni?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I need my bank statement today, please.",
+      "finnish": "Tarvitsen tiliotteen tänään, kiitos.",
+      "transliteration": "TARvitSen TILIotteen TÄnään, KIItos.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Where can I report suspicious charges?",
+      "finnish": "Mihin ilmoitan epäilyttävistä veloituksista?",
+      "transliteration": "MIhin ilmoiTan E-päiLYttävisTÄ VE-loiTuk-sis-ta?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Is this purchase security-verified?",
+      "finnish": "Onko tämä ostos suojattu todennuksella?",
+      "transliteration": "ONko TÄmÄ osTOS suojatTU todennukSELLA?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "My PIN stopped working, what now?",
+      "finnish": "PIN-koodini ei toimi, mitä teen nyt?",
+      "transliteration": "PIN-KOODini EI toimi, MITÄ TEEN NYT?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can I set a spending limit by card?",
+      "finnish": "Voinko asettaa kortille kulutusrajan?",
+      "transliteration": "VOinko Asettaa kortilLe KULUStusRAjan?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I wait, without spiraling.",
+      "finnish": "Odotan, ilman että paniikki vie.",
+      "transliteration": "Odotan, ILMAN että paniikki vie.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Slow answers are still answers.",
+      "finnish": "Hidas vastauskin on vastaus.",
+      "transliteration": "HIDAS vastauskin on VASTAUS.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I can breathe before I decide.",
+      "finnish": "Voin hengittää ennen kuin päätän.",
+      "transliteration": "VOin hengittää ENNEN kuin PÄÄTÄN.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I let the moment be messy.",
+      "finnish": "Annan hetken olla vähän keskeneräinen.",
+      "transliteration": "ANNAN hetken olla VÄHÄN keskeneräinen.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I hold my tongue, then act.",
+      "finnish": "Pidän kielen kurissa, sitten teen.",
+      "transliteration": "PIDÄN kielen KURISSA, sitten TEEN.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "When it drags, I stay kind.",
+      "finnish": "Kun se matelee, pysyn ystävällisenä.",
+      "transliteration": "KUN se MATELLEe, pysyn YSTÄVÄLLISENÄ.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I don’t punish myself for time.",
+      "finnish": "En rankaise itseäni ajasta.",
+      "transliteration": "EN rankaise ITSEäni AJASTA.",
+      "category": "Patience",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "What’s the house specialty today?",
+      "finnish": "Mikä on tämän päivän talon erikoisuus?",
+      "transliteration": "MIH-ka on TEN-nä-ai-van ta-lon e-ri-kois-UUS?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Do you have breakfast sandwiches?",
+      "finnish": "Onko teillä aamiaisvoileipiä?",
+      "transliteration": "ON-ko te-illä aa-MI-ai-svoi-lei-pi-a?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can I get it a bit warmer?",
+      "finnish": "Saanko sen vähän lämpimämpänä?",
+      "transliteration": "SAAN-ko sen VUH-nä läm-pim-pä-nä?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Which cake is your favorite?",
+      "finnish": "Mikä kakku on teidän lemppari?",
+      "transliteration": "MIH-ka kak-ku on tei-dän LEM-p-pa-ri?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Do you have decaf coffee available?",
+      "finnish": "Onko teillä kofeiinitonta kahvia?",
+      "transliteration": "ON-ko te-illä ko-fei-i-nit-on-ta kah-vi-a?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can I have hot chocolate to go?",
+      "finnish": "Saanko mukaan kuumaa kaakaota?",
+      "transliteration": "SAAN-ko MUU-kaan kuu-maa kaa-kao-ta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Is the bread sourdough or plain?",
+      "finnish": "Onko leipä hapanjuurileipää vai tavallista?",
+      "transliteration": "ON-ko LEI-pä ha-pan-juu-ri-LEI-pä-ä vai TA-val-lis-ta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can we adjust the plan, please?",
+      "finnish": "Voimmeko muuttaa suunnitelmaa, kiitos?",
+      "transliteration": "VoimMeko muuttaa suunnitelmaa, KIITOS?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I just checked the weather.",
+      "finnish": "Tarkistin juuri sääennusteen.",
+      "transliteration": "TAR-kis-tin juu-ri SÄÄ-en-nus-teEN.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Let’s pick a meeting point.",
+      "finnish": "Valitaan tapaamispaikka.",
+      "transliteration": "VAL-li-aan ta-pa-a-mis-paik-KA.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "We should leave a bit earlier.",
+      "finnish": "Meidän kannattaa lähteä vähän aiemmin.",
+      "transliteration": "Mei-dän kanNAT-taa LÄH-TEÄ vä-hän AIem-min.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Do we have time for coffee?",
+      "finnish": "Onko meillä aikaa kahville?",
+      "transliteration": "ON-ko meilLÄ ai-kaa kah-viLLE?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I’ll send the plan by text.",
+      "finnish": "Laitan suunnitelman tekstiviestillä.",
+      "transliteration": "LAi-tan suunnitelman teks-ti-viES-tillä.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "What’s the budget for this?",
+      "finnish": "Paljonko tähän on budjettia?",
+      "transliteration": "PAL-jon-ko TÄ-hän on BUJ-et-tia?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Where is everyone’s coat?",
+      "finnish": "Missä kaikkien takit ovat?",
+      "transliteration": "MISSÄ KAIKKIEN TAKIT OVAT?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can you watch the baby for ten?",
+      "finnish": "Voitko vahtia vauvaa kymmenen minuuttia?",
+      "transliteration": "VOITKO VAHTIA VAAvaa KYMMENTÄ MINUUTTIA?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I’ll hang the towels in the hall.",
+      "finnish": "Ripustan pyyhkeet eteiseen.",
+      "transliteration": "RIPUSTAN PYYHKEmET ETEISEEN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Let’s do a quick room tidy-up.",
+      "finnish": "Tehdään nopeasti pieni siivous huoneeseen.",
+      "transliteration": "TEHDÄÄN NOPEASTI PIENI SIIvOUS HUONEESEEN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Do we need diapers today?",
+      "finnish": "Tarvitaanko vaippoja tänään?",
+      "transliteration": "TARVITAANKO VAIppoja TÄNÄÄN?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I set out cups for tomorrow guests.",
+      "finnish": "Laitan huomenna tuleville vieraille kupit esiin.",
+      "transliteration": "LAITAN HUOMENNA TULEVILLE VIERAILLE KUPIT ESiiN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Whose turn is it to vacuum?",
+      "finnish": "Kenen vuoro on imuroida?",
+      "transliteration": "KEiNEN VUORO ON IMUROIDA?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I clean one corner, instantly calmer.",
+      "finnish": "Siivoan yhden nurkan, ja olo rauhoittuu heti.",
+      "transliteration": "Siivoan yhen nurkan, ja olo rauhoittuu HETI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I drink water before my first coffee.",
+      "finnish": "Juon vettä ennen ensimmäistä kahvia.",
+      "transliteration": "Juon VETTÄ ennen ensimmäistä KAHVIA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I breathe, then answer calmly.",
+      "finnish": "Hengitän ensin, sitten vastaan rauhassa.",
+      "transliteration": "Hengitän ENSIN, sitten VASTAAN rauhassa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I set a ten-minute tidy challenge.",
+      "finnish": "Asetan kymmenen minuutin siivoushaasteen.",
+      "transliteration": "Asetan KYMmenen minuutin siivoushaasteen.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I choose one hard task, early.",
+      "finnish": "Valitsen yhden vaikean tehtävän, heti aamusta.",
+      "transliteration": "Valitsen yhen VAIKEAn tehtävän, heti AMUsta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I stretch my neck, shoulders, and wrists.",
+      "finnish": "Venytän niskaa, hartioita ja ranteita.",
+      "transliteration": "Venytän NISkaa, HARTIOita ja RANTEita.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I ask myself, what matters today?",
+      "finnish": "Kysyn itseltäni, mikä oikeasti merkitsee tänään?",
+      "transliteration": "Kysyn itseltäni, mikä OIKEASTI merkitsee TÄNÄÄN?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Sauna first, then a quick lake dip.",
+      "finnish": "Sauna ensin, sitten nopea uinti järveen.",
+      "transliteration": "SAU-na ensin, SIT-ten NOPEA UIN-ti jär-veen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Swedish flag day is a big moment.",
+      "finnish": "Ruotsinlipun päivä on meille tärkeä juhla.",
+      "transliteration": "R U O T-si n li-pun PÄI-vä on MEIL-le TÄR-keä JUH-la.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "When you visit, ask about our coffee.",
+      "finnish": "Kun tulet kylään, kysy kahvista ja sen tarjonnasta.",
+      "transliteration": "KUN tu-let KYY-lään, KYSY KAH-vis-ta ja SEN TAR jon-nas-ta.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "We sing together, softly, before eating.",
+      "finnish": "Laulamme yhdessä hiljaa ennen ruokaa.",
+      "transliteration": "LAU-lamme YH-DESSÄ HI-ljaa en-nen ROU-kaa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Gift wrap matters, keep it neat.",
+      "finnish": "Pienikin lahjapakkaus viimeistellään siistiksi.",
+      "transliteration": "PIE-nikin LAH-ja pak-kauksEN VIIMEIS-tel-lään SII-sti ksi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Make time to visit the cemetery.",
+      "finnish": "Käy välillä katsomassa omaisia haudoilla.",
+      "transliteration": "KÄY vä-lil-lä KAT-so-ma ssa OMA-i sia HA udoil-la.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "On Valentine’s we send a small card.",
+      "finnish": "Ystävänpäivänä lähetetään pieni kortti.",
+      "transliteration": "YS-tä-vän-päi-vä-nä LÄ-he-te-tään PIEN-i KORT-ti.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I need a doctor for back pain.",
+      "finnish": "Tarvitsen lääkärin selkäkipuun.",
+      "transliteration": "TARvitsen LAÄkärin SELkäkipuun.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Can you write a referral, please?",
+      "finnish": "Voisitko kirjoittaa lähetteen, kiitos?",
+      "transliteration": "VOisitko KIRjoittaa LAH*hetteen, KIItos?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I’m having stomach cramps since morning.",
+      "finnish": "Minulla on vatsakramppeja aamusta asti.",
+      "transliteration": "MInulla on VATsakramppEja AAmusta ASti.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I want to talk about my test results.",
+      "finnish": "Haluaisin keskustella tutkimustuloksistani.",
+      "transliteration": "HAluaisin keskusTELla TUTkimustULoksistani.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "Is this symptom urgent, really?",
+      "finnish": "Onko tämä oire oikeasti kiireellinen?",
+      "transliteration": "ONko TÄmä Oire oiKEasti KIireellinen?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "I need to know my diagnosis, please.",
+      "finnish": "Haluaisin tietää diagnoosini, kiitos.",
+      "transliteration": "HAluaisin TIEtää diagNOosini, KIItos.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
+    },
+    {
+      "english": "What should I avoid while taking it?",
+      "finnish": "Mitä minun pitää välttää lääkkeen aikana?",
+      "transliteration": "MItä MI:nun PITää VÄLttää LÄÄkkeen AIkana?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T14:04:15.391613"
     }
   ],
-  "last_updated": "2026-11-25T14:40:08.244912"
+  "last_updated": "2026-11-26T14:04:15.391613"
 }
