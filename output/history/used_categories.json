@@ -495,7 +495,39 @@
     {
       "category": "Doctor & Pharmacy",
       "date": "2026-11-26"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-27"
     }
   ],
-  "last_updated": "2026-11-26T14:04:15.401909"
+  "last_updated": "2026-11-27T14:02:20.426783"
 }
